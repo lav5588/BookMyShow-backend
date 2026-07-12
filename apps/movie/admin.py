@@ -18,4 +18,12 @@ class LanguageAdmin(admin.ModelAdmin):
 @admin.register(Movie)
 class MovieAdmin(admin.ModelAdmin):
     readonly_fields = ("slug",)
-    list_display = ("id", "name", "description", "duration", "slug", "release_date", "movie_poster")
+    list_display = (
+        "id",
+        "name",
+        "description",
+        "duration",
+        "slug",
+        "release_date",
+        "movie_poster",
+    )
