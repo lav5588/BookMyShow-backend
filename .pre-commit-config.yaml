@@ -1,0 +1,26 @@
+repos:
+    - repo: local
+      hooks:
+          - id: lint
+            name: Run lint
+            pass_filenames: false
+            entry: pipenv run lint
+            language: system
+            types: [python]
+            stages: [pre-commit]
+
+          - id: format
+            name: Run format
+            pass_filenames: false
+            entry: pipenv run format-check
+            language: system
+            types: [python]
+            stages: [pre-commit]
+
+          - id: check
+            name: Run check
+            pass_filenames: false
+            entry: pipenv run check
+            language: system
+            types: [python]
+            stages: [pre-commit]

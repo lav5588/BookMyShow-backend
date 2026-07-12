@@ -1,0 +1,5 @@
+.env
+.ruff_cache
+db.sqlite3
+public
+*.log

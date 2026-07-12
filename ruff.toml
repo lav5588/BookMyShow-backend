@@ -1,0 +1,26 @@
+exclude = [
+    '*/migrations/*',
+    '*/db*',
+    '.vscode',
+    '.ruff_cache',
+    '.git',
+    '.github',
+    'pyproject.toml',
+]
+line-length = 88
+indent-width = 4
+target-version = "py314"
+
+
+[lint]
+select = ["E4", "E7", "E9", "F", "I"]
+ignore = []
+fixable = ["ALL"]
+unfixable = []
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[format]
+line-ending = "lf"
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
