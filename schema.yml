@@ -1,0 +1,1125 @@
+openapi: 3.0.3
+info:
+  title: Your Project API
+  version: 1.0.0
+  description: Your project description
+paths:
+  /api/bookings/:
+    post:
+      operationId: bookings_create
+      tags:
+      - bookings
+      security:
+      - jwtAuth: []
+      responses:
+        '201':
+          description: No response body
+  /api/bookings/cancel/{id}/:
+    patch:
+      operationId: bookings_cancel_partial_update
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: integer
+        description: A unique integer value identifying this seat booking.
+        required: true
+      tags:
+      - bookings
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchedCancelBooking'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PatchedCancelBooking'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PatchedCancelBooking'
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CancelBooking'
+          description: ''
+  /api/bookings/history/:
+    get:
+      operationId: bookings_history_list
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - bookings
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedTicketList'
+          description: ''
+  /api/bookings/slot-details/{slot_id}/:
+    get:
+      operationId: bookings_slot_details_list
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      - in: path
+        name: slot_id
+        schema:
+          type: string
+        required: true
+      tags:
+      - bookings
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedBookedSeatSerializerForSlotDetailsList'
+          description: ''
+  /api/bookings/tickets/:
+    get:
+      operationId: bookings_tickets_list
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - bookings
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedTicketList'
+          description: ''
+  /api/cinemas/:
+    get:
+      operationId: cinemas_list
+      tags:
+      - cinemas
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Cinema'
+          description: ''
+  /api/cinemas/{id}/:
+    get:
+      operationId: cinemas_retrieve
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: integer
+        description: A unique integer value identifying this cinema.
+        required: true
+      tags:
+      - cinemas
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+
+schema:
+                $ref: '#/components/schemas/Cinema'
+          description: ''
+  /api/cinemas/{id}/movie-slots/:
+    get:
+      operationId: cinemas_movie_slots_list
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+        required: true
+      tags:
+      - cinemas
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/SlotsByCinema'
+          description: ''
+  /api/cinemas/locations/:
+    get:
+      operationId: cinemas_locations_list
+      tags:
+      - cinemas
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Location'
+          description: ''
+  /api/movies/:
+    get:
+      operationId: movies_list
+      description: view for showing list movies based on filters based on language,
+        genre, cinema
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedMovieList'
+          description: ''
+  /api/movies/{slug}/:
+    get:
+      operationId: movies_retrieve
+      description: view for movie retrieve by movie slug
+      parameters:
+      - in: path
+        name: slug
+        schema:
+          type: string
+        required: true
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Movie'
+          description: ''
+  /api/movies/{slug}/movie-slots/:
+    get:
+      operationId: movies_movie_slots_list
+      description: List of cinemas filter by movie
+      parameters:
+      - in: path
+        name: slug
+        schema:
+          type: string
+        required: true
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CinemaMovie'
+          description: ''
+  /api/movies/genres/:
+    get:
+      operationId: movies_genres_list
+      description: view for genre list used in movies
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Genre'
+          description: ''
+  /api/movies/languages/:
+    get:
+      operationId: movies_languages_list
+      description: view for language list used in movies
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Language'
+          description: ''
+  /api/movies/latest/:
+    get:
+      operationId: movies_latest_list
+
+description: views for showing latest movies
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedMovieList'
+          description: ''
+  /api/movies/upcoming/:
+    get:
+      operationId: movies_upcoming_list
+      description: views for showing upcoming movies
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - movies
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedMovieList'
+          description: ''
+  /api/users/change-password/:
+    put:
+      operationId: users_change_password_update
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ChangePassword'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/ChangePassword'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/ChangePassword'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ChangePassword'
+          description: ''
+    patch:
+      operationId: users_change_password_partial_update
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchedChangePassword'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PatchedChangePassword'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PatchedChangePassword'
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ChangePassword'
+          description: ''
+  /api/users/login/:
+    post:
+      operationId: users_login_create
+      description: |-
+        Custom login view that authenticates users via JWT and sets refresh token as HttpOnly cookie.
+
+        Handles POST requests with user credentials to generate access/refresh token pair.
+        Returns both tokens in response body (SimpleJWT default) AND sets refresh token
+        in secure HttpOnly cookie for web clients.
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TokenObtainPair'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/TokenObtainPair'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/TokenObtainPair'
+        required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TokenObtainPair'
+          description: ''
+  /api/users/logout/:
+    post:
+      operationId: users_logout_create
+      description: handle post request for logout
+      tags:
+      - users
+      requestBody:
+        content:
+
+application/json:
+            schema:
+              $ref: '#/components/schemas/TokenBlacklist'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/TokenBlacklist'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/TokenBlacklist'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TokenBlacklist'
+          description: ''
+  /api/users/profile/:
+    get:
+      operationId: users_profile_retrieve
+      description: Retrieve authenticated user's profile.
+      tags:
+      - users
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+  /api/users/refresh/:
+    post:
+      operationId: users_refresh_create
+      description: handle post request for refresh the tokens
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TokenRefresh'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/TokenRefresh'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/TokenRefresh'
+        required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TokenRefresh'
+          description: ''
+  /api/users/register/:
+    post:
+      operationId: users_register_create
+      description: |-
+        Handle HTTP POST request for user registration
+        Request: email, name, phone_number, password
+        Response: 201 user data | 400 validation errors
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/User'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/User'
+        required: true
+      security:
+      - cookieAuth: []
+      - basicAuth: []
+      - {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+          description: ''
+  /api/users/update-profile/:
+    put:
+      operationId: users_update_profile_update
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UpdateProfile'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/UpdateProfile'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/UpdateProfile'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UpdateProfile'
+          description: ''
+    patch:
+      operationId: users_update_profile_partial_update
+      tags:
+      - users
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchedUpdateProfile'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PatchedUpdateProfile'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PatchedUpdateProfile'
+
+security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UpdateProfile'
+          description: ''
+components:
+  schemas:
+    BookedSeatSerializerForSlotDetails:
+      type: object
+      properties:
+        slot:
+          type: integer
+        row_number:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        seat_number:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        status:
+          allOf:
+          - $ref: '#/components/schemas/StatusEnum'
+          default: PENDING
+        id:
+          type: integer
+          readOnly: true
+      required:
+      - id
+      - row_number
+      - seat_number
+      - slot
+    CancelBooking:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+      required:
+      - id
+    ChangePassword:
+      type: object
+      description: |-
+        Serializer for changing a user's password
+        Requires both old and new password
+      properties:
+        old_password:
+          type: string
+        new_password:
+          type: string
+        confirm_password:
+          type: string
+      required:
+      - confirm_password
+      - new_password
+      - old_password
+    Cinema:
+      type: object
+      description: Serializer for cinema
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        name:
+          type: string
+          maxLength: 100
+        location:
+          allOf:
+          - $ref: '#/components/schemas/Nested'
+          readOnly: true
+        rows:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        seats_per_row:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+      required:
+      - id
+      - location
+      - name
+      - rows
+      - seats_per_row
+    CinemaMovie:
+      type: object
+      description: serializer for cinema based on movie
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        name:
+          type: string
+          maxLength: 100
+        location:
+          allOf:
+          - $ref: '#/components/schemas/Nested'
+          readOnly: true
+        rows:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        seats_per_row:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        slots:
+          type: array
+          items:
+            $ref: '#/components/schemas/Nested'
+          readOnly: true
+      required:
+      - id
+      - location
+      - name
+      - rows
+      - seats_per_row
+      - slots
+    Genre:
+      type: object
+      description: serializer for genre
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        genre:
+          type: string
+      required:
+      - genre
+      - id
+    Language:
+      type: object
+      description: serializer for language
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        language:
+          type: string
+      required:
+      - id
+      - language
+    Location:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        location:
+          type: string
+      required:
+      - id
+      - location
+    Movie:
+      type: object
+      description: serializer for movie
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        name:
+          type: string
+          maxLength: 200
+        languages:
+
+type: array
+          items:
+            $ref: '#/components/schemas/Nested'
+          readOnly: true
+        genres:
+          type: array
+          items:
+            $ref: '#/components/schemas/Nested'
+          readOnly: true
+        description:
+          type: string
+        duration:
+          type: string
+        slug:
+          type: string
+          readOnly: true
+          pattern: ^[-a-zA-Z0-9_]+$
+        release_date:
+          type: string
+          format: date
+        movie_poster:
+          type: string
+          format: uri
+      required:
+      - description
+      - duration
+      - genres
+      - id
+      - languages
+      - name
+      - release_date
+      - slug
+    Nested:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        location:
+          type: string
+      required:
+      - id
+      - location
+    PaginatedBookedSeatSerializerForSlotDetailsList:
+      type: object
+      required:
+      - count
+      - results
+      properties:
+        count:
+          type: integer
+          example: 123
+        next:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=4
+        previous:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=2
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/BookedSeatSerializerForSlotDetails'
+    PaginatedMovieList:
+      type: object
+      required:
+      - count
+      - results
+      properties:
+        count:
+          type: integer
+          example: 123
+        next:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=4
+        previous:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=2
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/Movie'
+    PaginatedTicketList:
+      type: object
+      required:
+      - count
+      - results
+      properties:
+        count:
+          type: integer
+          example: 123
+        next:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=4
+        previous:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=2
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/Ticket'
+    PatchedCancelBooking:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+    PatchedChangePassword:
+      type: object
+      description: |-
+        Serializer for changing a user's password
+        Requires both old and new password
+      properties:
+        old_password:
+          type: string
+        new_password:
+          type: string
+        confirm_password:
+          type: string
+    PatchedUpdateProfile:
+      type: object
+      properties:
+        name:
+          type: string
+          maxLength: 50
+        phone_number:
+          type: string
+          nullable: true
+          maxLength: 10
+        email:
+          type: string
+          format: email
+          title: Email address
+          maxLength: 254
+        profile_pic:
+          type: string
+          format: uri
+    SlotsByCinema:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        name:
+          type: string
+          maxLength: 200
+        languages:
+          type: array
+          items:
+            $ref: '#/components/schemas/Nested'
+          readOnly: true
+
+genres:
+          type: array
+          items:
+            $ref: '#/components/schemas/Nested'
+          readOnly: true
+        description:
+          type: string
+        duration:
+          type: string
+        slug:
+          type: string
+          maxLength: 50
+          pattern: ^[-a-zA-Z0-9_]+$
+        release_date:
+          type: string
+          format: date
+        slots:
+          type: array
+          items:
+            $ref: '#/components/schemas/Nested'
+          readOnly: true
+        movie_poster:
+          type: string
+          format: uri
+      required:
+      - description
+      - duration
+      - genres
+      - id
+      - languages
+      - name
+      - release_date
+      - slots
+      - slug
+    StatusEnum:
+      enum:
+      - BOOKED
+      - CANCELLED
+      - PENDING
+      type: string
+      description: |-
+        * BOOKED - Booked
+        * CANCELLED - Cancelled
+        * PENDING - Pending
+    Ticket:
+      type: object
+      properties:
+        slot:
+          type: integer
+        row_number:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        seat_number:
+          type: integer
+          maximum: 9223372036854775807
+          minimum: 1
+          format: int64
+        user:
+          type: integer
+        status:
+          allOf:
+          - $ref: '#/components/schemas/StatusEnum'
+          default: PENDING
+        id:
+          type: integer
+          readOnly: true
+        created_at:
+          type: string
+          format: date-time
+        language:
+          type: string
+          readOnly: true
+        movie:
+          type: string
+          readOnly: true
+        cinema_name:
+          type: string
+          readOnly: true
+        cinema_location:
+          type: string
+          readOnly: true
+        show_time:
+          type: string
+          readOnly: true
+      required:
+      - cinema_location
+      - cinema_name
+      - id
+      - language
+      - movie
+      - row_number
+      - seat_number
+      - show_time
+      - slot
+      - user
+    TokenBlacklist:
+      type: object
+      properties:
+        refresh:
+          type: string
+          writeOnly: true
+      required:
+      - refresh
+    TokenObtainPair:
+      type: object
+      properties:
+        email:
+          type: string
+          writeOnly: true
+        password:
+          type: string
+          writeOnly: true
+        access:
+          type: string
+          readOnly: true
+        refresh:
+          type: string
+          readOnly: true
+      required:
+      - access
+      - email
+      - password
+      - refresh
+    TokenRefresh:
+      type: object
+      properties:
+        access:
+          type: string
+          readOnly: true
+        refresh:
+          type: string
+      required:
+      - access
+      - refresh
+    UpdateProfile:
+      type: object
+      properties:
+        name:
+          type: string
+          maxLength: 50
+        phone_number:
+          type: string
+          nullable: true
+          maxLength: 10
+        email:
+          type: string
+          format: email
+          title: Email address
+          maxLength: 254
+        profile_pic:
+          type: string
+          format: uri
+      required:
+      - email
+      - name
+    User:
+      type: object
+      description: |-
+        Serializer for the User Model
+        handles password write only serialization
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        password:
+          type: string
+          writeOnly: true
+          maxLength: 128
+        name:
+          type: string
+          maxLength: 50
+        email:
+          type: string
+          format: email
+          title: Email address
+          maxLength: 254
+        phone_number:
+          type: string
+
+nullable: true
+          maxLength: 10
+        profile_pic:
+          type: string
+          format: uri
+      required:
+      - email
+      - id
+      - name
+      - password
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+    cookieAuth:
+      type: apiKey
+      in: cookie
+      name: sessionid
+    jwtAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

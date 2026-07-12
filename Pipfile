@@ -1,0 +1,38 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+createsuperuser = "python manage.py createsuperuser"
+startapp = "python manage.py startapp"
+start = "python manage.py runserver"
+check = "python manage.py check"
+makemigrations = "python manage.py makemigrations"
+migrate = "python manage.py migrate"
+lint = "ruff check"
+lint-fix = "ruff check --fix"
+format = "ruff format"
+format-check = "ruff format --check"
+test = "python manage.py test"
+flushexpiredtokens = "python manage.py flushexpiredtokens"
+generate-schema = 'python manage.py spectacular --color --file schema.yml'
+
+[packages]
+django = "==5.2.8"
+djangorestframework = "==3.16.1"
+django-environ = "==0.12.0"
+djangorestframework-simplejwt = "==5.5.1"
+pillow = "==12.0.0"
+drf-spectacular = "==0.29.0"
+django-cors-headers = "==4.9.0"
+requests = "*"
+psycopg2 = "==2.9.12"
+
+[dev-packages]
+ruff = "==0.14.5"
+pre-commit = "==4.4.0"
+
+[requires]
+python_version = "3.14"
+python_full_version = "3.14.0"
