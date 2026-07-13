@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "genre": "Action"
+  },
+  {
+    "id": 2,
+    "genre": "Adventure"
+  },
+  {
+    "id": 3,
+    "genre": "Animation"
+  },
+  {
+    "id": 4,
+    "genre": "Anime"
+  },
+  {
+    "id": 5,
+    "genre": "Biography"
+  },
+  {
+    "id": 6,
+    "genre": "Comedy"
+  },
+  {
+    "id": 7,
+    "genre": "Crime"
+  },
+  {
+    "id": 8,
+    "genre": "Documentary"
+  },
+  {
+    "id": 9,
+    "genre": "Drama"
+  },
+  {
+    "id": 10,
+    "genre": "Family"
+  },
+  {
+    "id": 11,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 12,
+    "genre": "Film Noir"
+  },
+  {
+    "id": 13,
+    "genre": "History"
+  },
+  {
+    "id": 14,
+    "genre": "Horror"
+  },
+  {
+    "id": 15,
+    "genre": "Music"
+  },
+  {
+    "id": 16,
+    "genre": "Musical"
+  },
+  {
+    "id": 17,
+    "genre": "Mystery"
+  },
+  {
+    "id": 18,
+    "genre": "Romance"
+  },
+  {
+    "id": 19,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 20,
+    "genre": "Sport"
+  },
+  {
+    "id": 21,
+    "genre": "Superhero"
+  },
+  {
+    "id": 22,
+    "genre": "Thriller"
+  },
+  {
+    "id": 23,
+    "genre": "War"
+  },
+  {
+    "id": 24,
+    "genre": "Western"
+  },
+  {
+    "id": 25,
+    "genre": "Psychological Thriller"
+  },
+  {
+    "id": 26,
+    "genre": "Legal Drama"
+  },
+  {
+    "id": 27,
+    "genre": "Medical Drama"
+  },
+  {
+    "id": 28,
+    "genre": "Political Drama"
+  },
+  {
+    "id": 29,
+    "genre": "Romantic Comedy"
+  },
+  {
+    "id": 30,
+    "genre": "Dark Comedy"
+  },
+  {
+    "id": 31,
+    "genre": "Satire"
+  },
+  {
+    "id": 32,
+    "genre": "Parody"
+  },
+  {
+    "id": 33,
+    "genre": "Mockumentary"
+  },
+  {
+    "id": 34,
+    "genre": "Coming-of-Age"
+  },
+  {
+    "id": 35,
+    "genre": "Slice of Life"
+  },
+  {
+    "id": 36,
+    "genre": "Teen Drama"
+  },
+  {
+    "id": 37,
+    "genre": "Road Movie"
+  },
+  {
+    "id": 38,
+    "genre": "Buddy Comedy"
+  },
+  {
+    "id": 39,
+    "genre": "Buddy Cop"
+  },
+  {
+    "id": 40,
+    "genre": "Heist"
+  },
+  {
+    "id": 41,
+    "genre": "Gangster"
+  },
+  {
+    "id": 42,
+    "genre": "Detective"
+  },
+  {
+    "id": 43,
+    "genre": "Police Procedural"
+  },
+  {
+    "id": 44,
+    "genre": "Spy"
+  },
+  {
+    "id": 45,
+    "genre": "Espionage"
+  },
+  {
+    "id": 46,
+    "genre": "Martial Arts"
+  },
+  {
+    "id": 47,
+    "genre": "Samurai"
+  },
+  {
+    "id": 48,
+    "genre": "Wuxia"
+  },
+  {
+    "id": 49,
+    "genre": "Kaiju"
+  },
+  {
+    "id": 50,
+    "genre": "Disaster"
+  },
+  {
+    "id": 51,
+    "genre": "Survival"
+  },
+  {
+    "id": 52,
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "id": 53,
+    "genre": "Dystopian"
+  },
+  {
+    "id": 54,
+    "genre": "Utopian"
+  },
+  {
+    "id": 55,
+    "genre": "Cyberpunk"
+  },
+  {
+    "id": 56,
+    "genre": "Steampunk"
+  },
+  {
+    "id": 57,
+    "genre": "Space Opera"
+  },
+  {
+    "id": 58,
+    "genre": "Time Travel"
+  },
+  {
+    "id": 59,
+    "genre": "Alternate History"
+  },
+  {
+    "id": 60,
+    "genre": "Alien Invasion"
+  },
+  {
+    "id": 61,
+    "genre": "Monster"
+  },
+  {
+    "id": 62,
+    "genre": "Creature Feature"
+  },
+  {
+    "id": 63,
+    "genre": "Zombie"
+  },
+  {
+    "id": 64,
+    "genre": "Vampire"
+  },
+  {
+    "id": 65,
+    "genre": "Werewolf"
+  },
+  {
+    "id": 66,
+    "genre": "Ghost"
+  },
+  {
+    "id": 67,
+    "genre": "Supernatural"
+  },
+  {
+    "id": 68,
+    "genre": "Occult"
+  },
+  {
+    "id": 69,
+    "genre": "Folk Horror"
+  },
+  {
+    "id": 70,
+    "genre": "Body Horror"
+  },
+  {
+    "id": 71,
+    "genre": "Slasher"
+  },
+  {
+    "id": 72,
+    "genre": "Found Footage"
+  },
+  {
+    "id": 73,
+    "genre": "Psychological Horror"
+  },
+  {
+    "id": 74,
+    "genre": "Cosmic Horror"
+  },
+  {
+    "id": 75,
+    "genre": "Gothic Horror"
+  },
+  {
+    "id": 76,
+    "genre": "Monster Horror"
+  },
+  {
+    "id": 77,
+    "genre": "Holiday"
+  },
+  {
+    "id": 78,
+    "genre": "Christmas"
+  },
+  {
+    "id": 79,
+    "genre": "Halloween"
+  },
+  {
+    "id": 80,
+    "genre": "Courtroom"
+  },
+  {
+    "id": 81,
+    "genre": "Prison"
+  },
+  {
+    "id": 82,
+    "genre": "Revenge"
+  },
+  {
+    "id": 83,
+    "genre": "Vigilante"
+  },
+  {
+    "id": 84,
+    "genre": "Neo-Noir"
+  },
+  {
+    "id": 85,
+    "genre": "True Crime"
+  },
+  {
+    "id": 86,
+    "genre": "Conspiracy"
+  },
+  {
+    "id": 87,
+    "genre": "Political Thriller"
+  },
+  {
+    "id": 88,
+    "genre": "Tech Thriller"
+  },
+  {
+    "id": 89,
+    "genre": "Eco-Thriller"
+  },
+  {
+    "id": 90,
+    "genre": "Erotic Thriller"
+  },
+  {
+    "id": 91,
+    "genre": "Adventure Comedy"
+  },
+  {
+    "id": 92,
+    "genre": "Action Comedy"
+  },
+  {
+    "id": 93,
+    "genre": "Action Drama"
+  },
+  {
+    "id": 94,
+    "genre": "Action Thriller"
+  },
+  {
+    "id": 95,
+    "genre": "Adventure Fantasy"
+  },
+  {
+    "id": 96,
+    "genre": "Adventure Drama"
+  },
+  {
+    "id": 97,
+    "genre": "Adventure Romance"
+  },
+  {
+    "id": 98,
+    "genre": "Adventure Sci-Fi"
+  },
+  {
+    "id": 99,
+    "genre": "Fantasy Comedy"
+  },
+  {
+    "id": 100,
+    "genre": "Fantasy Drama"
+  },
+  {
+    "id": 101,
+    "genre": "Fantasy Romance"
+  },
+  {
+    "id": 102,
+    "genre": "Science Fantasy"
+  },
+  {
+    "id": 103,
+    "genre": "Hard Sci-Fi"
+  },
+  {
+    "id": 104,
+    "genre": "Soft Sci-Fi"
+  },
+  {
+    "id": 105,
+    "genre": "Military Sci-Fi"
+  },
+  {
+    "id": 106,
+    "genre": "Romantic Drama"
+  },
+  {
+    "id": 107,
+    "genre": "Melodrama"
+  },
+  {
+    "id": 108,
+    "genre": "Tragedy"
+  },
+  {
+    "id": 109,
+    "genre": "Epic"
+  },
+  {
+    "id": 110,
+    "genre": "Sword and Sorcery"
+  },
+  {
+    "id": 111,
+    "genre": "High Fantasy"
+  },
+  {
+    "id": 112,
+    "genre": "Urban Fantasy"
+  },
+  {
+    "id": 113,
+    "genre": "Dark Fantasy"
+  },
+  {
+    "id": 114,
+    "genre": "Fairy Tale"
+  },
+  {
+    "id": 115,
+    "genre": "Mythology"
+  },
+  {
+    "id": 116,
+    "genre": "Religious"
+  },
+  {
+    "id": 117,
+    "genre": "Biblical"
+  },
+  {
+    "id": 118,
+    "genre": "Faith"
+  },
+  {
+    "id": 119,
+    "genre": "Inspirational"
+  },
+  {
+    "id": 120,
+    "genre": "Educational"
+  },
+  {
+    "id": 121,
+    "genre": "Nature"
+  },
+  {
+    "id": 122,
+    "genre": "Wildlife"
+  },
+  {
+    "id": 123,
+    "genre": "Travel"
+  },
+  {
+    "id": 124,
+    "genre": "Food"
+  },
+  {
+    "id": 125,
+    "genre": "Cooking"
+  },
+  {
+    "id": 126,
+    "genre": "Culinary"
+  },
+  {
+    "id": 127,
+    "genre": "Fashion"
+  },
+  {
+    "id": 128,
+    "genre": "Dance"
+  },
+  {
+    "id": 129,
+    "genre": "Concert"
+  },
+  {
+    "id": 130,
+    "genre": "Stand-Up Comedy"
+  },
+  {
+    "id": 131,
+    "genre": "Sketch Comedy"
+  },
+  {
+    "id": 132,
+    "genre": "Improvisational Comedy"
+  },
+  {
+    "id": 133,
+    "genre": "Black Comedy"
+  },
+  {
+    "id": 134,
+    "genre": "Absurdist Comedy"
+  },
+  {
+    "id": 135,
+    "genre": "Screwball Comedy"
+  },
+  {
+    "id": 136,
+    "genre": "Workplace Comedy"
+  },
+  {
+    "id": 137,
+    "genre": "Sports Comedy"
+  },
+  {
+    "id": 138,
+    "genre": "Romantic Fantasy"
+  },
+  {
+    "id": 139,
+    "genre": "Musical Comedy"
+  },
+  {
+    "id": 140,
+    "genre": "Musical Drama"
+  },
+  {
+    "id": 141,
+    "genre": "Opera"
+  },
+  {
+    "id": 142,
+    "genre": "Ballet"
+  },
+  {
+    "id": 143,
+    "genre": "Silent Film"
+  },
+  {
+    "id": 144,
+    "genre": "Experimental"
+  },
+  {
+    "id": 145,
+    "genre": "Avant-Garde"
+  },
+  {
+    "id": 146,
+    "genre": "Art House"
+  },
+  {
+    "id": 147,
+    "genre": "Independent"
+  },
+  {
+    "id": 148,
+    "genre": "Cult"
+  },
+  {
+    "id": 149,
+    "genre": "Short Film"
+  },
+  {
+    "id": 150,
+    "genre": "Anthology"
+  },
+  {
+    "id": 151,
+    "genre": "Anthology Horror"
+  },
+  {
+    "id": 152,
+    "genre": "Anthology Comedy"
+  },
+  {
+    "id": 153,
+    "genre": "Anthology Drama"
+  },
+  {
+    "id": 154,
+    "genre": "Docudrama"
+  },
+  {
+    "id": 155,
+    "genre": "Biopic"
+  },
+  {
+    "id": 156,
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 157,
+    "genre": "Period Drama"
+  },
+  {
+    "id": 158,
+    "genre": "Costume Drama"
+  },
+  {
+    "id": 159,
+    "genre": "Social Drama"
+  },
+  {
+    "id": 160,
+    "genre": "Domestic Drama"
+  },
+  {
+    "id": 161,
+    "genre": "Family Drama"
+  },
+  {
+    "id": 162,
+    "genre": "Political Satire"
+  },
+  {
+    "id": 163,
+    "genre": "Workplace Drama"
+  },
+  {
+    "id": 164,
+    "genre": "School Drama"
+  },
+  {
+    "id": 165,
+    "genre": "College Drama"
+  },
+  {
+    "id": 166,
+    "genre": "Medical Thriller"
+  },
+  {
+    "id": 167,
+    "genre": "Legal Thriller"
+  },
+  {
+    "id": 168,
+    "genre": "Psychological Drama"
+  },
+  {
+    "id": 169,
+    "genre": "Character Study"
+  },
+  {
+    "id": 170,
+    "genre": "Whodunit"
+  },
+  {
+    "id": 171,
+    "genre": "Locked Room Mystery"
+  },
+  {
+    "id": 172,
+    "genre": "Cozy Mystery"
+  },
+  {
+    "id": 173,
+    "genre": "Neo-Western"
+  },
+  {
+    "id": 174,
+    "genre": "Revisionist Western"
+  },
+  {
+    "id": 175,
+    "genre": "Space Western"
+  },
+  {
+    "id": 176,
+    "genre": "Detective Comedy"
+  },
+  {
+    "id": 177,
+    "genre": "Action Horror"
+  },
+  {
+    "id": 178,
+    "genre": "Adventure Horror"
+  },
+  {
+    "id": 179,
+    "genre": "Fantasy Horror"
+  },
+  {
+    "id": 180,
+    "genre": "Sci-Fi Horror"
+  },
+  {
+    "id": 181,
+    "genre": "Romantic Thriller"
+  },
+  {
+    "id": 182,
+    "genre": "Mystery Thriller"
+  },
+  {
+    "id": 183,
+    "genre": "Crime Thriller"
+  },
+  {
+    "id": 184,
+    "genre": "Action Crime"
+  },
+  {
+    "id": 185,
+    "genre": "Crime Comedy"
+  },
+  {
+    "id": 186,
+    "genre": "Crime Drama"
+  },
+  {
+    "id": 187,
+    "genre": "Crime Mystery"
+  },
+  {
+    "id": 188,
+    "genre": "Noir"
+  },
+  {
+    "id": 189,
+    "genre": "Neo-Western Thriller"
+  },
+  {
+    "id": 190,
+    "genre": "Sea Adventure"
+  },
+  {
+    "id": 191,
+    "genre": "Jungle Adventure"
+  },
+  {
+    "id": 192,
+    "genre": "Mountain Adventure"
+  },
+  {
+    "id": 193,
+    "genre": "Treasure Hunt"
+  },
+  {
+    "id": 194,
+    "genre": "Swashbuckler"
+  },
+  {
+    "id": 195,
+    "genre": "Pirate"
+  },
+  {
+    "id": 196,
+    "genre": "Aviation"
+  },
+  {
+    "id": 197,
+    "genre": "Aviation Drama"
+  },
+  {
+    "id": 198,
+    "genre": "Auto Racing"
+  },
+  {
+    "id": 199,
+    "genre": "Motorsport"
+  },
+  {
+    "id": 200,
+    "genre": "Boxing"
+  },
+  {
+    "id": 201,
+    "genre": "Wrestling"
+  },
+  {
+    "id": 202,
+    "genre": "Football"
+  },
+  {
+    "id": 203,
+    "genre": "Cricket"
+  },
+  {
+    "id": 204,
+    "genre": "Baseball"
+  },
+  {
+    "id": 205,
+    "genre": "Basketball"
+  },
+  {
+    "id": 206,
+    "genre": "Tennis"
+  },
+  {
+    "id": 207,
+    "genre": "Olympics"
+  },
+  {
+    "id": 208,
+    "genre": "Esports"
+  },
+  {
+    "id": 209,
+    "genre": "Video Game"
+  },
+  {
+    "id": 210,
+    "genre": "Game Show"
+  },
+  {
+    "id": 211,
+    "genre": "Reality"
+  },
+  {
+    "id": 212,
+    "genre": "Mock Reality"
+  },
+  {
+    "id": 213,
+    "genre": "Lifestyle"
+  },
+  {
+    "id": 214,
+    "genre": "Children"
+  },
+  {
+    "id": 215,
+    "genre": "Preschool"
+  },
+  {
+    "id": 216,
+    "genre": "Teen Romance"
+  },
+  {
+    "id": 217,
+    "genre": "Young Adult"
+  },
+  {
+    "id": 218,
+    "genre": "LGBTQ+"
+  },
+  {
+    "id": 219,
+    "genre": "Queer Cinema"
+  },
+  {
+    "id": 220,
+    "genre": "Women's Film"
+  },
+  {
+    "id": 221,
+    "genre": "Men's Adventure"
+  },
+  {
+    "id": 222,
+    "genre": "Animal"
+  },
+  {
+    "id": 223,
+    "genre": "Pet"
+  },
+  {
+    "id": 224,
+    "genre": "Horse"
+  },
+  {
+    "id": 225,
+    "genre": "Underwater"
+  },
+  {
+    "id": 226,
+    "genre": "Ocean Adventure"
+  },
+  {
+    "id": 227,
+    "genre": "Space Exploration"
+  },
+  {
+    "id": 228,
+    "genre": "First Contact"
+  },
+  {
+    "id": 229,
+    "genre": "Robotics"
+  },
+  {
+    "id": 230,
+    "genre": "Artificial Intelligence"
+  },
+  {
+    "id": 231,
+    "genre": "Virtual Reality"
+  },
+  {
+    "id": 232,
+    "genre": "Nanotechnology"
+  },
+  {
+    "id": 233,
+    "genre": "Genetic Engineering"
+  },
+  {
+    "id": 234,
+    "genre": "Medical Sci-Fi"
+  },
+  {
+    "id": 235,
+    "genre": "Climate Fiction"
+  },
+  {
+    "id": 236,
+    "genre": "Solarpunk"
+  },
+  {
+    "id": 237,
+    "genre": "Dieselpunk"
+  },
+  {
+    "id": 238,
+    "genre": "Biopunk"
+  },
+  {
+    "id": 239,
+    "genre": "Mythic Fiction"
+  },
+  {
+    "id": 240,
+    "genre": "Folklore"
+  },
+  {
+    "id": 241,
+    "genre": "Arthurian"
+  },
+  {
+    "id": 242,
+    "genre": "Medieval"
+  },
+  {
+    "id": 243,
+    "genre": "Renaissance"
+  },
+  {
+    "id": 244,
+    "genre": "Victorian"
+  },
+  {
+    "id": 245,
+    "genre": "Industrial"
+  },
+  {
+    "id": 246,
+    "genre": "Cold War"
+  },
+  {
+    "id": 247,
+    "genre": "World War I"
+  },
+  {
+    "id": 248,
+    "genre": "World War II"
+  },
+  {
+    "id": 249,
+    "genre": "Vietnam War"
+  },
+  {
+    "id": 250,
+    "genre": "Civil War"
+  },
+  {
+    "id": 251,
+    "genre": "Revolution"
+  },
+  {
+    "id": 252,
+    "genre": "Assassin"
+  },
+  {
+    "id": 253,
+    "genre": "Mercenary"
+  },
+  {
+    "id": 254,
+    "genre": "Hitman"
+  },
+  {
+    "id": 255,
+    "genre": "Serial Killer"
+  },
+  {
+    "id": 256,
+    "genre": "Kidnapping"
+  },
+  {
+    "id": 257,
+    "genre": "Hostage"
+  },
+  {
+    "id": 258,
+    "genre": "Caper"
+  },
+  {
+    "id": 259,
+    "genre": "Rescue"
+  },
+  {
+    "id": 260,
+    "genre": "Escape"
+  },
+  {
+    "id": 261,
+    "genre": "Coming-of-Age Comedy"
+  },
+  {
+    "id": 262,
+    "genre": "Coming-of-Age Drama"
+  },
+  {
+    "id": 263,
+    "genre": "Family Adventure"
+  },
+  {
+    "id": 264,
+    "genre": "Family Comedy"
+  },
+  {
+    "id": 265,
+    "genre": "Family Fantasy"
+  },
+  {
+    "id": 266,
+    "genre": "Romantic Musical"
+  },
+  {
+    "id": 267,
+    "genre": "Dance Drama"
+  },
+  {
+    "id": 268,
+    "genre": "Music Documentary"
+  },
+  {
+    "id": 269,
+    "genre": "Rockumentary"
+  },
+  {
+    "id": 270,
+    "genre": "Crime Procedural"
+  },
+  {
+    "id": 271,
+    "genre": "Action Adventure"
+  },
+  {
+    "id": 272,
+    "genre": "Action Saga"
+  },
+  {
+    "id": 273,
+    "genre": "Action Chronicle"
+  },
+  {
+    "id": 274,
+    "genre": "Action Quest"
+  },
+  {
+    "id": 275,
+    "genre": "Action Mystery"
+  },
+  {
+    "id": 276,
+    "genre": "Action Odyssey"
+  },
+  {
+    "id": 277,
+    "genre": "Action Journey"
+  },
+  {
+    "id": 278,
+    "genre": "Action Tales"
+  },
+  {
+    "id": 279,
+    "genre": "Action Legends"
+  },
+  {
+    "id": 280,
+    "genre": "Action Stories"
+  },
+  {
+    "id": 281,
+    "genre": "Action Cinema"
+  },
+  {
+    "id": 282,
+    "genre": "Action Fusion"
+  },
+  {
+    "id": 283,
+    "genre": "Action Anthology"
+  },
+  {
+    "id": 284,
+    "genre": "Action Experience"
+  },
+  {
+    "id": 285,
+    "genre": "Action Chronicles"
+  },
+  {
+    "id": 286,
+    "genre": "Action Expedition"
+  },
+  {
+    "id": 287,
+    "genre": "Action Fantasy"
+  },
+  {
+    "id": 288,
+    "genre": "Comedy Adventure"
+  },
+  {
+    "id": 289,
+    "genre": "Comedy Saga"
+  },
+  {
+    "id": 290,
+    "genre": "Comedy Chronicle"
+  },
+  {
+    "id": 291,
+    "genre": "Comedy Quest"
+  },
+  {
+    "id": 292,
+    "genre": "Comedy Mystery"
+  },
+  {
+    "id": 293,
+    "genre": "Comedy Odyssey"
+  },
+  {
+    "id": 294,
+    "genre": "Comedy Journey"
+  },
+  {
+    "id": 295,
+    "genre": "Comedy Tales"
+  },
+  {
+    "id": 296,
+    "genre": "Comedy Legends"
+  },
+  {
+    "id": 297,
+    "genre": "Comedy Stories"
+  },
+  {
+    "id": 298,
+    "genre": "Comedy Cinema"
+  },
+  {
+    "id": 299,
+    "genre": "Comedy Fusion"
+  },
+  {
+    "id": 300,
+    "genre": "Comedy Anthology"
+  },
+  {
+    "id": 301,
+    "genre": "Comedy Experience"
+  },
+  {
+    "id": 302,
+    "genre": "Comedy Chronicles"
+  },
+  {
+    "id": 303,
+    "genre": "Comedy Expedition"
+  },
+  {
+    "id": 304,
+    "genre": "Comedy Fantasy"
+  },
+  {
+    "id": 305,
+    "genre": "Comedy Drama"
+  },
+  {
+    "id": 306,
+    "genre": "Comedy Comedy"
+  },
+  {
+    "id": 307,
+    "genre": "Comedy Thriller"
+  },
+  {
+    "id": 308,
+    "genre": "Drama Adventure"
+  },
+  {
+    "id": 309,
+    "genre": "Drama Saga"
+  },
+  {
+    "id": 310,
+    "genre": "Drama Chronicle"
+  },
+  {
+    "id": 311,
+    "genre": "Drama Quest"
+  },
+  {
+    "id": 312,
+    "genre": "Drama Mystery"
+  },
+  {
+    "id": 313,
+    "genre": "Drama Odyssey"
+  },
+  {
+    "id": 314,
+    "genre": "Drama Journey"
+  },
+  {
+    "id": 315,
+    "genre": "Drama Tales"
+  },
+  {
+    "id": 316,
+    "genre": "Drama Legends"
+  },
+  {
+    "id": 317,
+    "genre": "Drama Stories"
+  },
+  {
+    "id": 318,
+    "genre": "Drama Cinema"
+  },
+  {
+    "id": 319,
+    "genre": "Drama Fusion"
+  },
+  {
+    "id": 320,
+    "genre": "Drama Anthology"
+  },
+  {
+    "id": 321,
+    "genre": "Drama Experience"
+  },
+  {
+    "id": 322,
+    "genre": "Drama Chronicles"
+  },
+  {
+    "id": 323,
+    "genre": "Drama Expedition"
+  },
+  {
+    "id": 324,
+    "genre": "Drama Fantasy"
+  },
+  {
+    "id": 325,
+    "genre": "Drama Drama"
+  },
+  {
+    "id": 326,
+    "genre": "Drama Comedy"
+  },
+  {
+    "id": 327,
+    "genre": "Drama Thriller"
+  },
+  {
+    "id": 328,
+    "genre": "Thriller Adventure"
+  },
+  {
+    "id": 329,
+    "genre": "Thriller Saga"
+  },
+  {
+    "id": 330,
+    "genre": "Thriller Chronicle"
+  },
+  {
+    "id": 331,
+    "genre": "Thriller Quest"
+  },
+  {
+    "id": 332,
+    "genre": "Thriller Mystery"
+  },
+  {
+    "id": 333,
+    "genre": "Thriller Odyssey"
+  },
+  {
+    "id": 334,
+    "genre": "Thriller Journey"
+  },
+  {
+    "id": 335,
+    "genre": "Thriller Tales"
+  },
+  {
+    "id": 336,
+    "genre": "Thriller Legends"
+  },
+  {
+    "id": 337,
+    "genre": "Thriller Stories"
+  },
+  {
+    "id": 338,
+    "genre": "Thriller Cinema"
+  },
+  {
+    "id": 339,
+    "genre": "Thriller Fusion"
+  },
+  {
+    "id": 340,
+    "genre": "Thriller Anthology"
+  },
+  {
+    "id": 341,
+    "genre": "Thriller Experience"
+  },
+  {
+    "id": 342,
+    "genre": "Thriller Chronicles"
+  },
+  {
+    "id": 343,
+    "genre": "Thriller Expedition"
+  },
+  {
+    "id": 344,
+    "genre": "Thriller Fantasy"
+  },
+  {
+    "id": 345,
+    "genre": "Thriller Drama"
+  },
+  {
+    "id": 346,
+    "genre": "Thriller Comedy"
+  },
+  {
+    "id": 347,
+    "genre": "Thriller Thriller"
+  },
+  {
+    "id": 348,
+    "genre": "Fantasy Adventure"
+  },
+  {
+    "id": 349,
+    "genre": "Fantasy Saga"
+  },
+  {
+    "id": 350,
+    "genre": "Fantasy Chronicle"
+  },
+  {
+    "id": 351,
+    "genre": "Fantasy Quest"
+  },
+  {
+    "id": 352,
+    "genre": "Fantasy Mystery"
+  },
+  {
+    "id": 353,
+    "genre": "Fantasy Odyssey"
+  },
+  {
+    "id": 354,
+    "genre": "Fantasy Journey"
+  },
+  {
+    "id": 355,
+    "genre": "Fantasy Tales"
+  },
+  {
+    "id": 356,
+    "genre": "Fantasy Legends"
+  },
+  {
+    "id": 357,
+    "genre": "Fantasy Stories"
+  },
+  {
+    "id": 358,
+    "genre": "Fantasy Cinema"
+  },
+  {
+    "id": 359,
+    "genre": "Fantasy Fusion"
+  },
+  {
+    "id": 360,
+    "genre": "Fantasy Anthology"
+  },
+  {
+    "id": 361,
+    "genre": "Fantasy Experience"
+  },
+  {
+    "id": 362,
+    "genre": "Fantasy Chronicles"
+  },
+  {
+    "id": 363,
+    "genre": "Fantasy Expedition"
+  },
+  {
+    "id": 364,
+    "genre": "Fantasy Fantasy"
+  },
+  {
+    "id": 365,
+    "genre": "Fantasy Thriller"
+  },
+  {
+    "id": 366,
+    "genre": "Sci-Fi Adventure"
+  },
+  {
+    "id": 367,
+    "genre": "Sci-Fi Saga"
+  },
+  {
+    "id": 368,
+    "genre": "Sci-Fi Chronicle"
+  },
+  {
+    "id": 369,
+    "genre": "Sci-Fi Quest"
+  },
+  {
+    "id": 370,
+    "genre": "Sci-Fi Mystery"
+  },
+  {
+    "id": 371,
+    "genre": "Sci-Fi Odyssey"
+  },
+  {
+    "id": 372,
+    "genre": "Sci-Fi Journey"
+  },
+  {
+    "id": 373,
+    "genre": "Sci-Fi Tales"
+  },
+  {
+    "id": 374,
+    "genre": "Sci-Fi Legends"
+  },
+  {
+    "id": 375,
+    "genre": "Sci-Fi Stories"
+  },
+  {
+    "id": 376,
+    "genre": "Sci-Fi Cinema"
+  },
+  {
+    "id": 377,
+    "genre": "Sci-Fi Fusion"
+  },
+  {
+    "id": 378,
+    "genre": "Sci-Fi Anthology"
+  },
+  {
+    "id": 379,
+    "genre": "Sci-Fi Experience"
+  },
+  {
+    "id": 380,
+    "genre": "Sci-Fi Chronicles"
+  },
+  {
+    "id": 381,
+    "genre": "Sci-Fi Expedition"
+  },
+  {
+    "id": 382,
+    "genre": "Sci-Fi Fantasy"
+  },
+  {
+    "id": 383,
+    "genre": "Sci-Fi Drama"
+  },
+  {
+    "id": 384,
+    "genre": "Sci-Fi Comedy"
+  },
+  {
+    "id": 385,
+    "genre": "Sci-Fi Thriller"
+  },
+  {
+    "id": 386,
+    "genre": "Mystery Adventure"
+  },
+  {
+    "id": 387,
+    "genre": "Mystery Saga"
+  },
+  {
+    "id": 388,
+    "genre": "Mystery Chronicle"
+  },
+  {
+    "id": 389,
+    "genre": "Mystery Quest"
+  },
+  {
+    "id": 390,
+    "genre": "Mystery Mystery"
+  },
+  {
+    "id": 391,
+    "genre": "Mystery Odyssey"
+  },
+  {
+    "id": 392,
+    "genre": "Mystery Journey"
+  },
+  {
+    "id": 393,
+    "genre": "Mystery Tales"
+  },
+  {
+    "id": 394,
+    "genre": "Mystery Legends"
+  },
+  {
+    "id": 395,
+    "genre": "Mystery Stories"
+  },
+  {
+    "id": 396,
+    "genre": "Mystery Cinema"
+  },
+  {
+    "id": 397,
+    "genre": "Mystery Fusion"
+  },
+  {
+    "id": 398,
+    "genre": "Mystery Anthology"
+  },
+  {
+    "id": 399,
+    "genre": "Mystery Experience"
+  },
+  {
+    "id": 400,
+    "genre": "Mystery Chronicles"
+  },
+  {
+    "id": 401,
+    "genre": "Mystery Expedition"
+  },
+  {
+    "id": 402,
+    "genre": "Mystery Fantasy"
+  },
+  {
+    "id": 403,
+    "genre": "Mystery Drama"
+  },
+  {
+    "id": 404,
+    "genre": "Mystery Comedy"
+  },
+  {
+    "id": 405,
+    "genre": "Romance Adventure"
+  },
+  {
+    "id": 406,
+    "genre": "Romance Saga"
+  },
+  {
+    "id": 407,
+    "genre": "Romance Chronicle"
+  },
+  {
+    "id": 408,
+    "genre": "Romance Quest"
+  },
+  {
+    "id": 409,
+    "genre": "Romance Mystery"
+  },
+  {
+    "id": 410,
+    "genre": "Romance Odyssey"
+  },
+  {
+    "id": 411,
+    "genre": "Romance Journey"
+  },
+  {
+    "id": 412,
+    "genre": "Romance Tales"
+  },
+  {
+    "id": 413,
+    "genre": "Romance Legends"
+  },
+  {
+    "id": 414,
+    "genre": "Romance Stories"
+  },
+  {
+    "id": 415,
+    "genre": "Romance Cinema"
+  },
+  {
+    "id": 416,
+    "genre": "Romance Fusion"
+  },
+  {
+    "id": 417,
+    "genre": "Romance Anthology"
+  },
+  {
+    "id": 418,
+    "genre": "Romance Experience"
+  },
+  {
+    "id": 419,
+    "genre": "Romance Chronicles"
+  },
+  {
+    "id": 420,
+    "genre": "Romance Expedition"
+  },
+  {
+    "id": 421,
+    "genre": "Romance Fantasy"
+  },
+  {
+    "id": 422,
+    "genre": "Romance Drama"
+  },
+  {
+    "id": 423,
+    "genre": "Romance Comedy"
+  },
+  {
+    "id": 424,
+    "genre": "Romance Thriller"
+  },
+  {
+    "id": 425,
+    "genre": "Adventure Adventure"
+  },
+  {
+    "id": 426,
+    "genre": "Adventure Saga"
+  },
+  {
+    "id": 427,
+    "genre": "Adventure Chronicle"
+  },
+  {
+    "id": 428,
+    "genre": "Adventure Quest"
+  },
+  {
+    "id": 429,
+    "genre": "Adventure Mystery"
+  },
+  {
+    "id": 430,
+    "genre": "Adventure Odyssey"
+  },
+  {
+    "id": 431,
+    "genre": "Adventure Journey"
+  },
+  {
+    "id": 432,
+    "genre": "Adventure Tales"
+  },
+  {
+    "id": 433,
+    "genre": "Adventure Legends"
+  },
+  {
+    "id": 434,
+    "genre": "Adventure Stories"
+  },
+  {
+    "id": 435,
+    "genre": "Adventure Cinema"
+  },
+  {
+    "id": 436,
+    "genre": "Adventure Fusion"
+  },
+  {
+    "id": 437,
+    "genre": "Adventure Anthology"
+  },
+  {
+    "id": 438,
+    "genre": "Adventure Experience"
+  },
+  {
+    "id": 439,
+    "genre": "Adventure Chronicles"
+  },
+  {
+    "id": 440,
+    "genre": "Adventure Expedition"
+  },
+  {
+    "id": 441,
+    "genre": "Adventure Thriller"
+  },
+  {
+    "id": 442,
+    "genre": "Crime Adventure"
+  },
+  {
+    "id": 443,
+    "genre": "Crime Saga"
+  },
+  {
+    "id": 444,
+    "genre": "Crime Chronicle"
+  },
+  {
+    "id": 445,
+    "genre": "Crime Quest"
+  },
+  {
+    "id": 446,
+    "genre": "Crime Odyssey"
+  },
+  {
+    "id": 447,
+    "genre": "Crime Journey"
+  },
+  {
+    "id": 448,
+    "genre": "Crime Tales"
+  },
+  {
+    "id": 449,
+    "genre": "Crime Legends"
+  },
+  {
+    "id": 450,
+    "genre": "Crime Stories"
+  },
+  {
+    "id": 451,
+    "genre": "Crime Cinema"
+  },
+  {
+    "id": 452,
+    "genre": "Crime Fusion"
+  },
+  {
+    "id": 453,
+    "genre": "Crime Anthology"
+  },
+  {
+    "id": 454,
+    "genre": "Crime Experience"
+  },
+  {
+    "id": 455,
+    "genre": "Crime Chronicles"
+  },
+  {
+    "id": 456,
+    "genre": "Crime Expedition"
+  },
+  {
+    "id": 457,
+    "genre": "Crime Fantasy"
+  },
+  {
+    "id": 458,
+    "genre": "Horror Adventure"
+  },
+  {
+    "id": 459,
+    "genre": "Horror Saga"
+  },
+  {
+    "id": 460,
+    "genre": "Horror Chronicle"
+  },
+  {
+    "id": 461,
+    "genre": "Horror Quest"
+  },
+  {
+    "id": 462,
+    "genre": "Horror Mystery"
+  },
+  {
+    "id": 463,
+    "genre": "Horror Odyssey"
+  },
+  {
+    "id": 464,
+    "genre": "Horror Journey"
+  },
+  {
+    "id": 465,
+    "genre": "Horror Tales"
+  },
+  {
+    "id": 466,
+    "genre": "Horror Legends"
+  },
+  {
+    "id": 467,
+    "genre": "Horror Stories"
+  },
+  {
+    "id": 468,
+    "genre": "Horror Cinema"
+  },
+  {
+    "id": 469,
+    "genre": "Horror Fusion"
+  },
+  {
+    "id": 470,
+    "genre": "Horror Anthology"
+  },
+  {
+    "id": 471,
+    "genre": "Horror Experience"
+  },
+  {
+    "id": 472,
+    "genre": "Horror Chronicles"
+  },
+  {
+    "id": 473,
+    "genre": "Horror Expedition"
+  },
+  {
+    "id": 474,
+    "genre": "Horror Fantasy"
+  },
+  {
+    "id": 475,
+    "genre": "Horror Drama"
+  },
+  {
+    "id": 476,
+    "genre": "Horror Comedy"
+  },
+  {
+    "id": 477,
+    "genre": "Horror Thriller"
+  },
+  {
+    "id": 478,
+    "genre": "Family Saga"
+  },
+  {
+    "id": 479,
+    "genre": "Family Chronicle"
+  },
+  {
+    "id": 480,
+    "genre": "Family Quest"
+  },
+  {
+    "id": 481,
+    "genre": "Family Mystery"
+  },
+  {
+    "id": 482,
+    "genre": "Family Odyssey"
+  },
+  {
+    "id": 483,
+    "genre": "Family Journey"
+  },
+  {
+    "id": 484,
+    "genre": "Family Tales"
+  },
+  {
+    "id": 485,
+    "genre": "Family Legends"
+  },
+  {
+    "id": 486,
+    "genre": "Family Stories"
+  },
+  {
+    "id": 487,
+    "genre": "Family Cinema"
+  },
+  {
+    "id": 488,
+    "genre": "Family Fusion"
+  },
+  {
+    "id": 489,
+    "genre": "Family Anthology"
+  },
+  {
+    "id": 490,
+    "genre": "Family Experience"
+  },
+  {
+    "id": 491,
+    "genre": "Family Chronicles"
+  },
+  {
+    "id": 492,
+    "genre": "Family Expedition"
+  },
+  {
+    "id": 493,
+    "genre": "Family Thriller"
+  },
+  {
+    "id": 494,
+    "genre": "Historical Adventure"
+  },
+  {
+    "id": 495,
+    "genre": "Historical Saga"
+  },
+  {
+    "id": 496,
+    "genre": "Historical Chronicle"
+  },
+  {
+    "id": 497,
+    "genre": "Historical Quest"
+  },
+  {
+    "id": 498,
+    "genre": "Historical Mystery"
+  },
+  {
+    "id": 499,
+    "genre": "Historical Odyssey"
+  },
+  {
+    "id": 500,
+    "genre": "Historical Journey"
+  }
+]

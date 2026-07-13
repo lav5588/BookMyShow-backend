@@ -38,3 +38,26 @@ To set up the project on your local environment, follow these steps:
 ```bash
     pipenv run start
 ```
+
+5. ** Set Up Database **
+```bash
+    docker compose up -d
+```
+
+6. **Filled the fixtures in database**
+```bash
+    python manage.py dump-fixtures
+```
+
+7. ** Fill the Movie Posters **
+```
+    Copy script from scripts/fill-movie-poster.py
+    and paste in django shell. 
+    for django shell run (python manage.py shell)
+```
+
+7. ** Fill the User Profile Pictures **
+```
+    Copy script from scripts/fill-user-photos.py
+    and paste in django shell.
+```
