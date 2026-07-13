@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "name": "PVR",
+    "location_id": 380,
+    "rows": 13,
+    "seats_per_row": 12
+  },
+  {
+    "id": 2,
+    "name": "INOX",
+    "location_id": 115,
+    "rows": 18,
+    "seats_per_row": 19
+  },
+  {
+    "id": 3,
+    "name": "Cinepolis",
+    "location_id": 53,
+    "rows": 14,
+    "seats_per_row": 35
+  },
+  {
+    "id": 4,
+    "name": "Miraj Cinemas",
+    "location_id": 303,
+    "rows": 27,
+    "seats_per_row": 14
+  },
+  {
+    "id": 5,
+    "name": "Carnival Cinemas",
+    "location_id": 16,
+    "rows": 23,
+    "seats_per_row": 13
+  },
+  {
+    "id": 6,
+    "name": "Mukta A2 Cinemas",
+    "location_id": 120,
+    "rows": 12,
+    "seats_per_row": 18
+  },
+  {
+    "id": 7,
+    "name": "MovieTime Cinemas",
+    "location_id": 14,
+    "rows": 26,
+    "seats_per_row": 31
+  },
+  {
+    "id": 8,
+    "name": "Rajhans Cinemas",
+    "location_id": 367,
+    "rows": 27,
+    "seats_per_row": 18
+  },
+  {
+    "id": 9,
+    "name": "Asian Cinemas",
+    "location_id": 113,
+    "rows": 27,
+    "seats_per_row": 25
+  },
+  {
+    "id": 10,
+    "name": "SPI Cinemas",
+    "location_id": 143,
+    "rows": 24,
+    "seats_per_row": 30
+  },
+  {
+    "id": 11,
+    "name": "Sathyam Cinemas",
+    "location_id": 82,
+    "rows": 10,
+    "seats_per_row": 36
+  },
+  {
+    "id": 12,
+    "name": "AGS Cinemas",
+    "location_id": 143,
+    "rows": 23,
+    "seats_per_row": 22
+  },
+  {
+    "id": 13,
+    "name": "Prasads Multiplex",
+    "location_id": 391,
+    "rows": 14,
+    "seats_per_row": 18
+  },
+  {
+    "id": 14,
+    "name": "Jazz Cinemas",
+    "location_id": 48,
+    "rows": 20,
+    "seats_per_row": 15
+  },
+  {
+    "id": 15,
+    "name": "Gokulam Cinemas",
+    "location_id": 184,
+    "rows": 22,
+    "seats_per_row": 15
+  },
+  {
+    "id": 16,
+    "name": "Wave Cinemas",
+    "location_id": 136,
+    "rows": 21,
+    "seats_per_row": 31
+  },
+  {
+    "id": 17,
+    "name": "M2K Cinemas",
+    "location_id": 236,
+    "rows": 11,
+    "seats_per_row": 35
+  },
+  {
+    "id": 18,
+    "name": "Movietime",
+    "location_id": 194,
+    "rows": 27,
+    "seats_per_row": 15
+  },
+  {
+    "id": 19,
+    "name": "Gold Cinema",
+    "location_id": 151,
+    "rows": 12,
+    "seats_per_row": 29
+  },
+  {
+    "id": 20,
+    "name": "City Pride",
+    "location_id": 99,
+    "rows": 21,
+    "seats_per_row": 30
+  },
+  {
+    "id": 21,
+    "name": "EVM Cinemas",
+    "location_id": 339,
+    "rows": 12,
+    "seats_per_row": 13
+  },
+  {
+    "id": 22,
+    "name": "Aries Plex",
+    "location_id": 149,
+    "rows": 17,
+    "seats_per_row": 36
+  },
+  {
+    "id": 23,
+    "name": "Broadway Cinemas",
+    "location_id": 120,
+    "rows": 12,
+    "seats_per_row": 39
+  },
+  {
+    "id": 24,
+    "name": "Roopbani Cinema",
+    "location_id": 143,
+    "rows": 13,
+    "seats_per_row": 24
+  },
+  {
+    "id": 25,
+    "name": "Liberty Cinema",
+    "location_id": 187,
+    "rows": 24,
+    "seats_per_row": 32
+  },
+  {
+    "id": 26,
+    "name": "Regal Cinema",
+    "location_id": 182,
+    "rows": 15,
+    "seats_per_row": 23
+  },
+  {
+    "id": 27,
+    "name": "Plaza Cinema",
+    "location_id": 137,
+    "rows": 16,
+    "seats_per_row": 33
+  },
+  {
+    "id": 28,
+    "name": "Delite Cinema",
+    "location_id": 326,
+    "rows": 12,
+    "seats_per_row": 31
+  },
+  {
+    "id": 29,
+    "name": "Roxy Cinema",
+    "location_id": 374,
+    "rows": 15,
+    "seats_per_row": 29
+  },
+  {
+    "id": 30,
+    "name": "Empire Cinemas",
+    "location_id": 237,
+    "rows": 17,
+    "seats_per_row": 17
+  },
+  {
+    "id": 31,
+    "name": "Galaxy Cinema",
+    "location_id": 328,
+    "rows": 22,
+    "seats_per_row": 20
+  },
+  {
+    "id": 32,
+    "name": "Crown Cinema",
+    "location_id": 351,
+    "rows": 27,
+    "seats_per_row": 19
+  },
+  {
+    "id": 33,
+    "name": "Capital Cinema",
+    "location_id": 394,
+    "rows": 20,
+    "seats_per_row": 38
+  },
+  {
+    "id": 34,
+    "name": "Lighthouse Cinema",
+    "location_id": 17,
+    "rows": 11,
+    "seats_per_row": 19
+  },
+  {
+    "id": 35,
+    "name": "Mayajaal",
+    "location_id": 138,
+    "rows": 20,
+    "seats_per_row": 24
+  },
+  {
+    "id": 36,
+    "name": "Cine Hub",
+    "location_id": 291,
+    "rows": 12,
+    "seats_per_row": 18
+  },
+  {
+    "id": 37,
+    "name": "Fun Cinemas",
+    "location_id": 336,
+    "rows": 20,
+    "seats_per_row": 18
+  },
+  {
+    "id": 38,
+    "name": "Metro Cinema",
+    "location_id": 330,
+    "rows": 25,
+    "seats_per_row": 24
+  },
+  {
+    "id": 39,
+    "name": "Sri Balaji Cinemas",
+    "location_id": 136,
+    "rows": 24,
+    "seats_per_row": 16
+  },
+  {
+    "id": 40,
+    "name": "SRS Cinemas",
+    "location_id": 382,
+    "rows": 14,
+    "seats_per_row": 19
+  },
+  {
+    "id": 41,
+    "name": "PVR Mega Mall 1",
+    "location_id": 135,
+    "rows": 27,
+    "seats_per_row": 29
+  },
+  {
+    "id": 42,
+    "name": "INOX Mega Mall 1",
+    "location_id": 299,
+    "rows": 28,
+    "seats_per_row": 25
+  },
+  {
+    "id": 43,
+    "name": "Cinepolis Mega Mall 1",
+    "location_id": 113,
+    "rows": 22,
+    "seats_per_row": 23
+  },
+  {
+    "id": 44,
+    "name": "Miraj Cinemas Mega Mall 1",
+    "location_id": 253,
+    "rows": 14,
+    "seats_per_row": 28
+  },
+  {
+    "id": 45,
+    "name": "Carnival Cinemas Mega Mall 1",
+    "location_id": 25,
+    "rows": 12,
+    "seats_per_row": 36
+  },
+  {
+    "id": 46,
+    "name": "Mukta A2 Cinemas Mega Mall 1",
+    "location_id": 322,
+    "rows": 13,
+    "seats_per_row": 16
+  },
+  {
+    "id": 47,
+    "name": "MovieTime Cinemas Mega Mall 1",
+    "location_id": 349,
+    "rows": 15,
+    "seats_per_row": 37
+  },
+  {
+    "id": 48,
+    "name": "Rajhans Cinemas Mega Mall 1",
+    "location_id": 33,
+    "rows": 23,
+    "seats_per_row": 31
+  },
+  {
+    "id": 49,
+    "name": "Asian Cinemas Mega Mall 1",
+    "location_id": 306,
+    "rows": 22,
+    "seats_per_row": 24
+  },
+  {
+    "id": 50,
+    "name": "SPI Cinemas Mega Mall 1",
+    "location_id": 129,
+    "rows": 24,
+    "seats_per_row": 28
+  },
+  {
+    "id": 51,
+    "name": "Sathyam Cinemas Mega Mall 1",
+    "location_id": 6,
+    "rows": 27,
+    "seats_per_row": 39
+  },
+  {
+    "id": 52,
+    "name": "AGS Cinemas Mega Mall 1",
+    "location_id": 275,
+    "rows": 13,
+    "seats_per_row": 33
+  },
+  {
+    "id": 53,
+    "name": "Prasads Multiplex Mega Mall 1",
+    "location_id": 329,
+    "rows": 18,
+    "seats_per_row": 36
+  },
+  {
+    "id": 54,
+    "name": "Jazz Cinemas Mega Mall 1",
+    "location_id": 151,
+    "rows": 20,
+    "seats_per_row": 15
+  },
+  {
+    "id": 55,
+    "name": "Gokulam Cinemas Mega Mall 1",
+    "location_id": 233,
+    "rows": 23,
+    "seats_per_row": 17
+  },
+  {
+    "id": 56,
+    "name": "Wave Cinemas Mega Mall 1",
+    "location_id": 370,
+    "rows": 10,
+    "seats_per_row": 42
+  },
+  {
+    "id": 57,
+    "name": "M2K Cinemas Mega Mall 1",
+    "location_id": 391,
+    "rows": 18,
+    "seats_per_row": 28
+  },
+  {
+    "id": 58,
+    "name": "Movietime Mega Mall 1",
+    "location_id": 55,
+    "rows": 15,
+    "seats_per_row": 28
+  },
+  {
+    "id": 59,
+    "name": "Gold Cinema Mega Mall 1",
+    "location_id": 328,
+    "rows": 19,
+    "seats_per_row": 38
+  },
+  {
+    "id": 60,
+    "name": "City Pride Mega Mall 1",
+    "location_id": 102,
+    "rows": 26,
+    "seats_per_row": 31
+  },
+  {
+    "id": 61,
+    "name": "EVM Cinemas Mega Mall 1",
+    "location_id": 391,
+    "rows": 14,
+    "seats_per_row": 23
+  },
+  {
+    "id": 62,
+    "name": "Aries Plex Mega Mall 1",
+    "location_id": 272,
+    "rows": 15,
+    "seats_per_row": 29
+  },
+  {
+    "id": 63,
+    "name": "Broadway Cinemas Mega Mall 1",
+    "location_id": 166,
+    "rows": 10,
+    "seats_per_row": 31
+  },
+  {
+    "id": 64,
+    "name": "Roopbani Cinema Mega Mall 1",
+    "location_id": 58,
+    "rows": 25,
+    "seats_per_row": 12
+  },
+  {
+    "id": 65,
+    "name": "Liberty Cinema Mega Mall 1",
+    "location_id": 158,
+    "rows": 21,
+    "seats_per_row": 40
+  },
+  {
+    "id": 66,
+    "name": "Regal Cinema Mega Mall 1",
+    "location_id": 124,
+    "rows": 17,
+    "seats_per_row": 13
+  },
+  {
+    "id": 67,
+    "name": "Plaza Cinema Mega Mall 1",
+    "location_id": 41,
+    "rows": 28,
+    "seats_per_row": 42
+  },
+  {
+    "id": 68,
+    "name": "Delite Cinema Mega Mall 1",
+    "location_id": 249,
+    "rows": 12,
+    "seats_per_row": 35
+  },
+  {
+    "id": 69,
+    "name": "Roxy Cinema Mega Mall 1",
+    "location_id": 273,
+    "rows": 12,
+    "seats_per_row": 36
+  },
+  {
+    "id": 70,
+    "name": "Empire Cinemas Mega Mall 1",
+    "location_id": 338,
+    "rows": 14,
+    "seats_per_row": 16
+  },
+  {
+    "id": 71,
+    "name": "Galaxy Cinema Mega Mall 1",
+    "location_id": 282,
+    "rows": 25,
+    "seats_per_row": 42
+  },
+  {
+    "id": 72,
+    "name": "Crown Cinema Mega Mall 1",
+    "location_id": 271,
+    "rows": 15,
+    "seats_per_row": 20
+  },
+  {
+    "id": 73,
+    "name": "Capital Cinema Mega Mall 1",
+    "location_id": 109,
+    "rows": 23,
+    "seats_per_row": 42
+  },
+  {
+    "id": 74,
+    "name": "Lighthouse Cinema Mega Mall 1",
+    "location_id": 374,
+    "rows": 27,
+    "seats_per_row": 36
+  },
+  {
+    "id": 75,
+    "name": "Mayajaal Mega Mall 1",
+    "location_id": 160,
+    "rows": 16,
+    "seats_per_row": 34
+  },
+  {
+    "id": 76,
+    "name": "Cine Hub Mega Mall 1",
+    "location_id": 333,
+    "rows": 22,
+    "seats_per_row": 33
+  },
+  {
+    "id": 77,
+    "name": "Fun Cinemas Mega Mall 1",
+    "location_id": 265,
+    "rows": 21,
+    "seats_per_row": 26
+  },
+  {
+    "id": 78,
+    "name": "Metro Cinema Mega Mall 1",
+    "location_id": 127,
+    "rows": 24,
+    "seats_per_row": 15
+  },
+  {
+    "id": 79,
+    "name": "Sri Balaji Cinemas Mega Mall 1",
+    "location_id": 174,
+    "rows": 17,
+    "seats_per_row": 14
+  },
+  {
+    "id": 80,
+    "name": "SRS Cinemas Mega Mall 1",
+    "location_id": 284,
+    "rows": 10,
+    "seats_per_row": 30
+  },
+  {
+    "id": 81,
+    "name": "PVR City Centre 1",
+    "location_id": 113,
+    "rows": 17,
+    "seats_per_row": 30
+  },
+  {
+    "id": 82,
+    "name": "INOX City Centre 1",
+    "location_id": 363,
+    "rows": 10,
+    "seats_per_row": 14
+  },
+  {
+    "id": 83,
+    "name": "Cinepolis City Centre 1",
+    "location_id": 35,
+    "rows": 11,
+    "seats_per_row": 19
+  },
+  {
+    "id": 84,
+    "name": "Miraj Cinemas City Centre 1",
+    "location_id": 170,
+    "rows": 11,
+    "seats_per_row": 39
+  },
+  {
+    "id": 85,
+    "name": "Carnival Cinemas City Centre 1",
+    "location_id": 122,
+    "rows": 12,
+    "seats_per_row": 28
+  },
+  {
+    "id": 86,
+    "name": "Mukta A2 Cinemas City Centre 1",
+    "location_id": 249,
+    "rows": 18,
+    "seats_per_row": 33
+  },
+  {
+    "id": 87,
+    "name": "MovieTime Cinemas City Centre 1",
+    "location_id": 68,
+    "rows": 16,
+    "seats_per_row": 29
+  },
+  {
+    "id": 88,
+    "name": "Rajhans Cinemas City Centre 1",
+    "location_id": 243,
+    "rows": 28,
+    "seats_per_row": 30
+  },
+  {
+    "id": 89,
+    "name": "Asian Cinemas City Centre 1",
+    "location_id": 243,
+    "rows": 17,
+    "seats_per_row": 37
+  },
+  {
+    "id": 90,
+    "name": "SPI Cinemas City Centre 1",
+    "location_id": 49,
+    "rows": 23,
+    "seats_per_row": 18
+  },
+  {
+    "id": 91,
+    "name": "Sathyam Cinemas City Centre 1",
+    "location_id": 221,
+    "rows": 13,
+    "seats_per_row": 33
+  },
+  {
+    "id": 92,
+    "name": "AGS Cinemas City Centre 1",
+    "location_id": 211,
+    "rows": 21,
+    "seats_per_row": 25
+  },
+  {
+    "id": 93,
+    "name": "Prasads Multiplex City Centre 1",
+    "location_id": 374,
+    "rows": 24,
+    "seats_per_row": 39
+  },
+  {
+    "id": 94,
+    "name": "Jazz Cinemas City Centre 1",
+    "location_id": 335,
+    "rows": 11,
+    "seats_per_row": 33
+  },
+  {
+    "id": 95,
+    "name": "Gokulam Cinemas City Centre 1",
+    "location_id": 207,
+    "rows": 13,
+    "seats_per_row": 13
+  },
+  {
+    "id": 96,
+    "name": "Wave Cinemas City Centre 1",
+    "location_id": 56,
+    "rows": 20,
+    "seats_per_row": 37
+  },
+  {
+    "id": 97,
+    "name": "M2K Cinemas City Centre 1",
+    "location_id": 98,
+    "rows": 17,
+    "seats_per_row": 18
+  },
+  {
+    "id": 98,
+    "name": "Movietime City Centre 1",
+    "location_id": 72,
+    "rows": 27,
+    "seats_per_row": 26
+  },
+  {
+    "id": 99,
+    "name": "Gold Cinema City Centre 1",
+    "location_id": 143,
+    "rows": 23,
+    "seats_per_row": 17
+  },
+  {
+    "id": 100,
+    "name": "City Pride City Centre 1",
+    "location_id": 39,
+    "rows": 24,
+    "seats_per_row": 19
+  },
+  {
+    "id": 101,
+    "name": "EVM Cinemas City Centre 1",
+    "location_id": 282,
+    "rows": 24,
+    "seats_per_row": 37
+  },
+  {
+    "id": 102,
+    "name": "Aries Plex City Centre 1",
+    "location_id": 334,
+    "rows": 13,
+    "seats_per_row": 13
+  },
+  {
+    "id": 103,
+    "name": "Broadway Cinemas City Centre 1",
+    "location_id": 8,
+    "rows": 27,
+    "seats_per_row": 38
+  },
+  {
+    "id": 104,
+    "name": "Roopbani Cinema City Centre 1",
+    "location_id": 386,
+    "rows": 12,
+    "seats_per_row": 41
+  },
+  {
+    "id": 105,
+    "name": "Liberty Cinema City Centre 1",
+    "location_id": 209,
+    "rows": 17,
+    "seats_per_row": 17
+  },
+  {
+    "id": 106,
+    "name": "Regal Cinema City Centre 1",
+    "location_id": 110,
+    "rows": 25,
+    "seats_per_row": 27
+  },
+  {
+    "id": 107,
+    "name": "Plaza Cinema City Centre 1",
+    "location_id": 31,
+    "rows": 22,
+    "seats_per_row": 40
+  },
+  {
+    "id": 108,
+    "name": "Delite Cinema City Centre 1",
+    "location_id": 2,
+    "rows": 15,
+    "seats_per_row": 24
+  },
+  {
+    "id": 109,
+    "name": "Roxy Cinema City Centre 1",
+    "location_id": 233,
+    "rows": 22,
+    "seats_per_row": 20
+  },
+  {
+    "id": 110,
+    "name": "Empire Cinemas City Centre 1",
+    "location_id": 357,
+    "rows": 19,
+    "seats_per_row": 25
+  },
+  {
+    "id": 111,
+    "name": "Galaxy Cinema City Centre 1",
+    "location_id": 368,
+    "rows": 27,
+    "seats_per_row": 33
+  },
+  {
+    "id": 112,
+    "name": "Crown Cinema City Centre 1",
+    "location_id": 98,
+    "rows": 25,
+    "seats_per_row": 16
+  },
+  {
+    "id": 113,
+    "name": "Capital Cinema City Centre 1",
+    "location_id": 30,
+    "rows": 19,
+    "seats_per_row": 18
+  },
+  {
+    "id": 114,
+    "name": "Lighthouse Cinema City Centre 1",
+    "location_id": 278,
+    "rows": 28,
+    "seats_per_row": 35
+  },
+  {
+    "id": 115,
+    "name": "Mayajaal City Centre 1",
+    "location_id": 161,
+    "rows": 11,
+    "seats_per_row": 35
+  },
+  {
+    "id": 116,
+    "name": "Cine Hub City Centre 1",
+    "location_id": 300,
+    "rows": 11,
+    "seats_per_row": 13
+  },
+  {
+    "id": 117,
+    "name": "Fun Cinemas City Centre 1",
+    "location_id": 272,
+    "rows": 25,
+    "seats_per_row": 28
+  },
+  {
+    "id": 118,
+    "name": "Metro Cinema City Centre 1",
+    "location_id": 261,
+    "rows": 15,
+    "seats_per_row": 13
+  },
+  {
+    "id": 119,
+    "name": "Sri Balaji Cinemas City Centre 1",
+    "location_id": 96,
+    "rows": 12,
+    "seats_per_row": 39
+  },
+  {
+    "id": 120,
+    "name": "SRS Cinemas City Centre 1",
+    "location_id": 35,
+    "rows": 12,
+    "seats_per_row": 31
+  },
+  {
+    "id": 121,
+    "name": "PVR Forum 1",
+    "location_id": 62,
+    "rows": 17,
+    "seats_per_row": 24
+  },
+  {
+    "id": 122,
+    "name": "INOX Forum 1",
+    "location_id": 297,
+    "rows": 28,
+    "seats_per_row": 19
+  },
+  {
+    "id": 123,
+    "name": "Cinepolis Forum 1",
+    "location_id": 42,
+    "rows": 11,
+    "seats_per_row": 31
+  },
+  {
+    "id": 124,
+    "name": "Miraj Cinemas Forum 1",
+    "location_id": 299,
+    "rows": 23,
+    "seats_per_row": 33
+  },
+  {
+    "id": 125,
+    "name": "Carnival Cinemas Forum 1",
+    "location_id": 162,
+    "rows": 28,
+    "seats_per_row": 28
+  },
+  {
+    "id": 126,
+    "name": "Mukta A2 Cinemas Forum 1",
+    "location_id": 343,
+    "rows": 18,
+    "seats_per_row": 18
+  },
+  {
+    "id": 127,
+    "name": "MovieTime Cinemas Forum 1",
+    "location_id": 136,
+    "rows": 20,
+    "seats_per_row": 19
+  },
+  {
+    "id": 128,
+    "name": "Rajhans Cinemas Forum 1",
+    "location_id": 344,
+    "rows": 22,
+    "seats_per_row": 16
+  },
+  {
+    "id": 129,
+    "name": "Asian Cinemas Forum 1",
+    "location_id": 162,
+    "rows": 19,
+    "seats_per_row": 26
+  },
+  {
+    "id": 130,
+    "name": "SPI Cinemas Forum 1",
+    "location_id": 235,
+    "rows": 12,
+    "seats_per_row": 12
+  },
+  {
+    "id": 131,
+    "name": "Sathyam Cinemas Forum 1",
+    "location_id": 38,
+    "rows": 28,
+    "seats_per_row": 15
+  },
+  {
+    "id": 132,
+    "name": "AGS Cinemas Forum 1",
+    "location_id": 260,
+    "rows": 27,
+    "seats_per_row": 18
+  },
+  {
+    "id": 133,
+    "name": "Prasads Multiplex Forum 1",
+    "location_id": 179,
+    "rows": 18,
+    "seats_per_row": 16
+  },
+  {
+    "id": 134,
+    "name": "Jazz Cinemas Forum 1",
+    "location_id": 126,
+    "rows": 12,
+    "seats_per_row": 40
+  },
+  {
+    "id": 135,
+    "name": "Gokulam Cinemas Forum 1",
+    "location_id": 81,
+    "rows": 21,
+    "seats_per_row": 21
+  },
+  {
+    "id": 136,
+    "name": "Wave Cinemas Forum 1",
+    "location_id": 279,
+    "rows": 24,
+    "seats_per_row": 38
+  },
+  {
+    "id": 137,
+    "name": "M2K Cinemas Forum 1",
+    "location_id": 335,
+    "rows": 19,
+    "seats_per_row": 31
+  },
+  {
+    "id": 138,
+    "name": "Movietime Forum 1",
+    "location_id": 342,
+    "rows": 26,
+    "seats_per_row": 12
+  },
+  {
+    "id": 139,
+    "name": "Gold Cinema Forum 1",
+    "location_id": 340,
+    "rows": 27,
+    "seats_per_row": 21
+  },
+  {
+    "id": 140,
+    "name": "City Pride Forum 1",
+    "location_id": 69,
+    "rows": 13,
+    "seats_per_row": 42
+  },
+  {
+    "id": 141,
+    "name": "EVM Cinemas Forum 1",
+    "location_id": 55,
+    "rows": 18,
+    "seats_per_row": 15
+  },
+  {
+    "id": 142,
+    "name": "Aries Plex Forum 1",
+    "location_id": 140,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 143,
+    "name": "Broadway Cinemas Forum 1",
+    "location_id": 108,
+    "rows": 19,
+    "seats_per_row": 31
+  },
+  {
+    "id": 144,
+    "name": "Roopbani Cinema Forum 1",
+    "location_id": 352,
+    "rows": 20,
+    "seats_per_row": 18
+  },
+  {
+    "id": 145,
+    "name": "Liberty Cinema Forum 1",
+    "location_id": 251,
+    "rows": 18,
+    "seats_per_row": 28
+  },
+  {
+    "id": 146,
+    "name": "Regal Cinema Forum 1",
+    "location_id": 27,
+    "rows": 18,
+    "seats_per_row": 40
+  },
+  {
+    "id": 147,
+    "name": "Plaza Cinema Forum 1",
+    "location_id": 217,
+    "rows": 12,
+    "seats_per_row": 32
+  },
+  {
+    "id": 148,
+    "name": "Delite Cinema Forum 1",
+    "location_id": 2,
+    "rows": 18,
+    "seats_per_row": 13
+  },
+  {
+    "id": 149,
+    "name": "Roxy Cinema Forum 1",
+    "location_id": 67,
+    "rows": 20,
+    "seats_per_row": 36
+  },
+  {
+    "id": 150,
+    "name": "Empire Cinemas Forum 1",
+    "location_id": 380,
+    "rows": 18,
+    "seats_per_row": 17
+  },
+  {
+    "id": 151,
+    "name": "Galaxy Cinema Forum 1",
+    "location_id": 362,
+    "rows": 24,
+    "seats_per_row": 29
+  },
+  {
+    "id": 152,
+    "name": "Crown Cinema Forum 1",
+    "location_id": 5,
+    "rows": 23,
+    "seats_per_row": 29
+  },
+  {
+    "id": 153,
+    "name": "Capital Cinema Forum 1",
+    "location_id": 354,
+    "rows": 13,
+    "seats_per_row": 14
+  },
+  {
+    "id": 154,
+    "name": "Lighthouse Cinema Forum 1",
+    "location_id": 19,
+    "rows": 14,
+    "seats_per_row": 29
+  },
+  {
+    "id": 155,
+    "name": "Mayajaal Forum 1",
+    "location_id": 283,
+    "rows": 21,
+    "seats_per_row": 30
+  },
+  {
+    "id": 156,
+    "name": "Cine Hub Forum 1",
+    "location_id": 66,
+    "rows": 14,
+    "seats_per_row": 25
+  },
+  {
+    "id": 157,
+    "name": "Fun Cinemas Forum 1",
+    "location_id": 187,
+    "rows": 11,
+    "seats_per_row": 21
+  },
+  {
+    "id": 158,
+    "name": "Metro Cinema Forum 1",
+    "location_id": 184,
+    "rows": 11,
+    "seats_per_row": 40
+  },
+  {
+    "id": 159,
+    "name": "Sri Balaji Cinemas Forum 1",
+    "location_id": 128,
+    "rows": 16,
+    "seats_per_row": 33
+  },
+  {
+    "id": 160,
+    "name": "SRS Cinemas Forum 1",
+    "location_id": 287,
+    "rows": 13,
+    "seats_per_row": 23
+  },
+  {
+    "id": 161,
+    "name": "PVR Central 1",
+    "location_id": 384,
+    "rows": 23,
+    "seats_per_row": 31
+  },
+  {
+    "id": 162,
+    "name": "INOX Central 1",
+    "location_id": 122,
+    "rows": 14,
+    "seats_per_row": 41
+  },
+  {
+    "id": 163,
+    "name": "Cinepolis Central 1",
+    "location_id": 91,
+    "rows": 15,
+    "seats_per_row": 37
+  },
+  {
+    "id": 164,
+    "name": "Miraj Cinemas Central 1",
+    "location_id": 92,
+    "rows": 23,
+    "seats_per_row": 12
+  },
+  {
+    "id": 165,
+    "name": "Carnival Cinemas Central 1",
+    "location_id": 211,
+    "rows": 20,
+    "seats_per_row": 37
+  },
+  {
+    "id": 166,
+    "name": "Mukta A2 Cinemas Central 1",
+    "location_id": 82,
+    "rows": 17,
+    "seats_per_row": 20
+  },
+  {
+    "id": 167,
+    "name": "MovieTime Cinemas Central 1",
+    "location_id": 20,
+    "rows": 13,
+    "seats_per_row": 24
+  },
+  {
+    "id": 168,
+    "name": "Rajhans Cinemas Central 1",
+    "location_id": 103,
+    "rows": 25,
+    "seats_per_row": 19
+  },
+  {
+    "id": 169,
+    "name": "Asian Cinemas Central 1",
+    "location_id": 157,
+    "rows": 24,
+    "seats_per_row": 23
+  },
+  {
+    "id": 170,
+    "name": "SPI Cinemas Central 1",
+    "location_id": 13,
+    "rows": 17,
+    "seats_per_row": 19
+  },
+  {
+    "id": 171,
+    "name": "Sathyam Cinemas Central 1",
+    "location_id": 169,
+    "rows": 16,
+    "seats_per_row": 24
+  },
+  {
+    "id": 172,
+    "name": "AGS Cinemas Central 1",
+    "location_id": 36,
+    "rows": 18,
+    "seats_per_row": 39
+  },
+  {
+    "id": 173,
+    "name": "Prasads Multiplex Central 1",
+    "location_id": 329,
+    "rows": 18,
+    "seats_per_row": 23
+  },
+  {
+    "id": 174,
+    "name": "Jazz Cinemas Central 1",
+    "location_id": 348,
+    "rows": 26,
+    "seats_per_row": 24
+  },
+  {
+    "id": 175,
+    "name": "Gokulam Cinemas Central 1",
+    "location_id": 15,
+    "rows": 27,
+    "seats_per_row": 22
+  },
+  {
+    "id": 176,
+    "name": "Wave Cinemas Central 1",
+    "location_id": 134,
+    "rows": 13,
+    "seats_per_row": 40
+  },
+  {
+    "id": 177,
+    "name": "M2K Cinemas Central 1",
+    "location_id": 136,
+    "rows": 15,
+    "seats_per_row": 30
+  },
+  {
+    "id": 178,
+    "name": "Movietime Central 1",
+    "location_id": 306,
+    "rows": 11,
+    "seats_per_row": 15
+  },
+  {
+    "id": 179,
+    "name": "Gold Cinema Central 1",
+    "location_id": 374,
+    "rows": 23,
+    "seats_per_row": 23
+  },
+  {
+    "id": 180,
+    "name": "City Pride Central 1",
+    "location_id": 311,
+    "rows": 20,
+    "seats_per_row": 25
+  },
+  {
+    "id": 181,
+    "name": "EVM Cinemas Central 1",
+    "location_id": 198,
+    "rows": 26,
+    "seats_per_row": 15
+  },
+  {
+    "id": 182,
+    "name": "Aries Plex Central 1",
+    "location_id": 131,
+    "rows": 28,
+    "seats_per_row": 18
+  },
+  {
+    "id": 183,
+    "name": "Broadway Cinemas Central 1",
+    "location_id": 224,
+    "rows": 11,
+    "seats_per_row": 34
+  },
+  {
+    "id": 184,
+    "name": "Roopbani Cinema Central 1",
+    "location_id": 276,
+    "rows": 10,
+    "seats_per_row": 28
+  },
+  {
+    "id": 185,
+    "name": "Liberty Cinema Central 1",
+    "location_id": 221,
+    "rows": 16,
+    "seats_per_row": 23
+  },
+  {
+    "id": 186,
+    "name": "Regal Cinema Central 1",
+    "location_id": 341,
+    "rows": 12,
+    "seats_per_row": 42
+  },
+  {
+    "id": 187,
+    "name": "Plaza Cinema Central 1",
+    "location_id": 161,
+    "rows": 20,
+    "seats_per_row": 31
+  },
+  {
+    "id": 188,
+    "name": "Delite Cinema Central 1",
+    "location_id": 154,
+    "rows": 13,
+    "seats_per_row": 35
+  },
+  {
+    "id": 189,
+    "name": "Roxy Cinema Central 1",
+    "location_id": 342,
+    "rows": 26,
+    "seats_per_row": 21
+  },
+  {
+    "id": 190,
+    "name": "Empire Cinemas Central 1",
+    "location_id": 207,
+    "rows": 23,
+    "seats_per_row": 22
+  },
+  {
+    "id": 191,
+    "name": "Galaxy Cinema Central 1",
+    "location_id": 66,
+    "rows": 19,
+    "seats_per_row": 29
+  },
+  {
+    "id": 192,
+    "name": "Crown Cinema Central 1",
+    "location_id": 341,
+    "rows": 16,
+    "seats_per_row": 25
+  },
+  {
+    "id": 193,
+    "name": "Capital Cinema Central 1",
+    "location_id": 384,
+    "rows": 22,
+    "seats_per_row": 33
+  },
+  {
+    "id": 194,
+    "name": "Lighthouse Cinema Central 1",
+    "location_id": 292,
+    "rows": 15,
+    "seats_per_row": 31
+  },
+  {
+    "id": 195,
+    "name": "Mayajaal Central 1",
+    "location_id": 281,
+    "rows": 19,
+    "seats_per_row": 24
+  },
+  {
+    "id": 196,
+    "name": "Cine Hub Central 1",
+    "location_id": 147,
+    "rows": 10,
+    "seats_per_row": 21
+  },
+  {
+    "id": 197,
+    "name": "Fun Cinemas Central 1",
+    "location_id": 297,
+    "rows": 16,
+    "seats_per_row": 25
+  },
+  {
+    "id": 198,
+    "name": "Metro Cinema Central 1",
+    "location_id": 227,
+    "rows": 20,
+    "seats_per_row": 26
+  },
+  {
+    "id": 199,
+    "name": "Sri Balaji Cinemas Central 1",
+    "location_id": 110,
+    "rows": 24,
+    "seats_per_row": 33
+  },
+  {
+    "id": 200,
+    "name": "SRS Cinemas Central 1",
+    "location_id": 377,
+    "rows": 26,
+    "seats_per_row": 27
+  },
+  {
+    "id": 201,
+    "name": "PVR Downtown 1",
+    "location_id": 44,
+    "rows": 15,
+    "seats_per_row": 33
+  },
+  {
+    "id": 202,
+    "name": "INOX Downtown 1",
+    "location_id": 340,
+    "rows": 19,
+    "seats_per_row": 28
+  },
+  {
+    "id": 203,
+    "name": "Cinepolis Downtown 1",
+    "location_id": 385,
+    "rows": 20,
+    "seats_per_row": 14
+  },
+  {
+    "id": 204,
+    "name": "Miraj Cinemas Downtown 1",
+    "location_id": 159,
+    "rows": 17,
+    "seats_per_row": 33
+  },
+  {
+    "id": 205,
+    "name": "Carnival Cinemas Downtown 1",
+    "location_id": 102,
+    "rows": 17,
+    "seats_per_row": 37
+  },
+  {
+    "id": 206,
+    "name": "Mukta A2 Cinemas Downtown 1",
+    "location_id": 24,
+    "rows": 14,
+    "seats_per_row": 12
+  },
+  {
+    "id": 207,
+    "name": "MovieTime Cinemas Downtown 1",
+    "location_id": 313,
+    "rows": 17,
+    "seats_per_row": 27
+  },
+  {
+    "id": 208,
+    "name": "Rajhans Cinemas Downtown 1",
+    "location_id": 213,
+    "rows": 12,
+    "seats_per_row": 26
+  },
+  {
+    "id": 209,
+    "name": "Asian Cinemas Downtown 1",
+    "location_id": 368,
+    "rows": 28,
+    "seats_per_row": 18
+  },
+  {
+    "id": 210,
+    "name": "SPI Cinemas Downtown 1",
+    "location_id": 205,
+    "rows": 22,
+    "seats_per_row": 27
+  },
+  {
+    "id": 211,
+    "name": "Sathyam Cinemas Downtown 1",
+    "location_id": 336,
+    "rows": 17,
+    "seats_per_row": 16
+  },
+  {
+    "id": 212,
+    "name": "AGS Cinemas Downtown 1",
+    "location_id": 385,
+    "rows": 10,
+    "seats_per_row": 40
+  },
+  {
+    "id": 213,
+    "name": "Prasads Multiplex Downtown 1",
+    "location_id": 218,
+    "rows": 13,
+    "seats_per_row": 36
+  },
+  {
+    "id": 214,
+    "name": "Jazz Cinemas Downtown 1",
+    "location_id": 357,
+    "rows": 17,
+    "seats_per_row": 17
+  },
+  {
+    "id": 215,
+    "name": "Gokulam Cinemas Downtown 1",
+    "location_id": 26,
+    "rows": 26,
+    "seats_per_row": 26
+  },
+  {
+    "id": 216,
+    "name": "Wave Cinemas Downtown 1",
+    "location_id": 63,
+    "rows": 27,
+    "seats_per_row": 19
+  },
+  {
+    "id": 217,
+    "name": "M2K Cinemas Downtown 1",
+    "location_id": 238,
+    "rows": 24,
+    "seats_per_row": 16
+  },
+  {
+    "id": 218,
+    "name": "Movietime Downtown 1",
+    "location_id": 305,
+    "rows": 26,
+    "seats_per_row": 29
+  },
+  {
+    "id": 219,
+    "name": "Gold Cinema Downtown 1",
+    "location_id": 387,
+    "rows": 20,
+    "seats_per_row": 42
+  },
+  {
+    "id": 220,
+    "name": "City Pride Downtown 1",
+    "location_id": 369,
+    "rows": 24,
+    "seats_per_row": 31
+  },
+  {
+    "id": 221,
+    "name": "EVM Cinemas Downtown 1",
+    "location_id": 281,
+    "rows": 26,
+    "seats_per_row": 25
+  },
+  {
+    "id": 222,
+    "name": "Aries Plex Downtown 1",
+    "location_id": 82,
+    "rows": 24,
+    "seats_per_row": 40
+  },
+  {
+    "id": 223,
+    "name": "Broadway Cinemas Downtown 1",
+    "location_id": 133,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 224,
+    "name": "Roopbani Cinema Downtown 1",
+    "location_id": 327,
+    "rows": 17,
+    "seats_per_row": 38
+  },
+  {
+    "id": 225,
+    "name": "Liberty Cinema Downtown 1",
+    "location_id": 267,
+    "rows": 18,
+    "seats_per_row": 36
+  },
+  {
+    "id": 226,
+    "name": "Regal Cinema Downtown 1",
+    "location_id": 123,
+    "rows": 25,
+    "seats_per_row": 32
+  },
+  {
+    "id": 227,
+    "name": "Plaza Cinema Downtown 1",
+    "location_id": 40,
+    "rows": 18,
+    "seats_per_row": 26
+  },
+  {
+    "id": 228,
+    "name": "Delite Cinema Downtown 1",
+    "location_id": 140,
+    "rows": 19,
+    "seats_per_row": 19
+  },
+  {
+    "id": 229,
+    "name": "Roxy Cinema Downtown 1",
+    "location_id": 277,
+    "rows": 20,
+    "seats_per_row": 22
+  },
+  {
+    "id": 230,
+    "name": "Empire Cinemas Downtown 1",
+    "location_id": 78,
+    "rows": 12,
+    "seats_per_row": 16
+  },
+  {
+    "id": 231,
+    "name": "Galaxy Cinema Downtown 1",
+    "location_id": 356,
+    "rows": 17,
+    "seats_per_row": 24
+  },
+  {
+    "id": 232,
+    "name": "Crown Cinema Downtown 1",
+    "location_id": 110,
+    "rows": 14,
+    "seats_per_row": 34
+  },
+  {
+    "id": 233,
+    "name": "Capital Cinema Downtown 1",
+    "location_id": 209,
+    "rows": 12,
+    "seats_per_row": 25
+  },
+  {
+    "id": 234,
+    "name": "Lighthouse Cinema Downtown 1",
+    "location_id": 239,
+    "rows": 20,
+    "seats_per_row": 29
+  },
+  {
+    "id": 235,
+    "name": "Mayajaal Downtown 1",
+    "location_id": 106,
+    "rows": 23,
+    "seats_per_row": 13
+  },
+  {
+    "id": 236,
+    "name": "Cine Hub Downtown 1",
+    "location_id": 300,
+    "rows": 23,
+    "seats_per_row": 24
+  },
+  {
+    "id": 237,
+    "name": "Fun Cinemas Downtown 1",
+    "location_id": 392,
+    "rows": 10,
+    "seats_per_row": 39
+  },
+  {
+    "id": 238,
+    "name": "Metro Cinema Downtown 1",
+    "location_id": 245,
+    "rows": 28,
+    "seats_per_row": 24
+  },
+  {
+    "id": 239,
+    "name": "Sri Balaji Cinemas Downtown 1",
+    "location_id": 181,
+    "rows": 10,
+    "seats_per_row": 42
+  },
+  {
+    "id": 240,
+    "name": "SRS Cinemas Downtown 1",
+    "location_id": 200,
+    "rows": 19,
+    "seats_per_row": 36
+  },
+  {
+    "id": 241,
+    "name": "PVR Junction 1",
+    "location_id": 383,
+    "rows": 23,
+    "seats_per_row": 29
+  },
+  {
+    "id": 242,
+    "name": "INOX Junction 1",
+    "location_id": 309,
+    "rows": 27,
+    "seats_per_row": 37
+  },
+  {
+    "id": 243,
+    "name": "Cinepolis Junction 1",
+    "location_id": 113,
+    "rows": 17,
+    "seats_per_row": 27
+  },
+  {
+    "id": 244,
+    "name": "Miraj Cinemas Junction 1",
+    "location_id": 249,
+    "rows": 18,
+    "seats_per_row": 25
+  },
+  {
+    "id": 245,
+    "name": "Carnival Cinemas Junction 1",
+    "location_id": 173,
+    "rows": 10,
+    "seats_per_row": 24
+  },
+  {
+    "id": 246,
+    "name": "Mukta A2 Cinemas Junction 1",
+    "location_id": 85,
+    "rows": 22,
+    "seats_per_row": 35
+  },
+  {
+    "id": 247,
+    "name": "MovieTime Cinemas Junction 1",
+    "location_id": 66,
+    "rows": 24,
+    "seats_per_row": 41
+  },
+  {
+    "id": 248,
+    "name": "Rajhans Cinemas Junction 1",
+    "location_id": 202,
+    "rows": 27,
+    "seats_per_row": 12
+  },
+  {
+    "id": 249,
+    "name": "Asian Cinemas Junction 1",
+    "location_id": 340,
+    "rows": 28,
+    "seats_per_row": 30
+  },
+  {
+    "id": 250,
+    "name": "SPI Cinemas Junction 1",
+    "location_id": 330,
+    "rows": 10,
+    "seats_per_row": 14
+  },
+  {
+    "id": 251,
+    "name": "Sathyam Cinemas Junction 1",
+    "location_id": 237,
+    "rows": 23,
+    "seats_per_row": 16
+  },
+  {
+    "id": 252,
+    "name": "AGS Cinemas Junction 1",
+    "location_id": 134,
+    "rows": 15,
+    "seats_per_row": 13
+  },
+  {
+    "id": 253,
+    "name": "Prasads Multiplex Junction 1",
+    "location_id": 109,
+    "rows": 22,
+    "seats_per_row": 22
+  },
+  {
+    "id": 254,
+    "name": "Jazz Cinemas Junction 1",
+    "location_id": 173,
+    "rows": 24,
+    "seats_per_row": 22
+  },
+  {
+    "id": 255,
+    "name": "Gokulam Cinemas Junction 1",
+    "location_id": 386,
+    "rows": 22,
+    "seats_per_row": 20
+  },
+  {
+    "id": 256,
+    "name": "Wave Cinemas Junction 1",
+    "location_id": 42,
+    "rows": 23,
+    "seats_per_row": 20
+  },
+  {
+    "id": 257,
+    "name": "M2K Cinemas Junction 1",
+    "location_id": 384,
+    "rows": 25,
+    "seats_per_row": 12
+  },
+  {
+    "id": 258,
+    "name": "Movietime Junction 1",
+    "location_id": 180,
+    "rows": 27,
+    "seats_per_row": 13
+  },
+  {
+    "id": 259,
+    "name": "Gold Cinema Junction 1",
+    "location_id": 36,
+    "rows": 17,
+    "seats_per_row": 32
+  },
+  {
+    "id": 260,
+    "name": "City Pride Junction 1",
+    "location_id": 16,
+    "rows": 11,
+    "seats_per_row": 36
+  },
+  {
+    "id": 261,
+    "name": "EVM Cinemas Junction 1",
+    "location_id": 11,
+    "rows": 17,
+    "seats_per_row": 18
+  },
+  {
+    "id": 262,
+    "name": "Aries Plex Junction 1",
+    "location_id": 65,
+    "rows": 14,
+    "seats_per_row": 19
+  },
+  {
+    "id": 263,
+    "name": "Broadway Cinemas Junction 1",
+    "location_id": 59,
+    "rows": 25,
+    "seats_per_row": 33
+  },
+  {
+    "id": 264,
+    "name": "Roopbani Cinema Junction 1",
+    "location_id": 112,
+    "rows": 28,
+    "seats_per_row": 42
+  },
+  {
+    "id": 265,
+    "name": "Liberty Cinema Junction 1",
+    "location_id": 132,
+    "rows": 24,
+    "seats_per_row": 34
+  },
+  {
+    "id": 266,
+    "name": "Regal Cinema Junction 1",
+    "location_id": 311,
+    "rows": 21,
+    "seats_per_row": 17
+  },
+  {
+    "id": 267,
+    "name": "Plaza Cinema Junction 1",
+    "location_id": 84,
+    "rows": 13,
+    "seats_per_row": 36
+  },
+  {
+    "id": 268,
+    "name": "Delite Cinema Junction 1",
+    "location_id": 297,
+    "rows": 19,
+    "seats_per_row": 15
+  },
+  {
+    "id": 269,
+    "name": "Roxy Cinema Junction 1",
+    "location_id": 160,
+    "rows": 10,
+    "seats_per_row": 41
+  },
+  {
+    "id": 270,
+    "name": "Empire Cinemas Junction 1",
+    "location_id": 193,
+    "rows": 28,
+    "seats_per_row": 33
+  },
+  {
+    "id": 271,
+    "name": "Galaxy Cinema Junction 1",
+    "location_id": 367,
+    "rows": 22,
+    "seats_per_row": 42
+  },
+  {
+    "id": 272,
+    "name": "Crown Cinema Junction 1",
+    "location_id": 304,
+    "rows": 16,
+    "seats_per_row": 14
+  },
+  {
+    "id": 273,
+    "name": "Capital Cinema Junction 1",
+    "location_id": 357,
+    "rows": 17,
+    "seats_per_row": 15
+  },
+  {
+    "id": 274,
+    "name": "Lighthouse Cinema Junction 1",
+    "location_id": 351,
+    "rows": 19,
+    "seats_per_row": 39
+  },
+  {
+    "id": 275,
+    "name": "Mayajaal Junction 1",
+    "location_id": 290,
+    "rows": 13,
+    "seats_per_row": 37
+  },
+  {
+    "id": 276,
+    "name": "Cine Hub Junction 1",
+    "location_id": 273,
+    "rows": 11,
+    "seats_per_row": 23
+  },
+  {
+    "id": 277,
+    "name": "Fun Cinemas Junction 1",
+    "location_id": 190,
+    "rows": 23,
+    "seats_per_row": 33
+  },
+  {
+    "id": 278,
+    "name": "Metro Cinema Junction 1",
+    "location_id": 332,
+    "rows": 12,
+    "seats_per_row": 28
+  },
+  {
+    "id": 279,
+    "name": "Sri Balaji Cinemas Junction 1",
+    "location_id": 216,
+    "rows": 20,
+    "seats_per_row": 12
+  },
+  {
+    "id": 280,
+    "name": "SRS Cinemas Junction 1",
+    "location_id": 222,
+    "rows": 25,
+    "seats_per_row": 15
+  },
+  {
+    "id": 281,
+    "name": "PVR Plaza 1",
+    "location_id": 236,
+    "rows": 21,
+    "seats_per_row": 32
+  },
+  {
+    "id": 282,
+    "name": "INOX Plaza 1",
+    "location_id": 91,
+    "rows": 14,
+    "seats_per_row": 25
+  },
+  {
+    "id": 283,
+    "name": "Cinepolis Plaza 1",
+    "location_id": 334,
+    "rows": 26,
+    "seats_per_row": 42
+  },
+  {
+    "id": 284,
+    "name": "Miraj Cinemas Plaza 1",
+    "location_id": 276,
+    "rows": 18,
+    "seats_per_row": 31
+  },
+  {
+    "id": 285,
+    "name": "Carnival Cinemas Plaza 1",
+    "location_id": 224,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 286,
+    "name": "Mukta A2 Cinemas Plaza 1",
+    "location_id": 166,
+    "rows": 28,
+    "seats_per_row": 20
+  },
+  {
+    "id": 287,
+    "name": "MovieTime Cinemas Plaza 1",
+    "location_id": 45,
+    "rows": 17,
+    "seats_per_row": 38
+  },
+  {
+    "id": 288,
+    "name": "Rajhans Cinemas Plaza 1",
+    "location_id": 231,
+    "rows": 18,
+    "seats_per_row": 40
+  },
+  {
+    "id": 289,
+    "name": "Asian Cinemas Plaza 1",
+    "location_id": 238,
+    "rows": 17,
+    "seats_per_row": 36
+  },
+  {
+    "id": 290,
+    "name": "SPI Cinemas Plaza 1",
+    "location_id": 343,
+    "rows": 28,
+    "seats_per_row": 31
+  },
+  {
+    "id": 291,
+    "name": "Sathyam Cinemas Plaza 1",
+    "location_id": 15,
+    "rows": 22,
+    "seats_per_row": 22
+  },
+  {
+    "id": 292,
+    "name": "AGS Cinemas Plaza 1",
+    "location_id": 167,
+    "rows": 25,
+    "seats_per_row": 39
+  },
+  {
+    "id": 293,
+    "name": "Prasads Multiplex Plaza 1",
+    "location_id": 109,
+    "rows": 15,
+    "seats_per_row": 27
+  },
+  {
+    "id": 294,
+    "name": "Jazz Cinemas Plaza 1",
+    "location_id": 133,
+    "rows": 21,
+    "seats_per_row": 37
+  },
+  {
+    "id": 295,
+    "name": "Gokulam Cinemas Plaza 1",
+    "location_id": 306,
+    "rows": 20,
+    "seats_per_row": 20
+  },
+  {
+    "id": 296,
+    "name": "Wave Cinemas Plaza 1",
+    "location_id": 6,
+    "rows": 18,
+    "seats_per_row": 29
+  },
+  {
+    "id": 297,
+    "name": "M2K Cinemas Plaza 1",
+    "location_id": 98,
+    "rows": 26,
+    "seats_per_row": 42
+  },
+  {
+    "id": 298,
+    "name": "Movietime Plaza 1",
+    "location_id": 369,
+    "rows": 12,
+    "seats_per_row": 19
+  },
+  {
+    "id": 299,
+    "name": "Gold Cinema Plaza 1",
+    "location_id": 285,
+    "rows": 23,
+    "seats_per_row": 27
+  },
+  {
+    "id": 300,
+    "name": "City Pride Plaza 1",
+    "location_id": 244,
+    "rows": 17,
+    "seats_per_row": 34
+  },
+  {
+    "id": 301,
+    "name": "EVM Cinemas Plaza 1",
+    "location_id": 9,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 302,
+    "name": "Aries Plex Plaza 1",
+    "location_id": 114,
+    "rows": 12,
+    "seats_per_row": 21
+  },
+  {
+    "id": 303,
+    "name": "Broadway Cinemas Plaza 1",
+    "location_id": 125,
+    "rows": 22,
+    "seats_per_row": 34
+  },
+  {
+    "id": 304,
+    "name": "Roopbani Cinema Plaza 1",
+    "location_id": 298,
+    "rows": 19,
+    "seats_per_row": 33
+  },
+  {
+    "id": 305,
+    "name": "Liberty Cinema Plaza 1",
+    "location_id": 284,
+    "rows": 21,
+    "seats_per_row": 27
+  },
+  {
+    "id": 306,
+    "name": "Regal Cinema Plaza 1",
+    "location_id": 218,
+    "rows": 26,
+    "seats_per_row": 23
+  },
+  {
+    "id": 307,
+    "name": "Plaza Cinema Plaza 1",
+    "location_id": 181,
+    "rows": 27,
+    "seats_per_row": 22
+  },
+  {
+    "id": 308,
+    "name": "Delite Cinema Plaza 1",
+    "location_id": 157,
+    "rows": 24,
+    "seats_per_row": 20
+  },
+  {
+    "id": 309,
+    "name": "Roxy Cinema Plaza 1",
+    "location_id": 62,
+    "rows": 18,
+    "seats_per_row": 19
+  },
+  {
+    "id": 310,
+    "name": "Empire Cinemas Plaza 1",
+    "location_id": 62,
+    "rows": 16,
+    "seats_per_row": 22
+  },
+  {
+    "id": 311,
+    "name": "Galaxy Cinema Plaza 1",
+    "location_id": 391,
+    "rows": 27,
+    "seats_per_row": 42
+  },
+  {
+    "id": 312,
+    "name": "Crown Cinema Plaza 1",
+    "location_id": 111,
+    "rows": 15,
+    "seats_per_row": 18
+  },
+  {
+    "id": 313,
+    "name": "Capital Cinema Plaza 1",
+    "location_id": 371,
+    "rows": 25,
+    "seats_per_row": 20
+  },
+  {
+    "id": 314,
+    "name": "Lighthouse Cinema Plaza 1",
+    "location_id": 269,
+    "rows": 28,
+    "seats_per_row": 36
+  },
+  {
+    "id": 315,
+    "name": "Mayajaal Plaza 1",
+    "location_id": 100,
+    "rows": 19,
+    "seats_per_row": 15
+  },
+  {
+    "id": 316,
+    "name": "Cine Hub Plaza 1",
+    "location_id": 185,
+    "rows": 19,
+    "seats_per_row": 19
+  },
+  {
+    "id": 317,
+    "name": "Fun Cinemas Plaza 1",
+    "location_id": 8,
+    "rows": 15,
+    "seats_per_row": 21
+  },
+  {
+    "id": 318,
+    "name": "Metro Cinema Plaza 1",
+    "location_id": 141,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 319,
+    "name": "Sri Balaji Cinemas Plaza 1",
+    "location_id": 284,
+    "rows": 11,
+    "seats_per_row": 13
+  },
+  {
+    "id": 320,
+    "name": "SRS Cinemas Plaza 1",
+    "location_id": 65,
+    "rows": 19,
+    "seats_per_row": 34
+  },
+  {
+    "id": 321,
+    "name": "PVR Square 1",
+    "location_id": 7,
+    "rows": 25,
+    "seats_per_row": 15
+  },
+  {
+    "id": 322,
+    "name": "INOX Square 1",
+    "location_id": 241,
+    "rows": 28,
+    "seats_per_row": 21
+  },
+  {
+    "id": 323,
+    "name": "Cinepolis Square 1",
+    "location_id": 175,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 324,
+    "name": "Miraj Cinemas Square 1",
+    "location_id": 27,
+    "rows": 15,
+    "seats_per_row": 42
+  },
+  {
+    "id": 325,
+    "name": "Carnival Cinemas Square 1",
+    "location_id": 245,
+    "rows": 18,
+    "seats_per_row": 42
+  },
+  {
+    "id": 326,
+    "name": "Mukta A2 Cinemas Square 1",
+    "location_id": 34,
+    "rows": 13,
+    "seats_per_row": 38
+  },
+  {
+    "id": 327,
+    "name": "MovieTime Cinemas Square 1",
+    "location_id": 38,
+    "rows": 22,
+    "seats_per_row": 27
+  },
+  {
+    "id": 328,
+    "name": "Rajhans Cinemas Square 1",
+    "location_id": 352,
+    "rows": 28,
+    "seats_per_row": 32
+  },
+  {
+    "id": 329,
+    "name": "Asian Cinemas Square 1",
+    "location_id": 77,
+    "rows": 11,
+    "seats_per_row": 16
+  },
+  {
+    "id": 330,
+    "name": "SPI Cinemas Square 1",
+    "location_id": 156,
+    "rows": 28,
+    "seats_per_row": 42
+  },
+  {
+    "id": 331,
+    "name": "Sathyam Cinemas Square 1",
+    "location_id": 61,
+    "rows": 12,
+    "seats_per_row": 19
+  },
+  {
+    "id": 332,
+    "name": "AGS Cinemas Square 1",
+    "location_id": 214,
+    "rows": 27,
+    "seats_per_row": 36
+  },
+  {
+    "id": 333,
+    "name": "Prasads Multiplex Square 1",
+    "location_id": 268,
+    "rows": 17,
+    "seats_per_row": 36
+  },
+  {
+    "id": 334,
+    "name": "Jazz Cinemas Square 1",
+    "location_id": 227,
+    "rows": 22,
+    "seats_per_row": 26
+  },
+  {
+    "id": 335,
+    "name": "Gokulam Cinemas Square 1",
+    "location_id": 302,
+    "rows": 19,
+    "seats_per_row": 39
+  },
+  {
+    "id": 336,
+    "name": "Wave Cinemas Square 1",
+    "location_id": 292,
+    "rows": 23,
+    "seats_per_row": 21
+  },
+  {
+    "id": 337,
+    "name": "M2K Cinemas Square 1",
+    "location_id": 379,
+    "rows": 11,
+    "seats_per_row": 31
+  },
+  {
+    "id": 338,
+    "name": "Movietime Square 1",
+    "location_id": 391,
+    "rows": 13,
+    "seats_per_row": 42
+  },
+  {
+    "id": 339,
+    "name": "Gold Cinema Square 1",
+    "location_id": 109,
+    "rows": 16,
+    "seats_per_row": 32
+  },
+  {
+    "id": 340,
+    "name": "City Pride Square 1",
+    "location_id": 42,
+    "rows": 18,
+    "seats_per_row": 33
+  },
+  {
+    "id": 341,
+    "name": "EVM Cinemas Square 1",
+    "location_id": 89,
+    "rows": 15,
+    "seats_per_row": 19
+  },
+  {
+    "id": 342,
+    "name": "Aries Plex Square 1",
+    "location_id": 81,
+    "rows": 27,
+    "seats_per_row": 14
+  },
+  {
+    "id": 343,
+    "name": "Broadway Cinemas Square 1",
+    "location_id": 231,
+    "rows": 10,
+    "seats_per_row": 25
+  },
+  {
+    "id": 344,
+    "name": "Roopbani Cinema Square 1",
+    "location_id": 17,
+    "rows": 25,
+    "seats_per_row": 21
+  },
+  {
+    "id": 345,
+    "name": "Liberty Cinema Square 1",
+    "location_id": 362,
+    "rows": 17,
+    "seats_per_row": 21
+  },
+  {
+    "id": 346,
+    "name": "Regal Cinema Square 1",
+    "location_id": 233,
+    "rows": 19,
+    "seats_per_row": 34
+  },
+  {
+    "id": 347,
+    "name": "Plaza Cinema Square 1",
+    "location_id": 120,
+    "rows": 12,
+    "seats_per_row": 33
+  },
+  {
+    "id": 348,
+    "name": "Delite Cinema Square 1",
+    "location_id": 321,
+    "rows": 18,
+    "seats_per_row": 37
+  },
+  {
+    "id": 349,
+    "name": "Roxy Cinema Square 1",
+    "location_id": 102,
+    "rows": 28,
+    "seats_per_row": 33
+  },
+  {
+    "id": 350,
+    "name": "Empire Cinemas Square 1",
+    "location_id": 279,
+    "rows": 23,
+    "seats_per_row": 15
+  },
+  {
+    "id": 351,
+    "name": "Galaxy Cinema Square 1",
+    "location_id": 77,
+    "rows": 17,
+    "seats_per_row": 32
+  },
+  {
+    "id": 352,
+    "name": "Crown Cinema Square 1",
+    "location_id": 73,
+    "rows": 18,
+    "seats_per_row": 38
+  },
+  {
+    "id": 353,
+    "name": "Capital Cinema Square 1",
+    "location_id": 85,
+    "rows": 12,
+    "seats_per_row": 13
+  },
+  {
+    "id": 354,
+    "name": "Lighthouse Cinema Square 1",
+    "location_id": 384,
+    "rows": 19,
+    "seats_per_row": 31
+  },
+  {
+    "id": 355,
+    "name": "Mayajaal Square 1",
+    "location_id": 148,
+    "rows": 28,
+    "seats_per_row": 41
+  },
+  {
+    "id": 356,
+    "name": "Cine Hub Square 1",
+    "location_id": 240,
+    "rows": 24,
+    "seats_per_row": 15
+  },
+  {
+    "id": 357,
+    "name": "Fun Cinemas Square 1",
+    "location_id": 207,
+    "rows": 19,
+    "seats_per_row": 34
+  },
+  {
+    "id": 358,
+    "name": "Metro Cinema Square 1",
+    "location_id": 277,
+    "rows": 18,
+    "seats_per_row": 28
+  },
+  {
+    "id": 359,
+    "name": "Sri Balaji Cinemas Square 1",
+    "location_id": 42,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 360,
+    "name": "SRS Cinemas Square 1",
+    "location_id": 222,
+    "rows": 11,
+    "seats_per_row": 40
+  },
+  {
+    "id": 361,
+    "name": "PVR Avenue 1",
+    "location_id": 129,
+    "rows": 20,
+    "seats_per_row": 31
+  },
+  {
+    "id": 362,
+    "name": "INOX Avenue 1",
+    "location_id": 118,
+    "rows": 10,
+    "seats_per_row": 14
+  },
+  {
+    "id": 363,
+    "name": "Cinepolis Avenue 1",
+    "location_id": 11,
+    "rows": 28,
+    "seats_per_row": 30
+  },
+  {
+    "id": 364,
+    "name": "Miraj Cinemas Avenue 1",
+    "location_id": 21,
+    "rows": 18,
+    "seats_per_row": 30
+  },
+  {
+    "id": 365,
+    "name": "Carnival Cinemas Avenue 1",
+    "location_id": 266,
+    "rows": 15,
+    "seats_per_row": 27
+  },
+  {
+    "id": 366,
+    "name": "Mukta A2 Cinemas Avenue 1",
+    "location_id": 143,
+    "rows": 24,
+    "seats_per_row": 41
+  },
+  {
+    "id": 367,
+    "name": "MovieTime Cinemas Avenue 1",
+    "location_id": 224,
+    "rows": 15,
+    "seats_per_row": 30
+  },
+  {
+    "id": 368,
+    "name": "Rajhans Cinemas Avenue 1",
+    "location_id": 241,
+    "rows": 25,
+    "seats_per_row": 14
+  },
+  {
+    "id": 369,
+    "name": "Asian Cinemas Avenue 1",
+    "location_id": 171,
+    "rows": 21,
+    "seats_per_row": 25
+  },
+  {
+    "id": 370,
+    "name": "SPI Cinemas Avenue 1",
+    "location_id": 54,
+    "rows": 20,
+    "seats_per_row": 33
+  },
+  {
+    "id": 371,
+    "name": "Sathyam Cinemas Avenue 1",
+    "location_id": 211,
+    "rows": 15,
+    "seats_per_row": 22
+  },
+  {
+    "id": 372,
+    "name": "AGS Cinemas Avenue 1",
+    "location_id": 340,
+    "rows": 25,
+    "seats_per_row": 21
+  },
+  {
+    "id": 373,
+    "name": "Prasads Multiplex Avenue 1",
+    "location_id": 390,
+    "rows": 22,
+    "seats_per_row": 38
+  },
+  {
+    "id": 374,
+    "name": "Jazz Cinemas Avenue 1",
+    "location_id": 233,
+    "rows": 27,
+    "seats_per_row": 13
+  },
+  {
+    "id": 375,
+    "name": "Gokulam Cinemas Avenue 1",
+    "location_id": 130,
+    "rows": 12,
+    "seats_per_row": 22
+  },
+  {
+    "id": 376,
+    "name": "Wave Cinemas Avenue 1",
+    "location_id": 207,
+    "rows": 20,
+    "seats_per_row": 15
+  },
+  {
+    "id": 377,
+    "name": "M2K Cinemas Avenue 1",
+    "location_id": 1,
+    "rows": 26,
+    "seats_per_row": 38
+  },
+  {
+    "id": 378,
+    "name": "Movietime Avenue 1",
+    "location_id": 212,
+    "rows": 27,
+    "seats_per_row": 26
+  },
+  {
+    "id": 379,
+    "name": "Gold Cinema Avenue 1",
+    "location_id": 266,
+    "rows": 11,
+    "seats_per_row": 18
+  },
+  {
+    "id": 380,
+    "name": "City Pride Avenue 1",
+    "location_id": 388,
+    "rows": 21,
+    "seats_per_row": 31
+  },
+  {
+    "id": 381,
+    "name": "EVM Cinemas Avenue 1",
+    "location_id": 227,
+    "rows": 25,
+    "seats_per_row": 32
+  },
+  {
+    "id": 382,
+    "name": "Aries Plex Avenue 1",
+    "location_id": 137,
+    "rows": 11,
+    "seats_per_row": 18
+  },
+  {
+    "id": 383,
+    "name": "Broadway Cinemas Avenue 1",
+    "location_id": 148,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 384,
+    "name": "Roopbani Cinema Avenue 1",
+    "location_id": 358,
+    "rows": 24,
+    "seats_per_row": 40
+  },
+  {
+    "id": 385,
+    "name": "Liberty Cinema Avenue 1",
+    "location_id": 15,
+    "rows": 25,
+    "seats_per_row": 15
+  },
+  {
+    "id": 386,
+    "name": "Regal Cinema Avenue 1",
+    "location_id": 82,
+    "rows": 17,
+    "seats_per_row": 34
+  },
+  {
+    "id": 387,
+    "name": "Plaza Cinema Avenue 1",
+    "location_id": 8,
+    "rows": 19,
+    "seats_per_row": 29
+  },
+  {
+    "id": 388,
+    "name": "Delite Cinema Avenue 1",
+    "location_id": 48,
+    "rows": 27,
+    "seats_per_row": 25
+  },
+  {
+    "id": 389,
+    "name": "Roxy Cinema Avenue 1",
+    "location_id": 59,
+    "rows": 17,
+    "seats_per_row": 38
+  },
+  {
+    "id": 390,
+    "name": "Empire Cinemas Avenue 1",
+    "location_id": 61,
+    "rows": 24,
+    "seats_per_row": 42
+  },
+  {
+    "id": 391,
+    "name": "Galaxy Cinema Avenue 1",
+    "location_id": 367,
+    "rows": 14,
+    "seats_per_row": 27
+  },
+  {
+    "id": 392,
+    "name": "Crown Cinema Avenue 1",
+    "location_id": 362,
+    "rows": 19,
+    "seats_per_row": 28
+  },
+  {
+    "id": 393,
+    "name": "Capital Cinema Avenue 1",
+    "location_id": 248,
+    "rows": 18,
+    "seats_per_row": 25
+  },
+  {
+    "id": 394,
+    "name": "Lighthouse Cinema Avenue 1",
+    "location_id": 234,
+    "rows": 25,
+    "seats_per_row": 19
+  },
+  {
+    "id": 395,
+    "name": "Mayajaal Avenue 1",
+    "location_id": 197,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 396,
+    "name": "Cine Hub Avenue 1",
+    "location_id": 307,
+    "rows": 16,
+    "seats_per_row": 41
+  },
+  {
+    "id": 397,
+    "name": "Fun Cinemas Avenue 1",
+    "location_id": 70,
+    "rows": 26,
+    "seats_per_row": 35
+  },
+  {
+    "id": 398,
+    "name": "Metro Cinema Avenue 1",
+    "location_id": 213,
+    "rows": 12,
+    "seats_per_row": 20
+  },
+  {
+    "id": 399,
+    "name": "Sri Balaji Cinemas Avenue 1",
+    "location_id": 260,
+    "rows": 20,
+    "seats_per_row": 41
+  },
+  {
+    "id": 400,
+    "name": "SRS Cinemas Avenue 1",
+    "location_id": 2,
+    "rows": 18,
+    "seats_per_row": 38
+  },
+  {
+    "id": 401,
+    "name": "PVR Galaxy 1",
+    "location_id": 153,
+    "rows": 19,
+    "seats_per_row": 35
+  },
+  {
+    "id": 402,
+    "name": "INOX Galaxy 1",
+    "location_id": 338,
+    "rows": 28,
+    "seats_per_row": 30
+  },
+  {
+    "id": 403,
+    "name": "Cinepolis Galaxy 1",
+    "location_id": 77,
+    "rows": 25,
+    "seats_per_row": 39
+  },
+  {
+    "id": 404,
+    "name": "Miraj Cinemas Galaxy 1",
+    "location_id": 248,
+    "rows": 24,
+    "seats_per_row": 29
+  },
+  {
+    "id": 405,
+    "name": "Carnival Cinemas Galaxy 1",
+    "location_id": 283,
+    "rows": 21,
+    "seats_per_row": 22
+  },
+  {
+    "id": 406,
+    "name": "Mukta A2 Cinemas Galaxy 1",
+    "location_id": 234,
+    "rows": 27,
+    "seats_per_row": 24
+  },
+  {
+    "id": 407,
+    "name": "MovieTime Cinemas Galaxy 1",
+    "location_id": 97,
+    "rows": 20,
+    "seats_per_row": 39
+  },
+  {
+    "id": 408,
+    "name": "Rajhans Cinemas Galaxy 1",
+    "location_id": 197,
+    "rows": 17,
+    "seats_per_row": 30
+  },
+  {
+    "id": 409,
+    "name": "Asian Cinemas Galaxy 1",
+    "location_id": 211,
+    "rows": 17,
+    "seats_per_row": 39
+  },
+  {
+    "id": 410,
+    "name": "SPI Cinemas Galaxy 1",
+    "location_id": 382,
+    "rows": 11,
+    "seats_per_row": 22
+  },
+  {
+    "id": 411,
+    "name": "Sathyam Cinemas Galaxy 1",
+    "location_id": 196,
+    "rows": 25,
+    "seats_per_row": 34
+  },
+  {
+    "id": 412,
+    "name": "AGS Cinemas Galaxy 1",
+    "location_id": 334,
+    "rows": 22,
+    "seats_per_row": 33
+  },
+  {
+    "id": 413,
+    "name": "Prasads Multiplex Galaxy 1",
+    "location_id": 19,
+    "rows": 14,
+    "seats_per_row": 27
+  },
+  {
+    "id": 414,
+    "name": "Jazz Cinemas Galaxy 1",
+    "location_id": 303,
+    "rows": 14,
+    "seats_per_row": 28
+  },
+  {
+    "id": 415,
+    "name": "Gokulam Cinemas Galaxy 1",
+    "location_id": 52,
+    "rows": 20,
+    "seats_per_row": 39
+  },
+  {
+    "id": 416,
+    "name": "Wave Cinemas Galaxy 1",
+    "location_id": 270,
+    "rows": 24,
+    "seats_per_row": 15
+  },
+  {
+    "id": 417,
+    "name": "M2K Cinemas Galaxy 1",
+    "location_id": 370,
+    "rows": 24,
+    "seats_per_row": 12
+  },
+  {
+    "id": 418,
+    "name": "Movietime Galaxy 1",
+    "location_id": 336,
+    "rows": 14,
+    "seats_per_row": 25
+  },
+  {
+    "id": 419,
+    "name": "Gold Cinema Galaxy 1",
+    "location_id": 241,
+    "rows": 14,
+    "seats_per_row": 14
+  },
+  {
+    "id": 420,
+    "name": "City Pride Galaxy 1",
+    "location_id": 320,
+    "rows": 18,
+    "seats_per_row": 22
+  },
+  {
+    "id": 421,
+    "name": "EVM Cinemas Galaxy 1",
+    "location_id": 42,
+    "rows": 22,
+    "seats_per_row": 32
+  },
+  {
+    "id": 422,
+    "name": "Aries Plex Galaxy 1",
+    "location_id": 346,
+    "rows": 20,
+    "seats_per_row": 39
+  },
+  {
+    "id": 423,
+    "name": "Broadway Cinemas Galaxy 1",
+    "location_id": 163,
+    "rows": 27,
+    "seats_per_row": 24
+  },
+  {
+    "id": 424,
+    "name": "Roopbani Cinema Galaxy 1",
+    "location_id": 278,
+    "rows": 25,
+    "seats_per_row": 39
+  },
+  {
+    "id": 425,
+    "name": "Liberty Cinema Galaxy 1",
+    "location_id": 36,
+    "rows": 11,
+    "seats_per_row": 31
+  },
+  {
+    "id": 426,
+    "name": "Regal Cinema Galaxy 1",
+    "location_id": 351,
+    "rows": 17,
+    "seats_per_row": 32
+  },
+  {
+    "id": 427,
+    "name": "Plaza Cinema Galaxy 1",
+    "location_id": 383,
+    "rows": 19,
+    "seats_per_row": 19
+  },
+  {
+    "id": 428,
+    "name": "Delite Cinema Galaxy 1",
+    "location_id": 51,
+    "rows": 12,
+    "seats_per_row": 25
+  },
+  {
+    "id": 429,
+    "name": "Roxy Cinema Galaxy 1",
+    "location_id": 86,
+    "rows": 13,
+    "seats_per_row": 26
+  },
+  {
+    "id": 430,
+    "name": "Empire Cinemas Galaxy 1",
+    "location_id": 15,
+    "rows": 19,
+    "seats_per_row": 40
+  },
+  {
+    "id": 431,
+    "name": "Galaxy Cinema Galaxy 1",
+    "location_id": 29,
+    "rows": 11,
+    "seats_per_row": 22
+  },
+  {
+    "id": 432,
+    "name": "Crown Cinema Galaxy 1",
+    "location_id": 192,
+    "rows": 19,
+    "seats_per_row": 23
+  },
+  {
+    "id": 433,
+    "name": "Capital Cinema Galaxy 1",
+    "location_id": 126,
+    "rows": 23,
+    "seats_per_row": 16
+  },
+  {
+    "id": 434,
+    "name": "Lighthouse Cinema Galaxy 1",
+    "location_id": 290,
+    "rows": 26,
+    "seats_per_row": 25
+  },
+  {
+    "id": 435,
+    "name": "Mayajaal Galaxy 1",
+    "location_id": 90,
+    "rows": 15,
+    "seats_per_row": 17
+  },
+  {
+    "id": 436,
+    "name": "Cine Hub Galaxy 1",
+    "location_id": 196,
+    "rows": 12,
+    "seats_per_row": 31
+  },
+  {
+    "id": 437,
+    "name": "Fun Cinemas Galaxy 1",
+    "location_id": 299,
+    "rows": 17,
+    "seats_per_row": 27
+  },
+  {
+    "id": 438,
+    "name": "Metro Cinema Galaxy 1",
+    "location_id": 237,
+    "rows": 14,
+    "seats_per_row": 19
+  },
+  {
+    "id": 439,
+    "name": "Sri Balaji Cinemas Galaxy 1",
+    "location_id": 131,
+    "rows": 18,
+    "seats_per_row": 26
+  },
+  {
+    "id": 440,
+    "name": "SRS Cinemas Galaxy 1",
+    "location_id": 239,
+    "rows": 10,
+    "seats_per_row": 40
+  },
+  {
+    "id": 441,
+    "name": "PVR Heights 1",
+    "location_id": 280,
+    "rows": 19,
+    "seats_per_row": 33
+  },
+  {
+    "id": 442,
+    "name": "INOX Heights 1",
+    "location_id": 227,
+    "rows": 15,
+    "seats_per_row": 14
+  },
+  {
+    "id": 443,
+    "name": "Cinepolis Heights 1",
+    "location_id": 154,
+    "rows": 21,
+    "seats_per_row": 30
+  },
+  {
+    "id": 444,
+    "name": "Miraj Cinemas Heights 1",
+    "location_id": 129,
+    "rows": 23,
+    "seats_per_row": 34
+  },
+  {
+    "id": 445,
+    "name": "Carnival Cinemas Heights 1",
+    "location_id": 155,
+    "rows": 24,
+    "seats_per_row": 39
+  },
+  {
+    "id": 446,
+    "name": "Mukta A2 Cinemas Heights 1",
+    "location_id": 248,
+    "rows": 16,
+    "seats_per_row": 24
+  },
+  {
+    "id": 447,
+    "name": "MovieTime Cinemas Heights 1",
+    "location_id": 196,
+    "rows": 13,
+    "seats_per_row": 19
+  },
+  {
+    "id": 448,
+    "name": "Rajhans Cinemas Heights 1",
+    "location_id": 295,
+    "rows": 28,
+    "seats_per_row": 23
+  },
+  {
+    "id": 449,
+    "name": "Asian Cinemas Heights 1",
+    "location_id": 152,
+    "rows": 19,
+    "seats_per_row": 34
+  },
+  {
+    "id": 450,
+    "name": "SPI Cinemas Heights 1",
+    "location_id": 338,
+    "rows": 10,
+    "seats_per_row": 38
+  },
+  {
+    "id": 451,
+    "name": "Sathyam Cinemas Heights 1",
+    "location_id": 5,
+    "rows": 22,
+    "seats_per_row": 20
+  },
+  {
+    "id": 452,
+    "name": "AGS Cinemas Heights 1",
+    "location_id": 352,
+    "rows": 28,
+    "seats_per_row": 39
+  },
+  {
+    "id": 453,
+    "name": "Prasads Multiplex Heights 1",
+    "location_id": 311,
+    "rows": 11,
+    "seats_per_row": 41
+  },
+  {
+    "id": 454,
+    "name": "Jazz Cinemas Heights 1",
+    "location_id": 147,
+    "rows": 25,
+    "seats_per_row": 38
+  },
+  {
+    "id": 455,
+    "name": "Gokulam Cinemas Heights 1",
+    "location_id": 181,
+    "rows": 17,
+    "seats_per_row": 31
+  },
+  {
+    "id": 456,
+    "name": "Wave Cinemas Heights 1",
+    "location_id": 98,
+    "rows": 17,
+    "seats_per_row": 32
+  },
+  {
+    "id": 457,
+    "name": "M2K Cinemas Heights 1",
+    "location_id": 387,
+    "rows": 18,
+    "seats_per_row": 33
+  },
+  {
+    "id": 458,
+    "name": "Movietime Heights 1",
+    "location_id": 50,
+    "rows": 14,
+    "seats_per_row": 32
+  },
+  {
+    "id": 459,
+    "name": "Gold Cinema Heights 1",
+    "location_id": 226,
+    "rows": 11,
+    "seats_per_row": 21
+  },
+  {
+    "id": 460,
+    "name": "City Pride Heights 1",
+    "location_id": 187,
+    "rows": 11,
+    "seats_per_row": 30
+  },
+  {
+    "id": 461,
+    "name": "EVM Cinemas Heights 1",
+    "location_id": 152,
+    "rows": 14,
+    "seats_per_row": 14
+  },
+  {
+    "id": 462,
+    "name": "Aries Plex Heights 1",
+    "location_id": 213,
+    "rows": 20,
+    "seats_per_row": 35
+  },
+  {
+    "id": 463,
+    "name": "Broadway Cinemas Heights 1",
+    "location_id": 68,
+    "rows": 15,
+    "seats_per_row": 18
+  },
+  {
+    "id": 464,
+    "name": "Roopbani Cinema Heights 1",
+    "location_id": 188,
+    "rows": 27,
+    "seats_per_row": 40
+  },
+  {
+    "id": 465,
+    "name": "Liberty Cinema Heights 1",
+    "location_id": 140,
+    "rows": 26,
+    "seats_per_row": 28
+  },
+  {
+    "id": 466,
+    "name": "Regal Cinema Heights 1",
+    "location_id": 247,
+    "rows": 15,
+    "seats_per_row": 20
+  },
+  {
+    "id": 467,
+    "name": "Plaza Cinema Heights 1",
+    "location_id": 174,
+    "rows": 19,
+    "seats_per_row": 35
+  },
+  {
+    "id": 468,
+    "name": "Delite Cinema Heights 1",
+    "location_id": 39,
+    "rows": 13,
+    "seats_per_row": 26
+  },
+  {
+    "id": 469,
+    "name": "Roxy Cinema Heights 1",
+    "location_id": 116,
+    "rows": 14,
+    "seats_per_row": 36
+  },
+  {
+    "id": 470,
+    "name": "Empire Cinemas Heights 1",
+    "location_id": 286,
+    "rows": 22,
+    "seats_per_row": 42
+  },
+  {
+    "id": 471,
+    "name": "Galaxy Cinema Heights 1",
+    "location_id": 203,
+    "rows": 21,
+    "seats_per_row": 14
+  },
+  {
+    "id": 472,
+    "name": "Crown Cinema Heights 1",
+    "location_id": 275,
+    "rows": 10,
+    "seats_per_row": 20
+  },
+  {
+    "id": 473,
+    "name": "Capital Cinema Heights 1",
+    "location_id": 189,
+    "rows": 13,
+    "seats_per_row": 26
+  },
+  {
+    "id": 474,
+    "name": "Lighthouse Cinema Heights 1",
+    "location_id": 196,
+    "rows": 18,
+    "seats_per_row": 30
+  },
+  {
+    "id": 475,
+    "name": "Mayajaal Heights 1",
+    "location_id": 346,
+    "rows": 21,
+    "seats_per_row": 15
+  },
+  {
+    "id": 476,
+    "name": "Cine Hub Heights 1",
+    "location_id": 13,
+    "rows": 17,
+    "seats_per_row": 27
+  },
+  {
+    "id": 477,
+    "name": "Fun Cinemas Heights 1",
+    "location_id": 313,
+    "rows": 27,
+    "seats_per_row": 22
+  },
+  {
+    "id": 478,
+    "name": "Metro Cinema Heights 1",
+    "location_id": 33,
+    "rows": 17,
+    "seats_per_row": 32
+  },
+  {
+    "id": 479,
+    "name": "Sri Balaji Cinemas Heights 1",
+    "location_id": 359,
+    "rows": 24,
+    "seats_per_row": 41
+  },
+  {
+    "id": 480,
+    "name": "SRS Cinemas Heights 1",
+    "location_id": 210,
+    "rows": 19,
+    "seats_per_row": 32
+  },
+  {
+    "id": 481,
+    "name": "PVR One 1",
+    "location_id": 24,
+    "rows": 13,
+    "seats_per_row": 16
+  },
+  {
+    "id": 482,
+    "name": "INOX One 1",
+    "location_id": 253,
+    "rows": 11,
+    "seats_per_row": 21
+  },
+  {
+    "id": 483,
+    "name": "Cinepolis One 1",
+    "location_id": 121,
+    "rows": 13,
+    "seats_per_row": 15
+  },
+  {
+    "id": 484,
+    "name": "Miraj Cinemas One 1",
+    "location_id": 199,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 485,
+    "name": "Carnival Cinemas One 1",
+    "location_id": 344,
+    "rows": 24,
+    "seats_per_row": 23
+  },
+  {
+    "id": 486,
+    "name": "Mukta A2 Cinemas One 1",
+    "location_id": 301,
+    "rows": 27,
+    "seats_per_row": 25
+  },
+  {
+    "id": 487,
+    "name": "MovieTime Cinemas One 1",
+    "location_id": 213,
+    "rows": 14,
+    "seats_per_row": 40
+  },
+  {
+    "id": 488,
+    "name": "Rajhans Cinemas One 1",
+    "location_id": 251,
+    "rows": 13,
+    "seats_per_row": 38
+  },
+  {
+    "id": 489,
+    "name": "Asian Cinemas One 1",
+    "location_id": 144,
+    "rows": 23,
+    "seats_per_row": 42
+  },
+  {
+    "id": 490,
+    "name": "SPI Cinemas One 1",
+    "location_id": 190,
+    "rows": 11,
+    "seats_per_row": 34
+  },
+  {
+    "id": 491,
+    "name": "Sathyam Cinemas One 1",
+    "location_id": 228,
+    "rows": 16,
+    "seats_per_row": 26
+  },
+  {
+    "id": 492,
+    "name": "AGS Cinemas One 1",
+    "location_id": 186,
+    "rows": 17,
+    "seats_per_row": 39
+  },
+  {
+    "id": 493,
+    "name": "Prasads Multiplex One 1",
+    "location_id": 189,
+    "rows": 13,
+    "seats_per_row": 33
+  },
+  {
+    "id": 494,
+    "name": "Jazz Cinemas One 1",
+    "location_id": 331,
+    "rows": 27,
+    "seats_per_row": 40
+  },
+  {
+    "id": 495,
+    "name": "Gokulam Cinemas One 1",
+    "location_id": 204,
+    "rows": 21,
+    "seats_per_row": 13
+  },
+  {
+    "id": 496,
+    "name": "Wave Cinemas One 1",
+    "location_id": 63,
+    "rows": 18,
+    "seats_per_row": 18
+  },
+  {
+    "id": 497,
+    "name": "M2K Cinemas One 1",
+    "location_id": 340,
+    "rows": 24,
+    "seats_per_row": 14
+  },
+  {
+    "id": 498,
+    "name": "Movietime One 1",
+    "location_id": 328,
+    "rows": 16,
+    "seats_per_row": 32
+  },
+  {
+    "id": 499,
+    "name": "Gold Cinema One 1",
+    "location_id": 171,
+    "rows": 10,
+    "seats_per_row": 13
+  },
+  {
+    "id": 500,
+    "name": "City Pride One 1",
+    "location_id": 290,
+    "rows": 17,
+    "seats_per_row": 16
+  },
+  {
+    "id": 501,
+    "name": "EVM Cinemas One 1",
+    "location_id": 392,
+    "rows": 16,
+    "seats_per_row": 14
+  },
+  {
+    "id": 502,
+    "name": "Aries Plex One 1",
+    "location_id": 301,
+    "rows": 27,
+    "seats_per_row": 18
+  },
+  {
+    "id": 503,
+    "name": "Broadway Cinemas One 1",
+    "location_id": 120,
+    "rows": 16,
+    "seats_per_row": 38
+  },
+  {
+    "id": 504,
+    "name": "Roopbani Cinema One 1",
+    "location_id": 76,
+    "rows": 20,
+    "seats_per_row": 36
+  },
+  {
+    "id": 505,
+    "name": "Liberty Cinema One 1",
+    "location_id": 75,
+    "rows": 10,
+    "seats_per_row": 20
+  },
+  {
+    "id": 506,
+    "name": "Regal Cinema One 1",
+    "location_id": 129,
+    "rows": 14,
+    "seats_per_row": 29
+  },
+  {
+    "id": 507,
+    "name": "Plaza Cinema One 1",
+    "location_id": 339,
+    "rows": 15,
+    "seats_per_row": 15
+  },
+  {
+    "id": 508,
+    "name": "Delite Cinema One 1",
+    "location_id": 8,
+    "rows": 10,
+    "seats_per_row": 16
+  },
+  {
+    "id": 509,
+    "name": "Roxy Cinema One 1",
+    "location_id": 122,
+    "rows": 21,
+    "seats_per_row": 37
+  },
+  {
+    "id": 510,
+    "name": "Empire Cinemas One 1",
+    "location_id": 9,
+    "rows": 28,
+    "seats_per_row": 22
+  },
+  {
+    "id": 511,
+    "name": "Galaxy Cinema One 1",
+    "location_id": 27,
+    "rows": 15,
+    "seats_per_row": 20
+  },
+  {
+    "id": 512,
+    "name": "Crown Cinema One 1",
+    "location_id": 216,
+    "rows": 14,
+    "seats_per_row": 35
+  },
+  {
+    "id": 513,
+    "name": "Capital Cinema One 1",
+    "location_id": 382,
+    "rows": 26,
+    "seats_per_row": 15
+  },
+  {
+    "id": 514,
+    "name": "Lighthouse Cinema One 1",
+    "location_id": 230,
+    "rows": 12,
+    "seats_per_row": 27
+  },
+  {
+    "id": 515,
+    "name": "Mayajaal One 1",
+    "location_id": 304,
+    "rows": 21,
+    "seats_per_row": 28
+  },
+  {
+    "id": 516,
+    "name": "Cine Hub One 1",
+    "location_id": 258,
+    "rows": 13,
+    "seats_per_row": 26
+  },
+  {
+    "id": 517,
+    "name": "Fun Cinemas One 1",
+    "location_id": 315,
+    "rows": 17,
+    "seats_per_row": 42
+  },
+  {
+    "id": 518,
+    "name": "Metro Cinema One 1",
+    "location_id": 338,
+    "rows": 11,
+    "seats_per_row": 35
+  },
+  {
+    "id": 519,
+    "name": "Sri Balaji Cinemas One 1",
+    "location_id": 235,
+    "rows": 26,
+    "seats_per_row": 21
+  },
+  {
+    "id": 520,
+    "name": "SRS Cinemas One 1",
+    "location_id": 246,
+    "rows": 10,
+    "seats_per_row": 13
+  },
+  {
+    "id": 521,
+    "name": "PVR Galleria 1",
+    "location_id": 352,
+    "rows": 22,
+    "seats_per_row": 25
+  },
+  {
+    "id": 522,
+    "name": "INOX Galleria 1",
+    "location_id": 365,
+    "rows": 13,
+    "seats_per_row": 27
+  },
+  {
+    "id": 523,
+    "name": "Cinepolis Galleria 1",
+    "location_id": 42,
+    "rows": 24,
+    "seats_per_row": 14
+  },
+  {
+    "id": 524,
+    "name": "Miraj Cinemas Galleria 1",
+    "location_id": 76,
+    "rows": 20,
+    "seats_per_row": 31
+  },
+  {
+    "id": 525,
+    "name": "Carnival Cinemas Galleria 1",
+    "location_id": 141,
+    "rows": 12,
+    "seats_per_row": 16
+  },
+  {
+    "id": 526,
+    "name": "Mukta A2 Cinemas Galleria 1",
+    "location_id": 365,
+    "rows": 28,
+    "seats_per_row": 29
+  },
+  {
+    "id": 527,
+    "name": "MovieTime Cinemas Galleria 1",
+    "location_id": 306,
+    "rows": 20,
+    "seats_per_row": 24
+  },
+  {
+    "id": 528,
+    "name": "Rajhans Cinemas Galleria 1",
+    "location_id": 233,
+    "rows": 26,
+    "seats_per_row": 21
+  },
+  {
+    "id": 529,
+    "name": "Asian Cinemas Galleria 1",
+    "location_id": 221,
+    "rows": 26,
+    "seats_per_row": 31
+  },
+  {
+    "id": 530,
+    "name": "SPI Cinemas Galleria 1",
+    "location_id": 360,
+    "rows": 13,
+    "seats_per_row": 37
+  },
+  {
+    "id": 531,
+    "name": "Sathyam Cinemas Galleria 1",
+    "location_id": 336,
+    "rows": 13,
+    "seats_per_row": 39
+  },
+  {
+    "id": 532,
+    "name": "AGS Cinemas Galleria 1",
+    "location_id": 111,
+    "rows": 27,
+    "seats_per_row": 35
+  },
+  {
+    "id": 533,
+    "name": "Prasads Multiplex Galleria 1",
+    "location_id": 117,
+    "rows": 23,
+    "seats_per_row": 26
+  },
+  {
+    "id": 534,
+    "name": "Jazz Cinemas Galleria 1",
+    "location_id": 233,
+    "rows": 23,
+    "seats_per_row": 22
+  },
+  {
+    "id": 535,
+    "name": "Gokulam Cinemas Galleria 1",
+    "location_id": 374,
+    "rows": 22,
+    "seats_per_row": 25
+  },
+  {
+    "id": 536,
+    "name": "Wave Cinemas Galleria 1",
+    "location_id": 219,
+    "rows": 13,
+    "seats_per_row": 22
+  },
+  {
+    "id": 537,
+    "name": "M2K Cinemas Galleria 1",
+    "location_id": 131,
+    "rows": 20,
+    "seats_per_row": 33
+  },
+  {
+    "id": 538,
+    "name": "Movietime Galleria 1",
+    "location_id": 79,
+    "rows": 21,
+    "seats_per_row": 42
+  },
+  {
+    "id": 539,
+    "name": "Gold Cinema Galleria 1",
+    "location_id": 47,
+    "rows": 25,
+    "seats_per_row": 14
+  },
+  {
+    "id": 540,
+    "name": "City Pride Galleria 1",
+    "location_id": 222,
+    "rows": 12,
+    "seats_per_row": 14
+  },
+  {
+    "id": 541,
+    "name": "EVM Cinemas Galleria 1",
+    "location_id": 379,
+    "rows": 13,
+    "seats_per_row": 35
+  },
+  {
+    "id": 542,
+    "name": "Aries Plex Galleria 1",
+    "location_id": 67,
+    "rows": 21,
+    "seats_per_row": 37
+  },
+  {
+    "id": 543,
+    "name": "Broadway Cinemas Galleria 1",
+    "location_id": 301,
+    "rows": 27,
+    "seats_per_row": 13
+  },
+  {
+    "id": 544,
+    "name": "Roopbani Cinema Galleria 1",
+    "location_id": 169,
+    "rows": 27,
+    "seats_per_row": 29
+  },
+  {
+    "id": 545,
+    "name": "Liberty Cinema Galleria 1",
+    "location_id": 182,
+    "rows": 13,
+    "seats_per_row": 25
+  },
+  {
+    "id": 546,
+    "name": "Regal Cinema Galleria 1",
+    "location_id": 370,
+    "rows": 23,
+    "seats_per_row": 39
+  },
+  {
+    "id": 547,
+    "name": "Plaza Cinema Galleria 1",
+    "location_id": 148,
+    "rows": 11,
+    "seats_per_row": 42
+  },
+  {
+    "id": 548,
+    "name": "Delite Cinema Galleria 1",
+    "location_id": 54,
+    "rows": 19,
+    "seats_per_row": 23
+  },
+  {
+    "id": 549,
+    "name": "Roxy Cinema Galleria 1",
+    "location_id": 109,
+    "rows": 28,
+    "seats_per_row": 28
+  },
+  {
+    "id": 550,
+    "name": "Empire Cinemas Galleria 1",
+    "location_id": 247,
+    "rows": 14,
+    "seats_per_row": 33
+  },
+  {
+    "id": 551,
+    "name": "Galaxy Cinema Galleria 1",
+    "location_id": 56,
+    "rows": 17,
+    "seats_per_row": 39
+  },
+  {
+    "id": 552,
+    "name": "Crown Cinema Galleria 1",
+    "location_id": 285,
+    "rows": 21,
+    "seats_per_row": 39
+  },
+  {
+    "id": 553,
+    "name": "Capital Cinema Galleria 1",
+    "location_id": 391,
+    "rows": 21,
+    "seats_per_row": 15
+  },
+  {
+    "id": 554,
+    "name": "Lighthouse Cinema Galleria 1",
+    "location_id": 116,
+    "rows": 18,
+    "seats_per_row": 30
+  },
+  {
+    "id": 555,
+    "name": "Mayajaal Galleria 1",
+    "location_id": 288,
+    "rows": 23,
+    "seats_per_row": 39
+  },
+  {
+    "id": 556,
+    "name": "Cine Hub Galleria 1",
+    "location_id": 312,
+    "rows": 27,
+    "seats_per_row": 12
+  },
+  {
+    "id": 557,
+    "name": "Fun Cinemas Galleria 1",
+    "location_id": 93,
+    "rows": 18,
+    "seats_per_row": 12
+  },
+  {
+    "id": 558,
+    "name": "Metro Cinema Galleria 1",
+    "location_id": 391,
+    "rows": 18,
+    "seats_per_row": 34
+  },
+  {
+    "id": 559,
+    "name": "Sri Balaji Cinemas Galleria 1",
+    "location_id": 174,
+    "rows": 19,
+    "seats_per_row": 41
+  },
+  {
+    "id": 560,
+    "name": "SRS Cinemas Galleria 1",
+    "location_id": 93,
+    "rows": 21,
+    "seats_per_row": 12
+  },
+  {
+    "id": 561,
+    "name": "PVR Arcade 1",
+    "location_id": 337,
+    "rows": 14,
+    "seats_per_row": 30
+  },
+  {
+    "id": 562,
+    "name": "INOX Arcade 1",
+    "location_id": 73,
+    "rows": 22,
+    "seats_per_row": 14
+  },
+  {
+    "id": 563,
+    "name": "Cinepolis Arcade 1",
+    "location_id": 383,
+    "rows": 10,
+    "seats_per_row": 14
+  },
+  {
+    "id": 564,
+    "name": "Miraj Cinemas Arcade 1",
+    "location_id": 193,
+    "rows": 26,
+    "seats_per_row": 18
+  },
+  {
+    "id": 565,
+    "name": "Carnival Cinemas Arcade 1",
+    "location_id": 175,
+    "rows": 23,
+    "seats_per_row": 26
+  },
+  {
+    "id": 566,
+    "name": "Mukta A2 Cinemas Arcade 1",
+    "location_id": 160,
+    "rows": 15,
+    "seats_per_row": 23
+  },
+  {
+    "id": 567,
+    "name": "MovieTime Cinemas Arcade 1",
+    "location_id": 291,
+    "rows": 20,
+    "seats_per_row": 36
+  },
+  {
+    "id": 568,
+    "name": "Rajhans Cinemas Arcade 1",
+    "location_id": 27,
+    "rows": 12,
+    "seats_per_row": 40
+  },
+  {
+    "id": 569,
+    "name": "Asian Cinemas Arcade 1",
+    "location_id": 387,
+    "rows": 14,
+    "seats_per_row": 17
+  },
+  {
+    "id": 570,
+    "name": "SPI Cinemas Arcade 1",
+    "location_id": 42,
+    "rows": 11,
+    "seats_per_row": 33
+  },
+  {
+    "id": 571,
+    "name": "Sathyam Cinemas Arcade 1",
+    "location_id": 339,
+    "rows": 18,
+    "seats_per_row": 26
+  },
+  {
+    "id": 572,
+    "name": "AGS Cinemas Arcade 1",
+    "location_id": 311,
+    "rows": 23,
+    "seats_per_row": 27
+  },
+  {
+    "id": 573,
+    "name": "Prasads Multiplex Arcade 1",
+    "location_id": 140,
+    "rows": 24,
+    "seats_per_row": 25
+  },
+  {
+    "id": 574,
+    "name": "Jazz Cinemas Arcade 1",
+    "location_id": 263,
+    "rows": 16,
+    "seats_per_row": 36
+  },
+  {
+    "id": 575,
+    "name": "Gokulam Cinemas Arcade 1",
+    "location_id": 221,
+    "rows": 13,
+    "seats_per_row": 23
+  },
+  {
+    "id": 576,
+    "name": "Wave Cinemas Arcade 1",
+    "location_id": 348,
+    "rows": 13,
+    "seats_per_row": 21
+  },
+  {
+    "id": 577,
+    "name": "M2K Cinemas Arcade 1",
+    "location_id": 270,
+    "rows": 28,
+    "seats_per_row": 27
+  },
+  {
+    "id": 578,
+    "name": "Movietime Arcade 1",
+    "location_id": 113,
+    "rows": 19,
+    "seats_per_row": 13
+  },
+  {
+    "id": 579,
+    "name": "Gold Cinema Arcade 1",
+    "location_id": 29,
+    "rows": 22,
+    "seats_per_row": 31
+  },
+  {
+    "id": 580,
+    "name": "City Pride Arcade 1",
+    "location_id": 155,
+    "rows": 10,
+    "seats_per_row": 18
+  },
+  {
+    "id": 581,
+    "name": "EVM Cinemas Arcade 1",
+    "location_id": 71,
+    "rows": 16,
+    "seats_per_row": 36
+  },
+  {
+    "id": 582,
+    "name": "Aries Plex Arcade 1",
+    "location_id": 168,
+    "rows": 18,
+    "seats_per_row": 21
+  },
+  {
+    "id": 583,
+    "name": "Broadway Cinemas Arcade 1",
+    "location_id": 255,
+    "rows": 13,
+    "seats_per_row": 12
+  },
+  {
+    "id": 584,
+    "name": "Roopbani Cinema Arcade 1",
+    "location_id": 67,
+    "rows": 23,
+    "seats_per_row": 17
+  },
+  {
+    "id": 585,
+    "name": "Liberty Cinema Arcade 1",
+    "location_id": 361,
+    "rows": 22,
+    "seats_per_row": 29
+  },
+  {
+    "id": 586,
+    "name": "Regal Cinema Arcade 1",
+    "location_id": 287,
+    "rows": 17,
+    "seats_per_row": 28
+  },
+  {
+    "id": 587,
+    "name": "Plaza Cinema Arcade 1",
+    "location_id": 204,
+    "rows": 21,
+    "seats_per_row": 14
+  },
+  {
+    "id": 588,
+    "name": "Delite Cinema Arcade 1",
+    "location_id": 10,
+    "rows": 11,
+    "seats_per_row": 25
+  },
+  {
+    "id": 589,
+    "name": "Roxy Cinema Arcade 1",
+    "location_id": 40,
+    "rows": 24,
+    "seats_per_row": 41
+  },
+  {
+    "id": 590,
+    "name": "Empire Cinemas Arcade 1",
+    "location_id": 220,
+    "rows": 20,
+    "seats_per_row": 30
+  },
+  {
+    "id": 591,
+    "name": "Galaxy Cinema Arcade 1",
+    "location_id": 364,
+    "rows": 28,
+    "seats_per_row": 24
+  },
+  {
+    "id": 592,
+    "name": "Crown Cinema Arcade 1",
+    "location_id": 59,
+    "rows": 23,
+    "seats_per_row": 21
+  },
+  {
+    "id": 593,
+    "name": "Capital Cinema Arcade 1",
+    "location_id": 167,
+    "rows": 22,
+    "seats_per_row": 12
+  },
+  {
+    "id": 594,
+    "name": "Lighthouse Cinema Arcade 1",
+    "location_id": 317,
+    "rows": 15,
+    "seats_per_row": 37
+  },
+  {
+    "id": 595,
+    "name": "Mayajaal Arcade 1",
+    "location_id": 354,
+    "rows": 24,
+    "seats_per_row": 38
+  },
+  {
+    "id": 596,
+    "name": "Cine Hub Arcade 1",
+    "location_id": 224,
+    "rows": 21,
+    "seats_per_row": 14
+  },
+  {
+    "id": 597,
+    "name": "Fun Cinemas Arcade 1",
+    "location_id": 224,
+    "rows": 13,
+    "seats_per_row": 19
+  },
+  {
+    "id": 598,
+    "name": "Metro Cinema Arcade 1",
+    "location_id": 269,
+    "rows": 28,
+    "seats_per_row": 24
+  },
+  {
+    "id": 599,
+    "name": "Sri Balaji Cinemas Arcade 1",
+    "location_id": 159,
+    "rows": 12,
+    "seats_per_row": 24
+  },
+  {
+    "id": 600,
+    "name": "SRS Cinemas Arcade 1",
+    "location_id": 171,
+    "rows": 20,
+    "seats_per_row": 19
+  },
+  {
+    "id": 601,
+    "name": "PVR Hub 1",
+    "location_id": 262,
+    "rows": 15,
+    "seats_per_row": 14
+  },
+  {
+    "id": 602,
+    "name": "INOX Hub 1",
+    "location_id": 262,
+    "rows": 13,
+    "seats_per_row": 28
+  },
+  {
+    "id": 603,
+    "name": "Cinepolis Hub 1",
+    "location_id": 179,
+    "rows": 16,
+    "seats_per_row": 40
+  },
+  {
+    "id": 604,
+    "name": "Miraj Cinemas Hub 1",
+    "location_id": 331,
+    "rows": 21,
+    "seats_per_row": 35
+  },
+  {
+    "id": 605,
+    "name": "Carnival Cinemas Hub 1",
+    "location_id": 53,
+    "rows": 14,
+    "seats_per_row": 19
+  },
+  {
+    "id": 606,
+    "name": "Mukta A2 Cinemas Hub 1",
+    "location_id": 102,
+    "rows": 14,
+    "seats_per_row": 20
+  },
+  {
+    "id": 607,
+    "name": "MovieTime Cinemas Hub 1",
+    "location_id": 79,
+    "rows": 15,
+    "seats_per_row": 31
+  },
+  {
+    "id": 608,
+    "name": "Rajhans Cinemas Hub 1",
+    "location_id": 322,
+    "rows": 12,
+    "seats_per_row": 17
+  },
+  {
+    "id": 609,
+    "name": "Asian Cinemas Hub 1",
+    "location_id": 387,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 610,
+    "name": "SPI Cinemas Hub 1",
+    "location_id": 297,
+    "rows": 28,
+    "seats_per_row": 36
+  },
+  {
+    "id": 611,
+    "name": "Sathyam Cinemas Hub 1",
+    "location_id": 290,
+    "rows": 24,
+    "seats_per_row": 33
+  },
+  {
+    "id": 612,
+    "name": "AGS Cinemas Hub 1",
+    "location_id": 322,
+    "rows": 20,
+    "seats_per_row": 39
+  },
+  {
+    "id": 613,
+    "name": "Prasads Multiplex Hub 1",
+    "location_id": 226,
+    "rows": 20,
+    "seats_per_row": 16
+  },
+  {
+    "id": 614,
+    "name": "Jazz Cinemas Hub 1",
+    "location_id": 227,
+    "rows": 12,
+    "seats_per_row": 27
+  },
+  {
+    "id": 615,
+    "name": "Gokulam Cinemas Hub 1",
+    "location_id": 141,
+    "rows": 19,
+    "seats_per_row": 37
+  },
+  {
+    "id": 616,
+    "name": "Wave Cinemas Hub 1",
+    "location_id": 181,
+    "rows": 28,
+    "seats_per_row": 13
+  },
+  {
+    "id": 617,
+    "name": "M2K Cinemas Hub 1",
+    "location_id": 159,
+    "rows": 26,
+    "seats_per_row": 14
+  },
+  {
+    "id": 618,
+    "name": "Movietime Hub 1",
+    "location_id": 20,
+    "rows": 24,
+    "seats_per_row": 26
+  },
+  {
+    "id": 619,
+    "name": "Gold Cinema Hub 1",
+    "location_id": 147,
+    "rows": 11,
+    "seats_per_row": 23
+  },
+  {
+    "id": 620,
+    "name": "City Pride Hub 1",
+    "location_id": 47,
+    "rows": 12,
+    "seats_per_row": 32
+  },
+  {
+    "id": 621,
+    "name": "EVM Cinemas Hub 1",
+    "location_id": 237,
+    "rows": 26,
+    "seats_per_row": 24
+  },
+  {
+    "id": 622,
+    "name": "Aries Plex Hub 1",
+    "location_id": 379,
+    "rows": 28,
+    "seats_per_row": 29
+  },
+  {
+    "id": 623,
+    "name": "Broadway Cinemas Hub 1",
+    "location_id": 293,
+    "rows": 11,
+    "seats_per_row": 26
+  },
+  {
+    "id": 624,
+    "name": "Roopbani Cinema Hub 1",
+    "location_id": 310,
+    "rows": 16,
+    "seats_per_row": 22
+  },
+  {
+    "id": 625,
+    "name": "Liberty Cinema Hub 1",
+    "location_id": 78,
+    "rows": 25,
+    "seats_per_row": 28
+  },
+  {
+    "id": 626,
+    "name": "Regal Cinema Hub 1",
+    "location_id": 53,
+    "rows": 11,
+    "seats_per_row": 26
+  },
+  {
+    "id": 627,
+    "name": "Plaza Cinema Hub 1",
+    "location_id": 44,
+    "rows": 20,
+    "seats_per_row": 34
+  },
+  {
+    "id": 628,
+    "name": "Delite Cinema Hub 1",
+    "location_id": 89,
+    "rows": 26,
+    "seats_per_row": 32
+  },
+  {
+    "id": 629,
+    "name": "Roxy Cinema Hub 1",
+    "location_id": 363,
+    "rows": 11,
+    "seats_per_row": 19
+  },
+  {
+    "id": 630,
+    "name": "Empire Cinemas Hub 1",
+    "location_id": 269,
+    "rows": 24,
+    "seats_per_row": 26
+  },
+  {
+    "id": 631,
+    "name": "Galaxy Cinema Hub 1",
+    "location_id": 82,
+    "rows": 26,
+    "seats_per_row": 31
+  },
+  {
+    "id": 632,
+    "name": "Crown Cinema Hub 1",
+    "location_id": 145,
+    "rows": 21,
+    "seats_per_row": 23
+  },
+  {
+    "id": 633,
+    "name": "Capital Cinema Hub 1",
+    "location_id": 174,
+    "rows": 22,
+    "seats_per_row": 25
+  },
+  {
+    "id": 634,
+    "name": "Lighthouse Cinema Hub 1",
+    "location_id": 324,
+    "rows": 11,
+    "seats_per_row": 37
+  },
+  {
+    "id": 635,
+    "name": "Mayajaal Hub 1",
+    "location_id": 169,
+    "rows": 20,
+    "seats_per_row": 14
+  },
+  {
+    "id": 636,
+    "name": "Cine Hub Hub 1",
+    "location_id": 348,
+    "rows": 13,
+    "seats_per_row": 29
+  },
+  {
+    "id": 637,
+    "name": "Fun Cinemas Hub 1",
+    "location_id": 130,
+    "rows": 22,
+    "seats_per_row": 21
+  },
+  {
+    "id": 638,
+    "name": "Metro Cinema Hub 1",
+    "location_id": 42,
+    "rows": 14,
+    "seats_per_row": 22
+  },
+  {
+    "id": 639,
+    "name": "Sri Balaji Cinemas Hub 1",
+    "location_id": 73,
+    "rows": 28,
+    "seats_per_row": 33
+  },
+  {
+    "id": 640,
+    "name": "SRS Cinemas Hub 1",
+    "location_id": 336,
+    "rows": 21,
+    "seats_per_row": 21
+  },
+  {
+    "id": 641,
+    "name": "PVR Boulevard 1",
+    "location_id": 305,
+    "rows": 22,
+    "seats_per_row": 16
+  },
+  {
+    "id": 642,
+    "name": "INOX Boulevard 1",
+    "location_id": 287,
+    "rows": 12,
+    "seats_per_row": 21
+  },
+  {
+    "id": 643,
+    "name": "Cinepolis Boulevard 1",
+    "location_id": 169,
+    "rows": 22,
+    "seats_per_row": 32
+  },
+  {
+    "id": 644,
+    "name": "Miraj Cinemas Boulevard 1",
+    "location_id": 360,
+    "rows": 14,
+    "seats_per_row": 33
+  },
+  {
+    "id": 645,
+    "name": "Carnival Cinemas Boulevard 1",
+    "location_id": 331,
+    "rows": 26,
+    "seats_per_row": 14
+  },
+  {
+    "id": 646,
+    "name": "Mukta A2 Cinemas Boulevard 1",
+    "location_id": 186,
+    "rows": 23,
+    "seats_per_row": 28
+  },
+  {
+    "id": 647,
+    "name": "MovieTime Cinemas Boulevard 1",
+    "location_id": 159,
+    "rows": 10,
+    "seats_per_row": 23
+  },
+  {
+    "id": 648,
+    "name": "Rajhans Cinemas Boulevard 1",
+    "location_id": 110,
+    "rows": 15,
+    "seats_per_row": 42
+  },
+  {
+    "id": 649,
+    "name": "Asian Cinemas Boulevard 1",
+    "location_id": 393,
+    "rows": 20,
+    "seats_per_row": 42
+  },
+  {
+    "id": 650,
+    "name": "SPI Cinemas Boulevard 1",
+    "location_id": 116,
+    "rows": 25,
+    "seats_per_row": 18
+  },
+  {
+    "id": 651,
+    "name": "Sathyam Cinemas Boulevard 1",
+    "location_id": 40,
+    "rows": 14,
+    "seats_per_row": 16
+  },
+  {
+    "id": 652,
+    "name": "AGS Cinemas Boulevard 1",
+    "location_id": 52,
+    "rows": 19,
+    "seats_per_row": 39
+  },
+  {
+    "id": 653,
+    "name": "Prasads Multiplex Boulevard 1",
+    "location_id": 277,
+    "rows": 26,
+    "seats_per_row": 36
+  },
+  {
+    "id": 654,
+    "name": "Jazz Cinemas Boulevard 1",
+    "location_id": 339,
+    "rows": 26,
+    "seats_per_row": 13
+  },
+  {
+    "id": 655,
+    "name": "Gokulam Cinemas Boulevard 1",
+    "location_id": 393,
+    "rows": 20,
+    "seats_per_row": 40
+  },
+  {
+    "id": 656,
+    "name": "Wave Cinemas Boulevard 1",
+    "location_id": 193,
+    "rows": 14,
+    "seats_per_row": 31
+  },
+  {
+    "id": 657,
+    "name": "M2K Cinemas Boulevard 1",
+    "location_id": 93,
+    "rows": 14,
+    "seats_per_row": 17
+  },
+  {
+    "id": 658,
+    "name": "Movietime Boulevard 1",
+    "location_id": 225,
+    "rows": 15,
+    "seats_per_row": 35
+  },
+  {
+    "id": 659,
+    "name": "Gold Cinema Boulevard 1",
+    "location_id": 187,
+    "rows": 11,
+    "seats_per_row": 25
+  },
+  {
+    "id": 660,
+    "name": "City Pride Boulevard 1",
+    "location_id": 313,
+    "rows": 17,
+    "seats_per_row": 26
+  },
+  {
+    "id": 661,
+    "name": "EVM Cinemas Boulevard 1",
+    "location_id": 384,
+    "rows": 19,
+    "seats_per_row": 36
+  },
+  {
+    "id": 662,
+    "name": "Aries Plex Boulevard 1",
+    "location_id": 274,
+    "rows": 24,
+    "seats_per_row": 19
+  },
+  {
+    "id": 663,
+    "name": "Broadway Cinemas Boulevard 1",
+    "location_id": 241,
+    "rows": 17,
+    "seats_per_row": 21
+  },
+  {
+    "id": 664,
+    "name": "Roopbani Cinema Boulevard 1",
+    "location_id": 348,
+    "rows": 16,
+    "seats_per_row": 23
+  },
+  {
+    "id": 665,
+    "name": "Liberty Cinema Boulevard 1",
+    "location_id": 237,
+    "rows": 28,
+    "seats_per_row": 26
+  },
+  {
+    "id": 666,
+    "name": "Regal Cinema Boulevard 1",
+    "location_id": 196,
+    "rows": 19,
+    "seats_per_row": 36
+  },
+  {
+    "id": 667,
+    "name": "Plaza Cinema Boulevard 1",
+    "location_id": 215,
+    "rows": 26,
+    "seats_per_row": 28
+  },
+  {
+    "id": 668,
+    "name": "Delite Cinema Boulevard 1",
+    "location_id": 103,
+    "rows": 15,
+    "seats_per_row": 38
+  },
+  {
+    "id": 669,
+    "name": "Roxy Cinema Boulevard 1",
+    "location_id": 129,
+    "rows": 14,
+    "seats_per_row": 39
+  },
+  {
+    "id": 670,
+    "name": "Empire Cinemas Boulevard 1",
+    "location_id": 247,
+    "rows": 11,
+    "seats_per_row": 32
+  },
+  {
+    "id": 671,
+    "name": "Galaxy Cinema Boulevard 1",
+    "location_id": 53,
+    "rows": 21,
+    "seats_per_row": 29
+  },
+  {
+    "id": 672,
+    "name": "Crown Cinema Boulevard 1",
+    "location_id": 64,
+    "rows": 26,
+    "seats_per_row": 39
+  },
+  {
+    "id": 673,
+    "name": "Capital Cinema Boulevard 1",
+    "location_id": 391,
+    "rows": 19,
+    "seats_per_row": 14
+  },
+  {
+    "id": 674,
+    "name": "Lighthouse Cinema Boulevard 1",
+    "location_id": 231,
+    "rows": 15,
+    "seats_per_row": 20
+  },
+  {
+    "id": 675,
+    "name": "Mayajaal Boulevard 1",
+    "location_id": 224,
+    "rows": 26,
+    "seats_per_row": 16
+  },
+  {
+    "id": 676,
+    "name": "Cine Hub Boulevard 1",
+    "location_id": 114,
+    "rows": 12,
+    "seats_per_row": 42
+  },
+  {
+    "id": 677,
+    "name": "Fun Cinemas Boulevard 1",
+    "location_id": 179,
+    "rows": 24,
+    "seats_per_row": 40
+  },
+  {
+    "id": 678,
+    "name": "Metro Cinema Boulevard 1",
+    "location_id": 28,
+    "rows": 10,
+    "seats_per_row": 25
+  },
+  {
+    "id": 679,
+    "name": "Sri Balaji Cinemas Boulevard 1",
+    "location_id": 192,
+    "rows": 22,
+    "seats_per_row": 28
+  },
+  {
+    "id": 680,
+    "name": "SRS Cinemas Boulevard 1",
+    "location_id": 42,
+    "rows": 17,
+    "seats_per_row": 24
+  },
+  {
+    "id": 681,
+    "name": "PVR Tower 1",
+    "location_id": 15,
+    "rows": 21,
+    "seats_per_row": 19
+  },
+  {
+    "id": 682,
+    "name": "INOX Tower 1",
+    "location_id": 51,
+    "rows": 20,
+    "seats_per_row": 41
+  },
+  {
+    "id": 683,
+    "name": "Cinepolis Tower 1",
+    "location_id": 75,
+    "rows": 20,
+    "seats_per_row": 37
+  },
+  {
+    "id": 684,
+    "name": "Miraj Cinemas Tower 1",
+    "location_id": 147,
+    "rows": 14,
+    "seats_per_row": 13
+  },
+  {
+    "id": 685,
+    "name": "Carnival Cinemas Tower 1",
+    "location_id": 72,
+    "rows": 25,
+    "seats_per_row": 34
+  },
+  {
+    "id": 686,
+    "name": "Mukta A2 Cinemas Tower 1",
+    "location_id": 316,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 687,
+    "name": "MovieTime Cinemas Tower 1",
+    "location_id": 41,
+    "rows": 10,
+    "seats_per_row": 40
+  },
+  {
+    "id": 688,
+    "name": "Rajhans Cinemas Tower 1",
+    "location_id": 111,
+    "rows": 10,
+    "seats_per_row": 20
+  },
+  {
+    "id": 689,
+    "name": "Asian Cinemas Tower 1",
+    "location_id": 373,
+    "rows": 14,
+    "seats_per_row": 29
+  },
+  {
+    "id": 690,
+    "name": "SPI Cinemas Tower 1",
+    "location_id": 57,
+    "rows": 26,
+    "seats_per_row": 25
+  },
+  {
+    "id": 691,
+    "name": "Sathyam Cinemas Tower 1",
+    "location_id": 155,
+    "rows": 19,
+    "seats_per_row": 19
+  },
+  {
+    "id": 692,
+    "name": "AGS Cinemas Tower 1",
+    "location_id": 123,
+    "rows": 13,
+    "seats_per_row": 13
+  },
+  {
+    "id": 693,
+    "name": "Prasads Multiplex Tower 1",
+    "location_id": 319,
+    "rows": 23,
+    "seats_per_row": 32
+  },
+  {
+    "id": 694,
+    "name": "Jazz Cinemas Tower 1",
+    "location_id": 57,
+    "rows": 24,
+    "seats_per_row": 14
+  },
+  {
+    "id": 695,
+    "name": "Gokulam Cinemas Tower 1",
+    "location_id": 275,
+    "rows": 25,
+    "seats_per_row": 31
+  },
+  {
+    "id": 696,
+    "name": "Wave Cinemas Tower 1",
+    "location_id": 264,
+    "rows": 10,
+    "seats_per_row": 32
+  },
+  {
+    "id": 697,
+    "name": "M2K Cinemas Tower 1",
+    "location_id": 368,
+    "rows": 28,
+    "seats_per_row": 19
+  },
+  {
+    "id": 698,
+    "name": "Movietime Tower 1",
+    "location_id": 220,
+    "rows": 14,
+    "seats_per_row": 21
+  },
+  {
+    "id": 699,
+    "name": "Gold Cinema Tower 1",
+    "location_id": 181,
+    "rows": 10,
+    "seats_per_row": 31
+  },
+  {
+    "id": 700,
+    "name": "City Pride Tower 1",
+    "location_id": 214,
+    "rows": 17,
+    "seats_per_row": 30
+  },
+  {
+    "id": 701,
+    "name": "EVM Cinemas Tower 1",
+    "location_id": 343,
+    "rows": 15,
+    "seats_per_row": 33
+  },
+  {
+    "id": 702,
+    "name": "Aries Plex Tower 1",
+    "location_id": 185,
+    "rows": 12,
+    "seats_per_row": 28
+  },
+  {
+    "id": 703,
+    "name": "Broadway Cinemas Tower 1",
+    "location_id": 270,
+    "rows": 12,
+    "seats_per_row": 42
+  },
+  {
+    "id": 704,
+    "name": "Roopbani Cinema Tower 1",
+    "location_id": 260,
+    "rows": 27,
+    "seats_per_row": 28
+  },
+  {
+    "id": 705,
+    "name": "Liberty Cinema Tower 1",
+    "location_id": 200,
+    "rows": 27,
+    "seats_per_row": 12
+  },
+  {
+    "id": 706,
+    "name": "Regal Cinema Tower 1",
+    "location_id": 326,
+    "rows": 25,
+    "seats_per_row": 13
+  },
+  {
+    "id": 707,
+    "name": "Plaza Cinema Tower 1",
+    "location_id": 130,
+    "rows": 22,
+    "seats_per_row": 23
+  },
+  {
+    "id": 708,
+    "name": "Delite Cinema Tower 1",
+    "location_id": 35,
+    "rows": 10,
+    "seats_per_row": 23
+  },
+  {
+    "id": 709,
+    "name": "Roxy Cinema Tower 1",
+    "location_id": 376,
+    "rows": 21,
+    "seats_per_row": 19
+  },
+  {
+    "id": 710,
+    "name": "Empire Cinemas Tower 1",
+    "location_id": 298,
+    "rows": 13,
+    "seats_per_row": 36
+  },
+  {
+    "id": 711,
+    "name": "Galaxy Cinema Tower 1",
+    "location_id": 23,
+    "rows": 20,
+    "seats_per_row": 16
+  },
+  {
+    "id": 712,
+    "name": "Crown Cinema Tower 1",
+    "location_id": 174,
+    "rows": 21,
+    "seats_per_row": 29
+  },
+  {
+    "id": 713,
+    "name": "Capital Cinema Tower 1",
+    "location_id": 351,
+    "rows": 15,
+    "seats_per_row": 38
+  },
+  {
+    "id": 714,
+    "name": "Lighthouse Cinema Tower 1",
+    "location_id": 246,
+    "rows": 24,
+    "seats_per_row": 34
+  },
+  {
+    "id": 715,
+    "name": "Mayajaal Tower 1",
+    "location_id": 70,
+    "rows": 15,
+    "seats_per_row": 37
+  },
+  {
+    "id": 716,
+    "name": "Cine Hub Tower 1",
+    "location_id": 235,
+    "rows": 12,
+    "seats_per_row": 34
+  },
+  {
+    "id": 717,
+    "name": "Fun Cinemas Tower 1",
+    "location_id": 104,
+    "rows": 11,
+    "seats_per_row": 21
+  },
+  {
+    "id": 718,
+    "name": "Metro Cinema Tower 1",
+    "location_id": 103,
+    "rows": 11,
+    "seats_per_row": 37
+  },
+  {
+    "id": 719,
+    "name": "Sri Balaji Cinemas Tower 1",
+    "location_id": 159,
+    "rows": 11,
+    "seats_per_row": 22
+  },
+  {
+    "id": 720,
+    "name": "SRS Cinemas Tower 1",
+    "location_id": 279,
+    "rows": 26,
+    "seats_per_row": 24
+  },
+  {
+    "id": 721,
+    "name": "PVR Complex 1",
+    "location_id": 19,
+    "rows": 25,
+    "seats_per_row": 20
+  },
+  {
+    "id": 722,
+    "name": "INOX Complex 1",
+    "location_id": 183,
+    "rows": 16,
+    "seats_per_row": 21
+  },
+  {
+    "id": 723,
+    "name": "Cinepolis Complex 1",
+    "location_id": 336,
+    "rows": 11,
+    "seats_per_row": 39
+  },
+  {
+    "id": 724,
+    "name": "Miraj Cinemas Complex 1",
+    "location_id": 64,
+    "rows": 20,
+    "seats_per_row": 20
+  },
+  {
+    "id": 725,
+    "name": "Carnival Cinemas Complex 1",
+    "location_id": 205,
+    "rows": 21,
+    "seats_per_row": 25
+  },
+  {
+    "id": 726,
+    "name": "Mukta A2 Cinemas Complex 1",
+    "location_id": 198,
+    "rows": 24,
+    "seats_per_row": 40
+  },
+  {
+    "id": 727,
+    "name": "MovieTime Cinemas Complex 1",
+    "location_id": 255,
+    "rows": 20,
+    "seats_per_row": 17
+  },
+  {
+    "id": 728,
+    "name": "Rajhans Cinemas Complex 1",
+    "location_id": 266,
+    "rows": 25,
+    "seats_per_row": 23
+  },
+  {
+    "id": 729,
+    "name": "Asian Cinemas Complex 1",
+    "location_id": 43,
+    "rows": 18,
+    "seats_per_row": 37
+  },
+  {
+    "id": 730,
+    "name": "SPI Cinemas Complex 1",
+    "location_id": 221,
+    "rows": 23,
+    "seats_per_row": 14
+  },
+  {
+    "id": 731,
+    "name": "Sathyam Cinemas Complex 1",
+    "location_id": 151,
+    "rows": 15,
+    "seats_per_row": 29
+  },
+  {
+    "id": 732,
+    "name": "AGS Cinemas Complex 1",
+    "location_id": 41,
+    "rows": 20,
+    "seats_per_row": 15
+  },
+  {
+    "id": 733,
+    "name": "Prasads Multiplex Complex 1",
+    "location_id": 152,
+    "rows": 20,
+    "seats_per_row": 33
+  },
+  {
+    "id": 734,
+    "name": "Jazz Cinemas Complex 1",
+    "location_id": 309,
+    "rows": 19,
+    "seats_per_row": 26
+  },
+  {
+    "id": 735,
+    "name": "Gokulam Cinemas Complex 1",
+    "location_id": 354,
+    "rows": 23,
+    "seats_per_row": 17
+  },
+  {
+    "id": 736,
+    "name": "Wave Cinemas Complex 1",
+    "location_id": 229,
+    "rows": 24,
+    "seats_per_row": 23
+  },
+  {
+    "id": 737,
+    "name": "M2K Cinemas Complex 1",
+    "location_id": 181,
+    "rows": 11,
+    "seats_per_row": 35
+  },
+  {
+    "id": 738,
+    "name": "Movietime Complex 1",
+    "location_id": 328,
+    "rows": 23,
+    "seats_per_row": 20
+  },
+  {
+    "id": 739,
+    "name": "Gold Cinema Complex 1",
+    "location_id": 344,
+    "rows": 11,
+    "seats_per_row": 14
+  },
+  {
+    "id": 740,
+    "name": "City Pride Complex 1",
+    "location_id": 263,
+    "rows": 22,
+    "seats_per_row": 23
+  },
+  {
+    "id": 741,
+    "name": "EVM Cinemas Complex 1",
+    "location_id": 16,
+    "rows": 15,
+    "seats_per_row": 42
+  },
+  {
+    "id": 742,
+    "name": "Aries Plex Complex 1",
+    "location_id": 312,
+    "rows": 14,
+    "seats_per_row": 39
+  },
+  {
+    "id": 743,
+    "name": "Broadway Cinemas Complex 1",
+    "location_id": 65,
+    "rows": 24,
+    "seats_per_row": 13
+  },
+  {
+    "id": 744,
+    "name": "Roopbani Cinema Complex 1",
+    "location_id": 331,
+    "rows": 12,
+    "seats_per_row": 19
+  },
+  {
+    "id": 745,
+    "name": "Liberty Cinema Complex 1",
+    "location_id": 197,
+    "rows": 21,
+    "seats_per_row": 23
+  },
+  {
+    "id": 746,
+    "name": "Regal Cinema Complex 1",
+    "location_id": 310,
+    "rows": 28,
+    "seats_per_row": 13
+  },
+  {
+    "id": 747,
+    "name": "Plaza Cinema Complex 1",
+    "location_id": 231,
+    "rows": 14,
+    "seats_per_row": 33
+  },
+  {
+    "id": 748,
+    "name": "Delite Cinema Complex 1",
+    "location_id": 228,
+    "rows": 21,
+    "seats_per_row": 23
+  },
+  {
+    "id": 749,
+    "name": "Roxy Cinema Complex 1",
+    "location_id": 71,
+    "rows": 12,
+    "seats_per_row": 30
+  },
+  {
+    "id": 750,
+    "name": "Empire Cinemas Complex 1",
+    "location_id": 204,
+    "rows": 26,
+    "seats_per_row": 23
+  },
+  {
+    "id": 751,
+    "name": "Galaxy Cinema Complex 1",
+    "location_id": 143,
+    "rows": 20,
+    "seats_per_row": 32
+  },
+  {
+    "id": 752,
+    "name": "Crown Cinema Complex 1",
+    "location_id": 59,
+    "rows": 17,
+    "seats_per_row": 42
+  },
+  {
+    "id": 753,
+    "name": "Capital Cinema Complex 1",
+    "location_id": 96,
+    "rows": 10,
+    "seats_per_row": 35
+  },
+  {
+    "id": 754,
+    "name": "Lighthouse Cinema Complex 1",
+    "location_id": 199,
+    "rows": 25,
+    "seats_per_row": 28
+  },
+  {
+    "id": 755,
+    "name": "Mayajaal Complex 1",
+    "location_id": 135,
+    "rows": 27,
+    "seats_per_row": 15
+  },
+  {
+    "id": 756,
+    "name": "Cine Hub Complex 1",
+    "location_id": 229,
+    "rows": 18,
+    "seats_per_row": 34
+  },
+  {
+    "id": 757,
+    "name": "Fun Cinemas Complex 1",
+    "location_id": 147,
+    "rows": 16,
+    "seats_per_row": 31
+  },
+  {
+    "id": 758,
+    "name": "Metro Cinema Complex 1",
+    "location_id": 63,
+    "rows": 25,
+    "seats_per_row": 18
+  },
+  {
+    "id": 759,
+    "name": "Sri Balaji Cinemas Complex 1",
+    "location_id": 38,
+    "rows": 14,
+    "seats_per_row": 39
+  },
+  {
+    "id": 760,
+    "name": "SRS Cinemas Complex 1",
+    "location_id": 366,
+    "rows": 24,
+    "seats_per_row": 17
+  },
+  {
+    "id": 761,
+    "name": "PVR World 1",
+    "location_id": 350,
+    "rows": 24,
+    "seats_per_row": 14
+  },
+  {
+    "id": 762,
+    "name": "INOX World 1",
+    "location_id": 178,
+    "rows": 20,
+    "seats_per_row": 33
+  },
+  {
+    "id": 763,
+    "name": "Cinepolis World 1",
+    "location_id": 278,
+    "rows": 12,
+    "seats_per_row": 29
+  },
+  {
+    "id": 764,
+    "name": "Miraj Cinemas World 1",
+    "location_id": 154,
+    "rows": 19,
+    "seats_per_row": 40
+  },
+  {
+    "id": 765,
+    "name": "Carnival Cinemas World 1",
+    "location_id": 364,
+    "rows": 15,
+    "seats_per_row": 34
+  },
+  {
+    "id": 766,
+    "name": "Mukta A2 Cinemas World 1",
+    "location_id": 186,
+    "rows": 15,
+    "seats_per_row": 37
+  },
+  {
+    "id": 767,
+    "name": "MovieTime Cinemas World 1",
+    "location_id": 63,
+    "rows": 26,
+    "seats_per_row": 19
+  },
+  {
+    "id": 768,
+    "name": "Rajhans Cinemas World 1",
+    "location_id": 72,
+    "rows": 16,
+    "seats_per_row": 37
+  },
+  {
+    "id": 769,
+    "name": "Asian Cinemas World 1",
+    "location_id": 253,
+    "rows": 17,
+    "seats_per_row": 37
+  },
+  {
+    "id": 770,
+    "name": "SPI Cinemas World 1",
+    "location_id": 284,
+    "rows": 10,
+    "seats_per_row": 23
+  },
+  {
+    "id": 771,
+    "name": "Sathyam Cinemas World 1",
+    "location_id": 240,
+    "rows": 28,
+    "seats_per_row": 23
+  },
+  {
+    "id": 772,
+    "name": "AGS Cinemas World 1",
+    "location_id": 314,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 773,
+    "name": "Prasads Multiplex World 1",
+    "location_id": 159,
+    "rows": 12,
+    "seats_per_row": 14
+  },
+  {
+    "id": 774,
+    "name": "Jazz Cinemas World 1",
+    "location_id": 369,
+    "rows": 22,
+    "seats_per_row": 34
+  },
+  {
+    "id": 775,
+    "name": "Gokulam Cinemas World 1",
+    "location_id": 211,
+    "rows": 25,
+    "seats_per_row": 28
+  },
+  {
+    "id": 776,
+    "name": "Wave Cinemas World 1",
+    "location_id": 295,
+    "rows": 23,
+    "seats_per_row": 38
+  },
+  {
+    "id": 777,
+    "name": "M2K Cinemas World 1",
+    "location_id": 163,
+    "rows": 12,
+    "seats_per_row": 16
+  },
+  {
+    "id": 778,
+    "name": "Movietime World 1",
+    "location_id": 239,
+    "rows": 12,
+    "seats_per_row": 26
+  },
+  {
+    "id": 779,
+    "name": "Gold Cinema World 1",
+    "location_id": 66,
+    "rows": 26,
+    "seats_per_row": 23
+  },
+  {
+    "id": 780,
+    "name": "City Pride World 1",
+    "location_id": 301,
+    "rows": 27,
+    "seats_per_row": 32
+  },
+  {
+    "id": 781,
+    "name": "EVM Cinemas World 1",
+    "location_id": 67,
+    "rows": 15,
+    "seats_per_row": 36
+  },
+  {
+    "id": 782,
+    "name": "Aries Plex World 1",
+    "location_id": 29,
+    "rows": 23,
+    "seats_per_row": 28
+  },
+  {
+    "id": 783,
+    "name": "Broadway Cinemas World 1",
+    "location_id": 79,
+    "rows": 13,
+    "seats_per_row": 28
+  },
+  {
+    "id": 784,
+    "name": "Roopbani Cinema World 1",
+    "location_id": 83,
+    "rows": 19,
+    "seats_per_row": 17
+  },
+  {
+    "id": 785,
+    "name": "Liberty Cinema World 1",
+    "location_id": 364,
+    "rows": 20,
+    "seats_per_row": 41
+  },
+  {
+    "id": 786,
+    "name": "Regal Cinema World 1",
+    "location_id": 266,
+    "rows": 17,
+    "seats_per_row": 23
+  },
+  {
+    "id": 787,
+    "name": "Plaza Cinema World 1",
+    "location_id": 41,
+    "rows": 19,
+    "seats_per_row": 39
+  },
+  {
+    "id": 788,
+    "name": "Delite Cinema World 1",
+    "location_id": 326,
+    "rows": 18,
+    "seats_per_row": 18
+  },
+  {
+    "id": 789,
+    "name": "Roxy Cinema World 1",
+    "location_id": 65,
+    "rows": 27,
+    "seats_per_row": 20
+  },
+  {
+    "id": 790,
+    "name": "Empire Cinemas World 1",
+    "location_id": 274,
+    "rows": 19,
+    "seats_per_row": 31
+  },
+  {
+    "id": 791,
+    "name": "Galaxy Cinema World 1",
+    "location_id": 329,
+    "rows": 12,
+    "seats_per_row": 28
+  },
+  {
+    "id": 792,
+    "name": "Crown Cinema World 1",
+    "location_id": 298,
+    "rows": 15,
+    "seats_per_row": 30
+  },
+  {
+    "id": 793,
+    "name": "Capital Cinema World 1",
+    "location_id": 338,
+    "rows": 14,
+    "seats_per_row": 17
+  },
+  {
+    "id": 794,
+    "name": "Lighthouse Cinema World 1",
+    "location_id": 289,
+    "rows": 20,
+    "seats_per_row": 38
+  },
+  {
+    "id": 795,
+    "name": "Mayajaal World 1",
+    "location_id": 15,
+    "rows": 11,
+    "seats_per_row": 38
+  },
+  {
+    "id": 796,
+    "name": "Cine Hub World 1",
+    "location_id": 329,
+    "rows": 12,
+    "seats_per_row": 13
+  },
+  {
+    "id": 797,
+    "name": "Fun Cinemas World 1",
+    "location_id": 334,
+    "rows": 28,
+    "seats_per_row": 20
+  },
+  {
+    "id": 798,
+    "name": "Metro Cinema World 1",
+    "location_id": 293,
+    "rows": 16,
+    "seats_per_row": 36
+  },
+  {
+    "id": 799,
+    "name": "Sri Balaji Cinemas World 1",
+    "location_id": 328,
+    "rows": 23,
+    "seats_per_row": 31
+  },
+  {
+    "id": 800,
+    "name": "SRS Cinemas World 1",
+    "location_id": 322,
+    "rows": 10,
+    "seats_per_row": 27
+  },
+  {
+    "id": 801,
+    "name": "PVR Mall 2",
+    "location_id": 329,
+    "rows": 27,
+    "seats_per_row": 21
+  },
+  {
+    "id": 802,
+    "name": "INOX Mall 2",
+    "location_id": 126,
+    "rows": 19,
+    "seats_per_row": 27
+  },
+  {
+    "id": 803,
+    "name": "Cinepolis Mall 2",
+    "location_id": 233,
+    "rows": 22,
+    "seats_per_row": 21
+  },
+  {
+    "id": 804,
+    "name": "Miraj Cinemas Mall 2",
+    "location_id": 31,
+    "rows": 12,
+    "seats_per_row": 34
+  },
+  {
+    "id": 805,
+    "name": "Carnival Cinemas Mall 2",
+    "location_id": 213,
+    "rows": 15,
+    "seats_per_row": 26
+  },
+  {
+    "id": 806,
+    "name": "Mukta A2 Cinemas Mall 2",
+    "location_id": 105,
+    "rows": 25,
+    "seats_per_row": 26
+  },
+  {
+    "id": 807,
+    "name": "MovieTime Cinemas Mall 2",
+    "location_id": 74,
+    "rows": 20,
+    "seats_per_row": 31
+  },
+  {
+    "id": 808,
+    "name": "Rajhans Cinemas Mall 2",
+    "location_id": 368,
+    "rows": 20,
+    "seats_per_row": 39
+  },
+  {
+    "id": 809,
+    "name": "Asian Cinemas Mall 2",
+    "location_id": 177,
+    "rows": 20,
+    "seats_per_row": 35
+  },
+  {
+    "id": 810,
+    "name": "SPI Cinemas Mall 2",
+    "location_id": 390,
+    "rows": 22,
+    "seats_per_row": 16
+  },
+  {
+    "id": 811,
+    "name": "Sathyam Cinemas Mall 2",
+    "location_id": 288,
+    "rows": 21,
+    "seats_per_row": 28
+  },
+  {
+    "id": 812,
+    "name": "AGS Cinemas Mall 2",
+    "location_id": 124,
+    "rows": 13,
+    "seats_per_row": 22
+  },
+  {
+    "id": 813,
+    "name": "Prasads Multiplex Mall 2",
+    "location_id": 137,
+    "rows": 24,
+    "seats_per_row": 15
+  },
+  {
+    "id": 814,
+    "name": "Jazz Cinemas Mall 2",
+    "location_id": 73,
+    "rows": 24,
+    "seats_per_row": 19
+  },
+  {
+    "id": 815,
+    "name": "Gokulam Cinemas Mall 2",
+    "location_id": 149,
+    "rows": 13,
+    "seats_per_row": 13
+  },
+  {
+    "id": 816,
+    "name": "Wave Cinemas Mall 2",
+    "location_id": 316,
+    "rows": 22,
+    "seats_per_row": 39
+  },
+  {
+    "id": 817,
+    "name": "M2K Cinemas Mall 2",
+    "location_id": 82,
+    "rows": 23,
+    "seats_per_row": 19
+  },
+  {
+    "id": 818,
+    "name": "Movietime Mall 2",
+    "location_id": 296,
+    "rows": 20,
+    "seats_per_row": 41
+  },
+  {
+    "id": 819,
+    "name": "Gold Cinema Mall 2",
+    "location_id": 391,
+    "rows": 20,
+    "seats_per_row": 18
+  },
+  {
+    "id": 820,
+    "name": "City Pride Mall 2",
+    "location_id": 264,
+    "rows": 15,
+    "seats_per_row": 27
+  },
+  {
+    "id": 821,
+    "name": "EVM Cinemas Mall 2",
+    "location_id": 158,
+    "rows": 24,
+    "seats_per_row": 27
+  },
+  {
+    "id": 822,
+    "name": "Aries Plex Mall 2",
+    "location_id": 47,
+    "rows": 25,
+    "seats_per_row": 12
+  },
+  {
+    "id": 823,
+    "name": "Broadway Cinemas Mall 2",
+    "location_id": 235,
+    "rows": 22,
+    "seats_per_row": 28
+  },
+  {
+    "id": 824,
+    "name": "Roopbani Cinema Mall 2",
+    "location_id": 299,
+    "rows": 17,
+    "seats_per_row": 18
+  },
+  {
+    "id": 825,
+    "name": "Liberty Cinema Mall 2",
+    "location_id": 26,
+    "rows": 21,
+    "seats_per_row": 13
+  },
+  {
+    "id": 826,
+    "name": "Regal Cinema Mall 2",
+    "location_id": 306,
+    "rows": 19,
+    "seats_per_row": 27
+  },
+  {
+    "id": 827,
+    "name": "Plaza Cinema Mall 2",
+    "location_id": 275,
+    "rows": 25,
+    "seats_per_row": 21
+  },
+  {
+    "id": 828,
+    "name": "Delite Cinema Mall 2",
+    "location_id": 56,
+    "rows": 10,
+    "seats_per_row": 39
+  },
+  {
+    "id": 829,
+    "name": "Roxy Cinema Mall 2",
+    "location_id": 136,
+    "rows": 23,
+    "seats_per_row": 16
+  },
+  {
+    "id": 830,
+    "name": "Empire Cinemas Mall 2",
+    "location_id": 207,
+    "rows": 21,
+    "seats_per_row": 36
+  },
+  {
+    "id": 831,
+    "name": "Galaxy Cinema Mall 2",
+    "location_id": 206,
+    "rows": 21,
+    "seats_per_row": 13
+  },
+  {
+    "id": 832,
+    "name": "Crown Cinema Mall 2",
+    "location_id": 288,
+    "rows": 11,
+    "seats_per_row": 30
+  },
+  {
+    "id": 833,
+    "name": "Capital Cinema Mall 2",
+    "location_id": 284,
+    "rows": 16,
+    "seats_per_row": 23
+  },
+  {
+    "id": 834,
+    "name": "Lighthouse Cinema Mall 2",
+    "location_id": 198,
+    "rows": 19,
+    "seats_per_row": 14
+  },
+  {
+    "id": 835,
+    "name": "Mayajaal Mall 2",
+    "location_id": 392,
+    "rows": 26,
+    "seats_per_row": 26
+  },
+  {
+    "id": 836,
+    "name": "Cine Hub Mall 2",
+    "location_id": 320,
+    "rows": 27,
+    "seats_per_row": 20
+  },
+  {
+    "id": 837,
+    "name": "Fun Cinemas Mall 2",
+    "location_id": 50,
+    "rows": 13,
+    "seats_per_row": 16
+  },
+  {
+    "id": 838,
+    "name": "Metro Cinema Mall 2",
+    "location_id": 174,
+    "rows": 22,
+    "seats_per_row": 23
+  },
+  {
+    "id": 839,
+    "name": "Sri Balaji Cinemas Mall 2",
+    "location_id": 188,
+    "rows": 27,
+    "seats_per_row": 42
+  },
+  {
+    "id": 840,
+    "name": "SRS Cinemas Mall 2",
+    "location_id": 309,
+    "rows": 14,
+    "seats_per_row": 18
+  },
+  {
+    "id": 841,
+    "name": "PVR Mega Mall 2",
+    "location_id": 257,
+    "rows": 26,
+    "seats_per_row": 24
+  },
+  {
+    "id": 842,
+    "name": "INOX Mega Mall 2",
+    "location_id": 20,
+    "rows": 11,
+    "seats_per_row": 13
+  },
+  {
+    "id": 843,
+    "name": "Cinepolis Mega Mall 2",
+    "location_id": 171,
+    "rows": 14,
+    "seats_per_row": 34
+  },
+  {
+    "id": 844,
+    "name": "Miraj Cinemas Mega Mall 2",
+    "location_id": 234,
+    "rows": 25,
+    "seats_per_row": 28
+  },
+  {
+    "id": 845,
+    "name": "Carnival Cinemas Mega Mall 2",
+    "location_id": 264,
+    "rows": 14,
+    "seats_per_row": 31
+  },
+  {
+    "id": 846,
+    "name": "Mukta A2 Cinemas Mega Mall 2",
+    "location_id": 314,
+    "rows": 14,
+    "seats_per_row": 22
+  },
+  {
+    "id": 847,
+    "name": "MovieTime Cinemas Mega Mall 2",
+    "location_id": 202,
+    "rows": 20,
+    "seats_per_row": 17
+  },
+  {
+    "id": 848,
+    "name": "Rajhans Cinemas Mega Mall 2",
+    "location_id": 173,
+    "rows": 19,
+    "seats_per_row": 30
+  },
+  {
+    "id": 849,
+    "name": "Asian Cinemas Mega Mall 2",
+    "location_id": 261,
+    "rows": 26,
+    "seats_per_row": 38
+  },
+  {
+    "id": 850,
+    "name": "SPI Cinemas Mega Mall 2",
+    "location_id": 363,
+    "rows": 27,
+    "seats_per_row": 27
+  },
+  {
+    "id": 851,
+    "name": "Sathyam Cinemas Mega Mall 2",
+    "location_id": 244,
+    "rows": 28,
+    "seats_per_row": 21
+  },
+  {
+    "id": 852,
+    "name": "AGS Cinemas Mega Mall 2",
+    "location_id": 170,
+    "rows": 10,
+    "seats_per_row": 23
+  },
+  {
+    "id": 853,
+    "name": "Prasads Multiplex Mega Mall 2",
+    "location_id": 299,
+    "rows": 13,
+    "seats_per_row": 25
+  },
+  {
+    "id": 854,
+    "name": "Jazz Cinemas Mega Mall 2",
+    "location_id": 372,
+    "rows": 19,
+    "seats_per_row": 37
+  },
+  {
+    "id": 855,
+    "name": "Gokulam Cinemas Mega Mall 2",
+    "location_id": 243,
+    "rows": 10,
+    "seats_per_row": 31
+  },
+  {
+    "id": 856,
+    "name": "Wave Cinemas Mega Mall 2",
+    "location_id": 336,
+    "rows": 18,
+    "seats_per_row": 42
+  },
+  {
+    "id": 857,
+    "name": "M2K Cinemas Mega Mall 2",
+    "location_id": 117,
+    "rows": 28,
+    "seats_per_row": 30
+  },
+  {
+    "id": 858,
+    "name": "Movietime Mega Mall 2",
+    "location_id": 246,
+    "rows": 11,
+    "seats_per_row": 30
+  },
+  {
+    "id": 859,
+    "name": "Gold Cinema Mega Mall 2",
+    "location_id": 323,
+    "rows": 15,
+    "seats_per_row": 28
+  },
+  {
+    "id": 860,
+    "name": "City Pride Mega Mall 2",
+    "location_id": 349,
+    "rows": 22,
+    "seats_per_row": 16
+  },
+  {
+    "id": 861,
+    "name": "EVM Cinemas Mega Mall 2",
+    "location_id": 294,
+    "rows": 17,
+    "seats_per_row": 13
+  },
+  {
+    "id": 862,
+    "name": "Aries Plex Mega Mall 2",
+    "location_id": 10,
+    "rows": 13,
+    "seats_per_row": 18
+  },
+  {
+    "id": 863,
+    "name": "Broadway Cinemas Mega Mall 2",
+    "location_id": 215,
+    "rows": 24,
+    "seats_per_row": 22
+  },
+  {
+    "id": 864,
+    "name": "Roopbani Cinema Mega Mall 2",
+    "location_id": 354,
+    "rows": 14,
+    "seats_per_row": 25
+  },
+  {
+    "id": 865,
+    "name": "Liberty Cinema Mega Mall 2",
+    "location_id": 257,
+    "rows": 16,
+    "seats_per_row": 25
+  },
+  {
+    "id": 866,
+    "name": "Regal Cinema Mega Mall 2",
+    "location_id": 377,
+    "rows": 25,
+    "seats_per_row": 39
+  },
+  {
+    "id": 867,
+    "name": "Plaza Cinema Mega Mall 2",
+    "location_id": 71,
+    "rows": 11,
+    "seats_per_row": 34
+  },
+  {
+    "id": 868,
+    "name": "Delite Cinema Mega Mall 2",
+    "location_id": 288,
+    "rows": 26,
+    "seats_per_row": 18
+  },
+  {
+    "id": 869,
+    "name": "Roxy Cinema Mega Mall 2",
+    "location_id": 245,
+    "rows": 20,
+    "seats_per_row": 33
+  },
+  {
+    "id": 870,
+    "name": "Empire Cinemas Mega Mall 2",
+    "location_id": 161,
+    "rows": 26,
+    "seats_per_row": 24
+  },
+  {
+    "id": 871,
+    "name": "Galaxy Cinema Mega Mall 2",
+    "location_id": 273,
+    "rows": 15,
+    "seats_per_row": 26
+  },
+  {
+    "id": 872,
+    "name": "Crown Cinema Mega Mall 2",
+    "location_id": 182,
+    "rows": 20,
+    "seats_per_row": 29
+  },
+  {
+    "id": 873,
+    "name": "Capital Cinema Mega Mall 2",
+    "location_id": 248,
+    "rows": 18,
+    "seats_per_row": 31
+  },
+  {
+    "id": 874,
+    "name": "Lighthouse Cinema Mega Mall 2",
+    "location_id": 127,
+    "rows": 16,
+    "seats_per_row": 42
+  },
+  {
+    "id": 875,
+    "name": "Mayajaal Mega Mall 2",
+    "location_id": 153,
+    "rows": 18,
+    "seats_per_row": 29
+  },
+  {
+    "id": 876,
+    "name": "Cine Hub Mega Mall 2",
+    "location_id": 153,
+    "rows": 17,
+    "seats_per_row": 42
+  },
+  {
+    "id": 877,
+    "name": "Fun Cinemas Mega Mall 2",
+    "location_id": 107,
+    "rows": 19,
+    "seats_per_row": 34
+  },
+  {
+    "id": 878,
+    "name": "Metro Cinema Mega Mall 2",
+    "location_id": 246,
+    "rows": 25,
+    "seats_per_row": 22
+  },
+  {
+    "id": 879,
+    "name": "Sri Balaji Cinemas Mega Mall 2",
+    "location_id": 370,
+    "rows": 21,
+    "seats_per_row": 29
+  },
+  {
+    "id": 880,
+    "name": "SRS Cinemas Mega Mall 2",
+    "location_id": 63,
+    "rows": 18,
+    "seats_per_row": 21
+  },
+  {
+    "id": 881,
+    "name": "PVR City Centre 2",
+    "location_id": 279,
+    "rows": 28,
+    "seats_per_row": 33
+  },
+  {
+    "id": 882,
+    "name": "INOX City Centre 2",
+    "location_id": 203,
+    "rows": 22,
+    "seats_per_row": 40
+  },
+  {
+    "id": 883,
+    "name": "Cinepolis City Centre 2",
+    "location_id": 75,
+    "rows": 21,
+    "seats_per_row": 42
+  },
+  {
+    "id": 884,
+    "name": "Miraj Cinemas City Centre 2",
+    "location_id": 148,
+    "rows": 19,
+    "seats_per_row": 13
+  },
+  {
+    "id": 885,
+    "name": "Carnival Cinemas City Centre 2",
+    "location_id": 227,
+    "rows": 12,
+    "seats_per_row": 23
+  },
+  {
+    "id": 886,
+    "name": "Mukta A2 Cinemas City Centre 2",
+    "location_id": 246,
+    "rows": 18,
+    "seats_per_row": 35
+  },
+  {
+    "id": 887,
+    "name": "MovieTime Cinemas City Centre 2",
+    "location_id": 276,
+    "rows": 16,
+    "seats_per_row": 18
+  },
+  {
+    "id": 888,
+    "name": "Rajhans Cinemas City Centre 2",
+    "location_id": 288,
+    "rows": 18,
+    "seats_per_row": 41
+  },
+  {
+    "id": 889,
+    "name": "Asian Cinemas City Centre 2",
+    "location_id": 56,
+    "rows": 18,
+    "seats_per_row": 16
+  },
+  {
+    "id": 890,
+    "name": "SPI Cinemas City Centre 2",
+    "location_id": 125,
+    "rows": 28,
+    "seats_per_row": 19
+  },
+  {
+    "id": 891,
+    "name": "Sathyam Cinemas City Centre 2",
+    "location_id": 272,
+    "rows": 11,
+    "seats_per_row": 33
+  },
+  {
+    "id": 892,
+    "name": "AGS Cinemas City Centre 2",
+    "location_id": 120,
+    "rows": 17,
+    "seats_per_row": 32
+  },
+  {
+    "id": 893,
+    "name": "Prasads Multiplex City Centre 2",
+    "location_id": 212,
+    "rows": 11,
+    "seats_per_row": 15
+  },
+  {
+    "id": 894,
+    "name": "Jazz Cinemas City Centre 2",
+    "location_id": 242,
+    "rows": 20,
+    "seats_per_row": 34
+  },
+  {
+    "id": 895,
+    "name": "Gokulam Cinemas City Centre 2",
+    "location_id": 71,
+    "rows": 13,
+    "seats_per_row": 33
+  },
+  {
+    "id": 896,
+    "name": "Wave Cinemas City Centre 2",
+    "location_id": 282,
+    "rows": 10,
+    "seats_per_row": 42
+  },
+  {
+    "id": 897,
+    "name": "M2K Cinemas City Centre 2",
+    "location_id": 335,
+    "rows": 15,
+    "seats_per_row": 25
+  },
+  {
+    "id": 898,
+    "name": "Movietime City Centre 2",
+    "location_id": 334,
+    "rows": 25,
+    "seats_per_row": 27
+  },
+  {
+    "id": 899,
+    "name": "Gold Cinema City Centre 2",
+    "location_id": 148,
+    "rows": 16,
+    "seats_per_row": 36
+  },
+  {
+    "id": 900,
+    "name": "City Pride City Centre 2",
+    "location_id": 331,
+    "rows": 20,
+    "seats_per_row": 21
+  },
+  {
+    "id": 901,
+    "name": "EVM Cinemas City Centre 2",
+    "location_id": 394,
+    "rows": 11,
+    "seats_per_row": 41
+  },
+  {
+    "id": 902,
+    "name": "Aries Plex City Centre 2",
+    "location_id": 294,
+    "rows": 12,
+    "seats_per_row": 32
+  },
+  {
+    "id": 903,
+    "name": "Broadway Cinemas City Centre 2",
+    "location_id": 379,
+    "rows": 17,
+    "seats_per_row": 29
+  },
+  {
+    "id": 904,
+    "name": "Roopbani Cinema City Centre 2",
+    "location_id": 90,
+    "rows": 11,
+    "seats_per_row": 41
+  },
+  {
+    "id": 905,
+    "name": "Liberty Cinema City Centre 2",
+    "location_id": 91,
+    "rows": 23,
+    "seats_per_row": 40
+  },
+  {
+    "id": 906,
+    "name": "Regal Cinema City Centre 2",
+    "location_id": 204,
+    "rows": 11,
+    "seats_per_row": 38
+  },
+  {
+    "id": 907,
+    "name": "Plaza Cinema City Centre 2",
+    "location_id": 384,
+    "rows": 25,
+    "seats_per_row": 17
+  },
+  {
+    "id": 908,
+    "name": "Delite Cinema City Centre 2",
+    "location_id": 20,
+    "rows": 19,
+    "seats_per_row": 40
+  },
+  {
+    "id": 909,
+    "name": "Roxy Cinema City Centre 2",
+    "location_id": 291,
+    "rows": 10,
+    "seats_per_row": 21
+  },
+  {
+    "id": 910,
+    "name": "Empire Cinemas City Centre 2",
+    "location_id": 172,
+    "rows": 13,
+    "seats_per_row": 41
+  },
+  {
+    "id": 911,
+    "name": "Galaxy Cinema City Centre 2",
+    "location_id": 329,
+    "rows": 19,
+    "seats_per_row": 26
+  },
+  {
+    "id": 912,
+    "name": "Crown Cinema City Centre 2",
+    "location_id": 253,
+    "rows": 27,
+    "seats_per_row": 28
+  },
+  {
+    "id": 913,
+    "name": "Capital Cinema City Centre 2",
+    "location_id": 259,
+    "rows": 14,
+    "seats_per_row": 39
+  },
+  {
+    "id": 914,
+    "name": "Lighthouse Cinema City Centre 2",
+    "location_id": 99,
+    "rows": 24,
+    "seats_per_row": 20
+  },
+  {
+    "id": 915,
+    "name": "Mayajaal City Centre 2",
+    "location_id": 84,
+    "rows": 13,
+    "seats_per_row": 22
+  },
+  {
+    "id": 916,
+    "name": "Cine Hub City Centre 2",
+    "location_id": 132,
+    "rows": 24,
+    "seats_per_row": 32
+  },
+  {
+    "id": 917,
+    "name": "Fun Cinemas City Centre 2",
+    "location_id": 378,
+    "rows": 15,
+    "seats_per_row": 12
+  },
+  {
+    "id": 918,
+    "name": "Metro Cinema City Centre 2",
+    "location_id": 152,
+    "rows": 20,
+    "seats_per_row": 37
+  },
+  {
+    "id": 919,
+    "name": "Sri Balaji Cinemas City Centre 2",
+    "location_id": 388,
+    "rows": 28,
+    "seats_per_row": 33
+  },
+  {
+    "id": 920,
+    "name": "SRS Cinemas City Centre 2",
+    "location_id": 313,
+    "rows": 16,
+    "seats_per_row": 17
+  },
+  {
+    "id": 921,
+    "name": "PVR Forum 2",
+    "location_id": 219,
+    "rows": 22,
+    "seats_per_row": 38
+  },
+  {
+    "id": 922,
+    "name": "INOX Forum 2",
+    "location_id": 45,
+    "rows": 26,
+    "seats_per_row": 22
+  },
+  {
+    "id": 923,
+    "name": "Cinepolis Forum 2",
+    "location_id": 49,
+    "rows": 22,
+    "seats_per_row": 33
+  },
+  {
+    "id": 924,
+    "name": "Miraj Cinemas Forum 2",
+    "location_id": 245,
+    "rows": 15,
+    "seats_per_row": 16
+  },
+  {
+    "id": 925,
+    "name": "Carnival Cinemas Forum 2",
+    "location_id": 128,
+    "rows": 20,
+    "seats_per_row": 41
+  },
+  {
+    "id": 926,
+    "name": "Mukta A2 Cinemas Forum 2",
+    "location_id": 197,
+    "rows": 10,
+    "seats_per_row": 20
+  },
+  {
+    "id": 927,
+    "name": "MovieTime Cinemas Forum 2",
+    "location_id": 386,
+    "rows": 17,
+    "seats_per_row": 26
+  },
+  {
+    "id": 928,
+    "name": "Rajhans Cinemas Forum 2",
+    "location_id": 169,
+    "rows": 18,
+    "seats_per_row": 42
+  },
+  {
+    "id": 929,
+    "name": "Asian Cinemas Forum 2",
+    "location_id": 371,
+    "rows": 19,
+    "seats_per_row": 30
+  },
+  {
+    "id": 930,
+    "name": "SPI Cinemas Forum 2",
+    "location_id": 134,
+    "rows": 28,
+    "seats_per_row": 12
+  },
+  {
+    "id": 931,
+    "name": "Sathyam Cinemas Forum 2",
+    "location_id": 121,
+    "rows": 21,
+    "seats_per_row": 34
+  },
+  {
+    "id": 932,
+    "name": "AGS Cinemas Forum 2",
+    "location_id": 61,
+    "rows": 11,
+    "seats_per_row": 33
+  },
+  {
+    "id": 933,
+    "name": "Prasads Multiplex Forum 2",
+    "location_id": 82,
+    "rows": 24,
+    "seats_per_row": 21
+  },
+  {
+    "id": 934,
+    "name": "Jazz Cinemas Forum 2",
+    "location_id": 258,
+    "rows": 22,
+    "seats_per_row": 33
+  },
+  {
+    "id": 935,
+    "name": "Gokulam Cinemas Forum 2",
+    "location_id": 61,
+    "rows": 19,
+    "seats_per_row": 34
+  },
+  {
+    "id": 936,
+    "name": "Wave Cinemas Forum 2",
+    "location_id": 315,
+    "rows": 19,
+    "seats_per_row": 23
+  },
+  {
+    "id": 937,
+    "name": "M2K Cinemas Forum 2",
+    "location_id": 69,
+    "rows": 17,
+    "seats_per_row": 19
+  },
+  {
+    "id": 938,
+    "name": "Movietime Forum 2",
+    "location_id": 233,
+    "rows": 25,
+    "seats_per_row": 16
+  },
+  {
+    "id": 939,
+    "name": "Gold Cinema Forum 2",
+    "location_id": 360,
+    "rows": 21,
+    "seats_per_row": 25
+  },
+  {
+    "id": 940,
+    "name": "City Pride Forum 2",
+    "location_id": 242,
+    "rows": 27,
+    "seats_per_row": 41
+  },
+  {
+    "id": 941,
+    "name": "EVM Cinemas Forum 2",
+    "location_id": 341,
+    "rows": 27,
+    "seats_per_row": 37
+  },
+  {
+    "id": 942,
+    "name": "Aries Plex Forum 2",
+    "location_id": 127,
+    "rows": 16,
+    "seats_per_row": 36
+  },
+  {
+    "id": 943,
+    "name": "Broadway Cinemas Forum 2",
+    "location_id": 229,
+    "rows": 12,
+    "seats_per_row": 28
+  },
+  {
+    "id": 944,
+    "name": "Roopbani Cinema Forum 2",
+    "location_id": 186,
+    "rows": 26,
+    "seats_per_row": 34
+  },
+  {
+    "id": 945,
+    "name": "Liberty Cinema Forum 2",
+    "location_id": 289,
+    "rows": 12,
+    "seats_per_row": 41
+  },
+  {
+    "id": 946,
+    "name": "Regal Cinema Forum 2",
+    "location_id": 281,
+    "rows": 13,
+    "seats_per_row": 13
+  },
+  {
+    "id": 947,
+    "name": "Plaza Cinema Forum 2",
+    "location_id": 294,
+    "rows": 26,
+    "seats_per_row": 18
+  },
+  {
+    "id": 948,
+    "name": "Delite Cinema Forum 2",
+    "location_id": 85,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 949,
+    "name": "Roxy Cinema Forum 2",
+    "location_id": 267,
+    "rows": 20,
+    "seats_per_row": 39
+  },
+  {
+    "id": 950,
+    "name": "Empire Cinemas Forum 2",
+    "location_id": 349,
+    "rows": 24,
+    "seats_per_row": 15
+  },
+  {
+    "id": 951,
+    "name": "Galaxy Cinema Forum 2",
+    "location_id": 299,
+    "rows": 16,
+    "seats_per_row": 34
+  },
+  {
+    "id": 952,
+    "name": "Crown Cinema Forum 2",
+    "location_id": 262,
+    "rows": 25,
+    "seats_per_row": 14
+  },
+  {
+    "id": 953,
+    "name": "Capital Cinema Forum 2",
+    "location_id": 29,
+    "rows": 24,
+    "seats_per_row": 37
+  },
+  {
+    "id": 954,
+    "name": "Lighthouse Cinema Forum 2",
+    "location_id": 263,
+    "rows": 24,
+    "seats_per_row": 16
+  },
+  {
+    "id": 955,
+    "name": "Mayajaal Forum 2",
+    "location_id": 289,
+    "rows": 23,
+    "seats_per_row": 26
+  },
+  {
+    "id": 956,
+    "name": "Cine Hub Forum 2",
+    "location_id": 237,
+    "rows": 11,
+    "seats_per_row": 29
+  },
+  {
+    "id": 957,
+    "name": "Fun Cinemas Forum 2",
+    "location_id": 12,
+    "rows": 19,
+    "seats_per_row": 35
+  },
+  {
+    "id": 958,
+    "name": "Metro Cinema Forum 2",
+    "location_id": 2,
+    "rows": 22,
+    "seats_per_row": 20
+  },
+  {
+    "id": 959,
+    "name": "Sri Balaji Cinemas Forum 2",
+    "location_id": 38,
+    "rows": 16,
+    "seats_per_row": 30
+  },
+  {
+    "id": 960,
+    "name": "SRS Cinemas Forum 2",
+    "location_id": 177,
+    "rows": 11,
+    "seats_per_row": 25
+  },
+  {
+    "id": 961,
+    "name": "PVR Central 2",
+    "location_id": 31,
+    "rows": 12,
+    "seats_per_row": 29
+  },
+  {
+    "id": 962,
+    "name": "INOX Central 2",
+    "location_id": 242,
+    "rows": 12,
+    "seats_per_row": 41
+  },
+  {
+    "id": 963,
+    "name": "Cinepolis Central 2",
+    "location_id": 210,
+    "rows": 11,
+    "seats_per_row": 21
+  },
+  {
+    "id": 964,
+    "name": "Miraj Cinemas Central 2",
+    "location_id": 70,
+    "rows": 15,
+    "seats_per_row": 36
+  },
+  {
+    "id": 965,
+    "name": "Carnival Cinemas Central 2",
+    "location_id": 196,
+    "rows": 23,
+    "seats_per_row": 23
+  },
+  {
+    "id": 966,
+    "name": "Mukta A2 Cinemas Central 2",
+    "location_id": 194,
+    "rows": 24,
+    "seats_per_row": 39
+  },
+  {
+    "id": 967,
+    "name": "MovieTime Cinemas Central 2",
+    "location_id": 350,
+    "rows": 22,
+    "seats_per_row": 14
+  },
+  {
+    "id": 968,
+    "name": "Rajhans Cinemas Central 2",
+    "location_id": 335,
+    "rows": 27,
+    "seats_per_row": 16
+  },
+  {
+    "id": 969,
+    "name": "Asian Cinemas Central 2",
+    "location_id": 92,
+    "rows": 21,
+    "seats_per_row": 15
+  },
+  {
+    "id": 970,
+    "name": "SPI Cinemas Central 2",
+    "location_id": 271,
+    "rows": 27,
+    "seats_per_row": 24
+  },
+  {
+    "id": 971,
+    "name": "Sathyam Cinemas Central 2",
+    "location_id": 115,
+    "rows": 14,
+    "seats_per_row": 35
+  },
+  {
+    "id": 972,
+    "name": "AGS Cinemas Central 2",
+    "location_id": 12,
+    "rows": 10,
+    "seats_per_row": 36
+  },
+  {
+    "id": 973,
+    "name": "Prasads Multiplex Central 2",
+    "location_id": 345,
+    "rows": 19,
+    "seats_per_row": 26
+  },
+  {
+    "id": 974,
+    "name": "Jazz Cinemas Central 2",
+    "location_id": 273,
+    "rows": 27,
+    "seats_per_row": 25
+  },
+  {
+    "id": 975,
+    "name": "Gokulam Cinemas Central 2",
+    "location_id": 118,
+    "rows": 22,
+    "seats_per_row": 38
+  },
+  {
+    "id": 976,
+    "name": "Wave Cinemas Central 2",
+    "location_id": 178,
+    "rows": 17,
+    "seats_per_row": 26
+  },
+  {
+    "id": 977,
+    "name": "M2K Cinemas Central 2",
+    "location_id": 97,
+    "rows": 14,
+    "seats_per_row": 20
+  },
+  {
+    "id": 978,
+    "name": "Movietime Central 2",
+    "location_id": 339,
+    "rows": 13,
+    "seats_per_row": 13
+  },
+  {
+    "id": 979,
+    "name": "Gold Cinema Central 2",
+    "location_id": 393,
+    "rows": 23,
+    "seats_per_row": 31
+  },
+  {
+    "id": 980,
+    "name": "City Pride Central 2",
+    "location_id": 106,
+    "rows": 10,
+    "seats_per_row": 19
+  },
+  {
+    "id": 981,
+    "name": "EVM Cinemas Central 2",
+    "location_id": 305,
+    "rows": 12,
+    "seats_per_row": 15
+  },
+  {
+    "id": 982,
+    "name": "Aries Plex Central 2",
+    "location_id": 307,
+    "rows": 11,
+    "seats_per_row": 26
+  },
+  {
+    "id": 983,
+    "name": "Broadway Cinemas Central 2",
+    "location_id": 380,
+    "rows": 11,
+    "seats_per_row": 19
+  },
+  {
+    "id": 984,
+    "name": "Roopbani Cinema Central 2",
+    "location_id": 225,
+    "rows": 11,
+    "seats_per_row": 24
+  },
+  {
+    "id": 985,
+    "name": "Liberty Cinema Central 2",
+    "location_id": 112,
+    "rows": 17,
+    "seats_per_row": 29
+  },
+  {
+    "id": 986,
+    "name": "Regal Cinema Central 2",
+    "location_id": 258,
+    "rows": 11,
+    "seats_per_row": 16
+  },
+  {
+    "id": 987,
+    "name": "Plaza Cinema Central 2",
+    "location_id": 375,
+    "rows": 19,
+    "seats_per_row": 19
+  },
+  {
+    "id": 988,
+    "name": "Delite Cinema Central 2",
+    "location_id": 296,
+    "rows": 28,
+    "seats_per_row": 22
+  },
+  {
+    "id": 989,
+    "name": "Roxy Cinema Central 2",
+    "location_id": 155,
+    "rows": 20,
+    "seats_per_row": 19
+  },
+  {
+    "id": 990,
+    "name": "Empire Cinemas Central 2",
+    "location_id": 267,
+    "rows": 14,
+    "seats_per_row": 33
+  },
+  {
+    "id": 991,
+    "name": "Galaxy Cinema Central 2",
+    "location_id": 154,
+    "rows": 17,
+    "seats_per_row": 25
+  },
+  {
+    "id": 992,
+    "name": "Crown Cinema Central 2",
+    "location_id": 286,
+    "rows": 18,
+    "seats_per_row": 13
+  },
+  {
+    "id": 993,
+    "name": "Capital Cinema Central 2",
+    "location_id": 377,
+    "rows": 28,
+    "seats_per_row": 40
+  },
+  {
+    "id": 994,
+    "name": "Lighthouse Cinema Central 2",
+    "location_id": 348,
+    "rows": 15,
+    "seats_per_row": 32
+  },
+  {
+    "id": 995,
+    "name": "Mayajaal Central 2",
+    "location_id": 254,
+    "rows": 23,
+    "seats_per_row": 29
+  },
+  {
+    "id": 996,
+    "name": "Cine Hub Central 2",
+    "location_id": 330,
+    "rows": 11,
+    "seats_per_row": 23
+  },
+  {
+    "id": 997,
+    "name": "Fun Cinemas Central 2",
+    "location_id": 269,
+    "rows": 22,
+    "seats_per_row": 37
+  },
+  {
+    "id": 998,
+    "name": "Metro Cinema Central 2",
+    "location_id": 214,
+    "rows": 20,
+    "seats_per_row": 34
+  },
+  {
+    "id": 999,
+    "name": "Sri Balaji Cinemas Central 2",
+    "location_id": 154,
+    "rows": 23,
+    "seats_per_row": 16
+  },
+  {
+    "id": 1000,
+    "name": "SRS Cinemas Central 2",
+    "location_id": 387,
+    "rows": 22,
+    "seats_per_row": 17
+  }
+]
