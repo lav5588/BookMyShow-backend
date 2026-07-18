@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "apps.movie",
     "apps.user",
     "apps.seat_booking",
+    "apps.contactus",
     "rest_framework",
     "rest_framework_simplejwt",
     "rest_framework_simplejwt.token_blacklist",
