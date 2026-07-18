@@ -1,6 +1,9 @@
 from django.db.models import Prefetch
+from django.db.models.functions import TruncDate
 from django.utils import timezone
 from rest_framework.generics import ListAPIView, RetrieveAPIView
+from rest_framework.response import Response
+from rest_framework.views import APIView
 
 from apps.movie.models import Language, Movie
 from apps.movie.serializers import LanguageSerializer
@@ -101,3 +104,38 @@ class MovieLanguageListAPIView(ListAPIView):
         movie_id = self.kwargs["movie_id"]
 
         return Language.objects.filter(movies__id=movie_id).distinct()
+
+
+class AvailableUpcomingSlotsDatesByCinema(APIView):
+    def get_queryset(self):
+        pk = self.kwargs["pk"]
+
+        return (
+            Slot.objects.filter(cinema_id=pk, date_time__gte=timezone.now())
+            .annotate(date=TruncDate("date_time"))
+            .values_list("date", flat=True)
+            .distinct()
+            .order_by("date")
+        )
+
+    def get(self, request, *args, **kwargs):
+        return Response(list(self.get_queryset()))
+
+
+class AvailableUpcomingSlotsDatesByMovieSlug(APIView):
+    def get_queryset(self):
+        slug = self.kwargs["slug"]
+
+        return (
+            Slot.objects.filter(
+                movie__slug=slug,
+                date_time__gte=timezone.now(),
+            )
+            .annotate(date=TruncDate("date_time"))
+            .values_list("date", flat=True)
+            .distinct()
+            .order_by("date")
+        )
+
+    def get(self, request, *args, **kwargs):
+        return Response(list(self.get_queryset()))

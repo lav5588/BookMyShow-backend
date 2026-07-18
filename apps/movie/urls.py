@@ -1,6 +1,10 @@
 from django.urls import path
 
-from apps.cinema.views import MovieLanguageListAPIView, SlotsByMovieSlug
+from apps.cinema.views import (
+    AvailableUpcomingSlotsDatesByMovieSlug,
+    MovieLanguageListAPIView,
+    SlotsByMovieSlug,
+)
 
 from .views import (
     GenreView,
@@ -22,6 +26,11 @@ urlpatterns = [
         "<slug:slug>/movie-slots/",
         SlotsByMovieSlug.as_view(),
         name="slots-by-movie-slug",
+    ),
+    path(
+        "<slug:slug>/available-slots-dates/",
+        AvailableUpcomingSlotsDatesByMovieSlug.as_view(),
+        name="available-slots-dates-by-movie-slug",
     ),
     path(
         "<int:movie_id>/languages/",

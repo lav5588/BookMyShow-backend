@@ -3,7 +3,8 @@ from datetime import timedelta
 from pathlib import Path
 
 from django.core.management.base import BaseCommand
-from django.db import transaction
+from django.core.management.color import no_style
+from django.db import connection, transaction
 
 from apps.cinema import (
     models as cinema_models,
@@ -71,6 +72,27 @@ class Command(BaseCommand):
         self.stdout.write("Dumping seatbookings...")
         self.dump_seat_bookings()
         self.stdout.write(self.style.SUCCESS("✓ seatbookings dumped successfully."))
+
+        # reset sequence
+        self.stdout.write("Sequence resetting...")
+        sequence_sql = connection.ops.sequence_reset_sql(
+            no_style(),
+            [
+                cinema_models.Cinema,
+                cinema_models.Location,
+                cinema_models.Slot,
+                movie_models.Language,
+                movie_models.Genre,
+                movie_models.Movie,
+                SeatBooking,
+                User,
+            ],
+        )
+        self.stdout.write(self.style.SUCCESS("✓ Sequence resetted successfully."))
+
+        with connection.cursor() as cursor:
+            for sql in sequence_sql:
+                cursor.execute(sql)
 
     def dump_locations(self):
         """Dump locations from JSON into the database."""
