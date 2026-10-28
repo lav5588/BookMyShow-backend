@@ -5,7 +5,7 @@ The BookMyShow backend project was designed, developed, and maintained by:
 ## Lead Author & Maintainer
 
 <a href="https://github.com/lav5588">
-  <img src="https://github.com/lav5588.png" width="80" height="80" style="border-radius: 50%;" alt="Lav Kumar Yadav" />
+  <img src="https://wsrv.nl/?url=https://github.com/lav5588.png&h=80&w=80&fit=cover&mask=circle" width="80" height="80" style="border-radius: 50%;" alt="Lav Kumar Yadav" />
 </a>
 
 ### [Lav Kumar Yadav](https://github.com/lav5588)

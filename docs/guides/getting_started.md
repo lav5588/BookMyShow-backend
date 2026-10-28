@@ -221,38 +221,7 @@ The `Pipfile` comes pre-configured with productive shorthand commands:
 
 ---
 
-## 12. Running Tests & Code Quality
-
-### 12.1 Automated Test Suite
-Run all unit and integration tests across all modules:
-```bash
-pipenv run test
-```
-
-To run tests for a specific application:
-```bash
-python manage.py test apps.seat_booking
-python manage.py test apps.cinema
-python manage.py test apps.movie
-python manage.py test apps.user
-python manage.py test apps.contactus
-```
-
-### 12.2 Linting & Formatting
-```bash
-# Check for lint violations
-pipenv run lint
-
-# Auto-fix lint violations
-pipenv run lint-fix
-
-# Format code
-pipenv run format
-```
-
----
-
-## 13. Connecting with Frontend
+## 12. Connecting with Frontend
 
 This backend is designed to seamlessly pair with the BookMyShow Frontend:
 - **Frontend Repository**: [BookMyShow-frontend](https://github.com/lav5588/BookMyShow-frontend)
