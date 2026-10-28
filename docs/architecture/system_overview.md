@@ -10,7 +10,7 @@ The BookMyShow backend follows a modular, decoupled Layered Architecture built w
 
 ```mermaid
 flowchart TD
-    Client["Frontend Client\n(React / Next.js / Mobile)"]
+    Client["Frontend Client\n(React)"]
 
     subgraph Gateway["Edge & Gateway Layer"]
         CORS["CORS Middleware\n(django-cors-headers)"]

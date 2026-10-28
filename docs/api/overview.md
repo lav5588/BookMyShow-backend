@@ -137,23 +137,8 @@ The API supports precise filtering for scheduling and catalog discovery:
 
 ---
 
-## 6. HTTP Status Codes
+## 6. Next Steps
 
-| Code | Status | Meaning in BookMyShow API |
-| :--- | :--- | :--- |
-| **`200 OK`** | Success | Request succeeded; returned resource or list |
-| **`201 Created`** | Created | Resource successfully created (User, Booking, Query) |
-| **`400 Bad Request`** | Client Error | Malformed request, invalid payload, or validation error |
-| **`401 Unauthorized`** | Authentication Failure | Missing or invalid Bearer JWT access token |
-| **`403 Forbidden`** | Authorization Failure | Insufficient permissions to access this resource |
-| **`404 Not Found`** | Resource Missing | Movie slug, cinema ID, or booking ID does not exist |
-| **`409 Conflict`** | Resource Conflict | Attempting to book a seat that is already booked or pending |
-| **`500 Internal Error`**| Server Error | Unexpected server-side exception |
-
----
-
-## 7. Next Steps
-
-- Explore the full endpoint reference: [`docs/api/endpoints.md`](file:///c:/Users/lavku/Projects/BookMyShow/backend/docs/api/endpoints.md)
-- Learn how to run the project locally: [`docs/guides/getting_started.md`](file:///c:/Users/lavku/Projects/BookMyShow/backend/docs/guides/getting_started.md)
-- Understand the architecture: [`docs/architecture/system_overview.md`](file:///c:/Users/lavku/Projects/BookMyShow/backend/docs/architecture/system_overview.md)
+- Explore the full endpoint reference: [`docs/api/endpoints.md`](endpoints.md)
+- Learn how to run the project locally: [`docs/guides/getting_started.md`](../guides/getting_started.md)
+- Understand the architecture: [`docs/architecture/system_overview.md`](../architecture/system_overview.md)

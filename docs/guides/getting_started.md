@@ -116,7 +116,18 @@ pipenv run migrate
 
 ---
 
-## 7. Seed Data with Fixtures
+## 7. Create an Admin Account
+
+To access the Django admin portal, create a superuser:
+
+```bash
+pipenv run createsuperuser
+```
+Provide an email, name, and strong password when prompted.
+
+---
+
+## 8. Seed Data with Fixtures
 
 The backend provides a custom management command (`dump-fixtures`) that loads comprehensive sample data from `fixtures/`:
 - Locations (Mumbai, Delhi, Bengaluru, etc.)
@@ -144,7 +155,7 @@ Dumping Genres... ✓ genres dumped successfully.
 
 ---
 
-## 8. Populate Media Assets (Posters & Profile Photos)
+## 9. Populate Media Assets (Posters & Profile Photos)
 
 To populate movie posters and mock user photos with real images, execute the provided helper scripts via the Django shell.
 
@@ -153,15 +164,15 @@ Open the Django interactive shell:
 python manage.py shell
 ```
 
-### 8.1 Movie Posters:
-Copy and paste the code from [`scripts/fill-movie-poster.py`](file:///c:/Users/lavku/Projects/BookMyShow/backend/scripts/fill-movie-poster.py) into the shell, or execute:
+### 9.1 Movie Posters:
+Copy and paste the code from [`scripts/fill-movie-poster.py`](../../scripts/fill-movie-poster.py) into the shell, or execute:
 ```python
 with open("scripts/fill-movie-poster.py") as f:
     exec(f.read())
 ```
 
-### 8.2 User Profile Avatars:
-Copy and paste the code from [`scripts/fill-user-photos.py`](file:///c:/Users/lavku/Projects/BookMyShow/backend/scripts/fill-user-photos.py) into the shell, or execute:
+### 9.2 User Profile Avatars:
+Copy and paste the code from [`scripts/fill-user-photos.py`](../../scripts/fill-user-photos.py) into the shell, or execute:
 ```python
 with open("scripts/fill-user-photos.py") as f:
     exec(f.read())
@@ -171,17 +182,6 @@ Exit the shell:
 ```python
 exit()
 ```
-
----
-
-## 9. Create an Admin Account
-
-To access the Django admin portal, create a superuser:
-
-```bash
-pipenv run createsuperuser
-```
-Provide an email, name, and strong password when prompted.
 
 ---
 
@@ -205,7 +205,7 @@ The server will be accessible at:
 
 The `Pipfile` comes pre-configured with productive shorthand commands:
 
-| Command | Shorthand | What it does |
+| Shorthand | Command | What it does |
 | :--- | :--- | :--- |
 | `pipenv run start` | `python manage.py runserver` | Starts local dev server |
 | `pipenv run migrate` | `python manage.py migrate` | Runs pending migrations |

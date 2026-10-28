@@ -57,15 +57,3 @@ schema.yml              @lav5588
 /docs/                  @lav5588
 README.md               @lav5588
 ```
-
----
-
-## Review Expectations & Responsibilities
-
-1. **Review SLA**: Code owners aim to review incoming pull requests within 48 to 72 hours.
-2. **Quality Checks**:
-   - Verify that all unit and integration tests pass.
-   - Verify that database migrations are safe, backward-compatible, and properly indexed.
-   - Ensure Ruff linting and formatting pass without warnings.
-   - Verify that any endpoint modifications are documented in [`docs/api/endpoints.md`](file:///c:/Users/lavku/Projects/BookMyShow/backend/docs/api/endpoints.md) and covered in the OpenAPI specification.
-3. **Security Audits**: Changes touching authentication (`apps/user/`), token rotation, or transactional booking locks (`apps/seat_booking/`) require thorough code owner verification before merging.

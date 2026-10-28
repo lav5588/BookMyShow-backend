@@ -31,9 +31,9 @@ Explore the comprehensive project documentation:
 - **[Authentication & Security Flow](docs/architecture/authentication_flow.md)**: Hybrid JWT + HttpOnly cookie model, token rotation, blacklisting, and security protocols.
 
 ### 👥 Community & Governance
-- **[Authors](docs/AUTHORS.md)**: Project architect and maintainer details.
-- **[Contributors](docs/Contributors.md)**: Contribution guidelines, code standards, and roadmap ideas.
-- **[Code Owners](docs/codeowners.md)**: Repository code ownership specification and review guidelines.
+- **[Authors](docs/AUTHORS.md)**: Project maintainer and contributor profile details.
+- **[Contributors](docs/Contributors.md)**: Contributor recognition and primary contributions.
+- **[Code Owners](docs/codeowners.md)**: Repository code ownership specification.
 
 ---
 
@@ -157,11 +157,3 @@ python manage.py test apps.cinema
 python manage.py test apps.movie
 python manage.py test apps.user
 ```
-
----
-
-## 👥 Authors & Maintainers
-
-- **Lav Kumar Yadav** ([@lav5588](https://github.com/lav5588)) - Lead Architect & Maintainer
-
-See [`docs/AUTHORS.md`](docs/AUTHORS.md) and [`docs/Contributors.md`](docs/Contributors.md) for full credits and contribution guidelines.

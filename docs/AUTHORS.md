@@ -4,10 +4,14 @@ The BookMyShow backend project was designed, developed, and maintained by:
 
 ## Lead Author & Maintainer
 
-- **Lav Kumar Yadav**
-  - **GitHub**: [@lav5588](https://github.com/lav5588)
-  - **Email**: [lavkumar3000@gmail.com](mailto:lavkumar3000@gmail.com)
-  - **Project Roles**: Lead Software Architect, Backend Engineering, Database Design, Concurrency & Seat Booking Engine, API Design, and Fixture Management.
+<a href="https://github.com/lav5588">
+  <img src="https://github.com/lav5588.png" width="80" height="80" style="border-radius: 50%;" alt="Lav Kumar Yadav" />
+</a>
+
+### [Lav Kumar Yadav](https://github.com/lav5588)
+- **GitHub**: [@lav5588](https://github.com/lav5588)
+- **Email**: [lavkumar3000@gmail.com](mailto:lavkumar3000@gmail.com)
+- **Project Roles**: Backend Engineering, Database Design, Concurrency & Seat Booking Engine, API Design, and Fixture Management.
 
 ---
 

@@ -134,7 +134,7 @@ With PostgreSQL partial conditional indexes:
 
 ## 4. Seat Cancellation Workflow
 
-Cancellation is managed via [`apps.seat_booking.views.CancelBookingView`](file:///c:/Users/lavku/Projects/BookMyShow/backend/apps/seat_booking/views.py#L123-L137):
+Cancellation is managed via [`apps.seat_booking.views.CancelBookingView`](../../apps/seat_booking/views.py):
 
 ```mermaid
 flowchart TD

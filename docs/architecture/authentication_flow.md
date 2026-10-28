@@ -109,7 +109,7 @@ sequenceDiagram
 
 ## 3. Password Policies & Validation
 
-All user registration and password updates are checked against a strict multi-tiered validator stack defined in [`apps/user/validators.py`](file:///c:/Users/lavku/Projects/BookMyShow/backend/apps/user/validators.py):
+All user registration and password updates are checked against a strict multi-tiered validator stack defined in [`apps/user/validators.py`](../../apps/user/validators.py):
 
 1. **Length**: Minimum 8 characters.
 2. **Character Classes**:
