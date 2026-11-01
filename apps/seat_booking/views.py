@@ -1,4 +1,4 @@
-from django.db import transaction
+from django.db import IntegrityError, transaction
 from django.db.models import Q
 from django.utils import timezone
 from rest_framework import serializers, status
@@ -83,34 +83,42 @@ class BookMultipleSeatsView(CreateAPIView):
             seen.add(key)
             seats.append(key)
 
-        existing = SeatBooking.objects.filter(
-            query,
-            slot=slot,
-            status__in=[BookingStatus.BOOKED, BookingStatus.PENDING],
-        ).exists()
+        existing_seats = list(
+            SeatBooking.objects.filter(
+                query,
+                slot=slot,
+                status__in=[BookingStatus.BOOKED, BookingStatus.PENDING],
+            ).values_list("row_number", "seat_number")
+        )
 
-        if existing:
+        if existing_seats:
             return Response(
                 {
                     "message": "Some seats are already booked",
-                    "seats": list(existing),
+                    "seats": existing_seats,
                 },
                 status=status.HTTP_409_CONFLICT,
             )
 
-        with transaction.atomic():
-            bookings = [
-                SeatBooking(
-                    slot=slot,
-                    row_number=row,
-                    seat_number=number,
-                    user=request.user,
-                    status=BookingStatus.BOOKED,
-                )
-                for row, number in seats
-            ]
+        try:
+            with transaction.atomic():
+                bookings = [
+                    SeatBooking(
+                        slot=slot,
+                        row_number=row,
+                        seat_number=number,
+                        user=request.user,
+                        status=BookingStatus.BOOKED,
+                    )
+                    for row, number in seats
+                ]
 
-            SeatBooking.objects.bulk_create(bookings)
+                SeatBooking.objects.bulk_create(bookings)
+        except IntegrityError:
+            return Response(
+                {"message": "Some seats are already booked"},
+                status=status.HTTP_409_CONFLICT,
+            )
 
         return Response(
             {
